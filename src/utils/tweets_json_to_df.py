@@ -13,9 +13,13 @@ end = datetime.date(2020, 12, 31)
 for filename in os.listdir(dir_path):
     date_time_obj = datetime.datetime.strptime(
         filename.split('.')[0], '%Y%m%d')
-    print(date_time_obj.date())
+    # print(date_time_obj.date())
 
     if date_time_obj.date() >= start and date_time_obj.date() <= end:
+        tmp = filename.split('.')[0]
+        if os.path.exists(f'/nas/home/siyiguo/LA_tweets/{tmp}.csv'): continue
+
+        print(date_time_obj.date())
         # read data
         df = pd.read_json(f'{dir_path}/{filename}', lines=True)
         # filter for english tweets
@@ -41,7 +45,7 @@ for filename in os.listdir(dir_path):
         # add user info
         df = pd.concat([df, users], axis=1)
         # processing
-        df['text'] = df['text'].apply(preprocess_tweet)
+        df['processed'] = df['text'].apply(preprocess_tweet)
         # choose the ones with more than 20 chars
         df['length'] = df.text.str.len()
         df = df[df.length > 20]
@@ -49,4 +53,4 @@ for filename in os.listdir(dir_path):
         print('dataset size: ', len(df))
         # save
         tmp = filename.split('.')[0]
-        df.to_csv(f'LA_tweets/{tmp}.csv',index=False)
+        df.to_csv(f'/nas/home/siyiguo/LA_tweets/{tmp}.csv',index=False)
