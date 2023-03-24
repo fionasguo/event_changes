@@ -5,6 +5,18 @@ from tqdm import tqdm
 import pickle
   
 
+rerun_dates = [
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2020-12-21.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-02-01.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-02-02.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-03-16.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-03-17.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-04-24.csv',
+    '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/coronavirus-clean-2021-04-25.csv'
+]
+
+
+
 # colnames
 # emot_mf_colnames = [
 #     'anger', 'anticipation', 'disgust', 'fear', 'joy', 'love', 'optimism',
@@ -31,9 +43,7 @@ all_cols = info_cols+mf_cols+concern_cols
 # mf_dir = "/data/Coronavirus-Tweets/Covid19_Full_Dataset/mf_annotations/"
 # concern_dir = "/data/Coronavirus-Tweets/Covid19_Full_Dataset/concerns_map_rt_fix_cleaned/"
 mf_dir = '/data/Coronavirus-Tweets/Covid_Concerns/mf_annotations/'
-
 mf_files = glob(mf_dir + '*.csv')
-cnt = 0
 
 # political and science
 # users = pd.read_csv('/nas/home/siyiguo/vaccine_causal/data/users_political_science_location.csv')
@@ -42,7 +52,7 @@ cnt = 0
 
 flog = open('log','w+')
 
-for file in tqdm(mf_files):
+for file in tqdm(rerun_dates):
     print(file)
     df_mf = pd.read_csv(file, lineterminator='\n')
     print(df_mf.shape)
@@ -51,21 +61,6 @@ for file in tqdm(mf_files):
     df_mf = df_mf.drop_duplicates(subset=['screen_name','tweetid','date'])
     print('len of df_mf',df_mf.shape)
 
-    # df_concern = pickle.load(open(os.path.join(concern_dir,file.split('/')[-1]),'rb'))
-    # df_concern = df_concern.drop_duplicates(subset=['screen_name','tweetid','date'])
-    # print('len of df_concern',len(df_concern))
-
-    # df_mf = df_mf.merge(users,on='screen_name',how='inner')
-    # print('len merge user',len(df_mf))
-    # df_mf = df_mf.merge(df_concern[['tweetid','concerns']+concern_cols],on=['tweetid',],how='inner')
-    # print('len merge concern',len(df_mf))
-
-    # filter for/out keywords
-    # df = filter(df,'text',covid_keyword_lst)
-    # print(len(df))
-    # df = filter_out(df,'text',covid_keyword_lst)
-    # print(len(df))
-
     # sample
     df_mf = df_mf.sample(frac=0.5, random_state=33)
     print('len sampled',len(df_mf))
@@ -73,13 +68,10 @@ for file in tqdm(mf_files):
     df_mf = df_mf[df_mf.tweet_type=='original']
     print('len of original tweets',len(df_mf))
 
-    df_mf.to_csv('~/event_changes/covid_data/covid_10perc_mf_concern.csv', header=False, index=False, mode='a+')
-
-    cnt += 1
+    df_mf.to_csv('~/event_changes/covid_data/rerun_covid_10perc_mf_concern.csv', header=False, index=False, mode='a+')
 
     # flog.write(file+'\n')
 
-print('total files:',cnt)
 print(df_mf.columns)
 
 
