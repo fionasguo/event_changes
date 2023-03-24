@@ -1,4 +1,4 @@
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2021-05-09
+education care 2021-05-09
 len of 5-day data: 8545
 number of topics: 151
 0:0_nurses_nurse_thank_day
@@ -14,7 +14,7 @@ number of topics: 151
 10:10_colleges_universities_require_requiring
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-03-26
+therapeutics care 2021-03-26
 len of 5-day data: 2826
 number of topics: 58
 0:0_ivermectin_bebravewho_ivermectinworks_use
@@ -30,14 +30,14 @@ number of topics: 58
 10:10_opioid_pandemic_the_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_betrayal_2021-08-14
+therapeutics betrayal 2021-08-14
 len of 5-day data: 112
 number of topics: 3
 0:0_the_covid_to_and
 1:1_no_embarrassing_food_china
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_fairness_2020-04-20
+lockdowns fairness 2020-04-20
 len of 5-day data: 225
 number of topics: 5
 0:0_the_covid19_co_https
@@ -46,7 +46,7 @@ number of topics: 5
 3:3_lockdown_https_co_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-07-28
+masking subversion 2021-07-28
 len of 5-day data: 8239
 number of topics: 170
 0:0_wadi_july29coup_village_handing
@@ -62,7 +62,7 @@ number of topics: 170
 10:10_sydney_lockdown_australia_enforce
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2021-01-01
+vaccines subversion 2021-01-01
 len of 5-day data: 7607
 number of topics: 167
 0:0_settlers_israeli_excluded_palestinians
@@ -78,7 +78,7 @@ number of topics: 167
 10:10_ontario_canada_trudeau_alberta
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2020-11-27
+education subversion 2020-11-27
 len of 5-day data: 1896
 number of topics: 38
 0:0_deaths_deleted_publication_newsletter
@@ -94,7 +94,7 @@ number of topics: 38
 10:10_bars_gyms_shutting_surges
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_betrayal_2021-09-29
+vaccines betrayal 2021-09-29
 len of 5-day data: 576
 number of topics: 3
 0:0_the_to_covid_vaccine
@@ -102,7 +102,7 @@ number of topics: 3
 2:2_johnson_the_boris_is
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_care_2021-03-01
+masking care 2021-03-01
 len of 5-day data: 8587
 number of topics: 130
 0:0_pandemic_over_this_year
@@ -118,7 +118,7 @@ number of topics: 130
 10:10_good_morning_day_safe
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2020-06-24
+vaccines care 2020-06-24
 len of 5-day data: 4389
 number of topics: 100
 0:0_johnson_boris_lockdown_uk
@@ -134,7 +134,7 @@ number of topics: 100
 10:10_needed_tests_over_treatments
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_harm_2021-05-26
+education harm 2021-05-26
 len of 5-day data: 5485
 number of topics: 93
 0:0_kachin_stopinternetrestrictions_namati_strike
@@ -150,7 +150,7 @@ number of topics: 93
 10:10_even_mla_mp_mr
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2020-02-29
+education subversion 2020-02-29
 len of 5-day data: 1139
 number of topics: 27
 0:0_killed_millions_ignoring_historian
@@ -166,7 +166,7 @@ number of topics: 27
 10:10_trips_cancel_overseas_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2021-02-20
+vaccines authority 2021-02-20
 len of 5-day data: 1293
 number of topics: 32
 0:0_johnson_lockdown_boris_out
@@ -182,7 +182,7 @@ number of topics: 32
 10:10_passports_the_of_this
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2020-03-08
+education subversion 2020-03-08
 len of 5-day data: 462
 number of topics: 8
 0:0_schools_https_co_to
@@ -194,7 +194,7 @@ number of topics: 8
 6:6_to_the_conference_event
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-03-15
+vaccines care 2021-03-15
 len of 5-day data: 41404
 number of topics: 786
 0:0_teachers_schools_school_students
@@ -210,7 +210,7 @@ number of topics: 786
 10:10_mom_her_mum_she
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_care_2020-03-27
+masking care 2020-03-27
 len of 5-day data: 1723
 number of topics: 26
 0:0_specific_99_available_only
@@ -226,7 +226,7 @@ number of topics: 26
 10:10_china_病毒_肺炎_the
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-06-02
+vaccines care 2021-06-02
 len of 5-day data: 33754
 number of topics: 729
 0:0_got_my_finally_second
@@ -242,7 +242,7 @@ number of topics: 729
 10:10_age_30s_aged_years
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-06-17
+lockdowns harm 2020-06-17
 len of 5-day data: 14767
 number of topics: 309
 0:0_covid_deaths_covid19_will
@@ -258,7 +258,7 @@ number of topics: 309
 10:10_cases_total_confirmed_active
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2020-10-31
+therapeutics loyalty 2020-10-31
 len of 5-day data: 725
 number of topics: 9
 0:0_my_in_of_gfya0fmme5
@@ -271,7 +271,7 @@ number of topics: 9
 7:7_200_only_10k_needed
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-09-08
+masking subversion 2021-09-08
 len of 5-day data: 5826
 number of topics: 125
 0:0_wear_mask_wearing_masks
@@ -287,7 +287,7 @@ number of topics: 125
 10:10_florida_ban_court_school
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-01-21
+vaccines cheating 2021-01-21
 len of 5-day data: 2010
 number of topics: 47
 0:0_biden_plan_trump_already
@@ -303,7 +303,7 @@ number of topics: 47
 10:10_doctor_fired_texas_allegedly
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_cheating_2020-06-10
+lockdowns cheating 2020-06-10
 len of 5-day data: 2982
 number of topics: 55
 0:0_foxnews_carlson_tucker_proof
@@ -319,14 +319,14 @@ number of topics: 55
 10:10_anticaa_baseless_witch_arrests
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_loyalty_2020-04-14
+vaccines loyalty 2020-04-14
 len of 5-day data: 54
 number of topics: 3
 0:0_the_to_vaccine_and
 1:1_co_https_join_sanofi
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-08-23
+vaccines cheating 2021-08-23
 len of 5-day data: 3052
 number of topics: 65
 0:0_theranos_totals_beltway_begins
@@ -342,7 +342,7 @@ number of topics: 65
 10:10_albania_contract_charging_half
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_harm_2021-07-19
+education harm 2021-07-19
 len of 5-day data: 6875
 number of topics: 115
 0:0_kyaw_thet_treatments_beaten
@@ -358,7 +358,7 @@ number of topics: 115
 10:10_hostages_usoehtay_detained_eldest
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2020-12-07
+education cheating 2020-12-07
 len of 5-day data: 999
 number of topics: 29
 0:0_positive_tests_positives_cambridge
@@ -374,14 +374,14 @@ number of topics: 29
 10:10_florida_giuliani_took_state
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2020-10-02
+therapeutics authority 2020-10-02
 len of 5-day data: 352
 number of topics: 3
 0:0_the_to_covid_president
 1:1_hydroxychloroquine_the_did_trump
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-08-21
+vaccines fairness 2020-08-21
 len of 5-day data: 446
 number of topics: 7
 0:0_the_to_vaccine_of
@@ -392,12 +392,12 @@ number of topics: 7
 5:5_waivers_to_in_sign
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2020-03-10
+masking fairness 2020-03-10
 len of 5-day data: 15
 number of topics: 1
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_betrayal_2021-10-07
+education betrayal 2021-10-07
 len of 5-day data: 274
 number of topics: 6
 0:0_to_the_covid_of
@@ -407,7 +407,7 @@ number of topics: 6
 4:4_jersey_log_alarmed_training
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-10-12
+vaccines fairness 2020-10-12
 len of 5-day data: 502
 number of topics: 11
 0:0_treatments_access_to_covid
@@ -422,7 +422,7 @@ number of topics: 11
 9:9_indonesia_calls_equal_fm
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2021-09-09
+vaccines subversion 2021-09-09
 len of 5-day data: 9781
 number of topics: 235
 0:0_republicans_republican_gop_mainstream
@@ -438,7 +438,7 @@ number of topics: 235
 10:10_desantis_florida_ron_cities
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_authority_2021-05-01
+education authority 2021-05-01
 len of 5-day data: 861
 number of topics: 5
 0:0_the_to_and_of
@@ -447,7 +447,7 @@ number of topics: 5
 3:3_masks_mask_to_in
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_betrayal_2020-11-22
+lockdowns betrayal 2020-11-22
 len of 5-day data: 1984
 number of topics: 45
 0:0_tier_system_in_government
@@ -463,7 +463,7 @@ number of topics: 45
 10:10_cuomo_ny_enforce_buffalo
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_loyalty_2020-03-02
+masking loyalty 2020-03-02
 len of 5-day data: 585
 number of topics: 6
 0:0_the_to_masks_and
@@ -474,7 +474,7 @@ number of topics: 6
 5:5_she_denver_after_for
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2020-03-01
+vaccines subversion 2020-03-01
 len of 5-day data: 635
 number of topics: 19
 0:0_johnson_boris_to_the
@@ -490,7 +490,7 @@ number of topics: 19
 10:10_rollout_tests_harvard_say
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2020-09-03
+masking cheating 2020-09-03
 len of 5-day data: 1426
 number of topics: 32
 0:0_salon_pelosi_she_her
@@ -506,7 +506,7 @@ number of topics: 32
 10:10_the_covid_scam_of
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-07-27
+vaccines harm 2021-07-27
 len of 5-day data: 28561
 number of topics: 559
 0:0_australia_sydney_nsw_lockdown
@@ -522,7 +522,7 @@ number of topics: 559
 10:10_florida_683_baseless_contrary
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2021-03-22
+lockdowns care 2021-03-22
 len of 5-day data: 10322
 number of topics: 152
 0:0_vaccine_vaccinated_vaccines_vaccination
@@ -538,7 +538,7 @@ number of topics: 152
 10:10_positive_aamirkhan_he_aamir
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-06-06
+therapeutics subversion 2021-06-06
 len of 5-day data: 953
 number of topics: 19
 0:0_as_gatewaypundit_via_worse
@@ -554,14 +554,14 @@ number of topics: 19
 10:10_as_worse_thought_caught
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2020-10-01
+education loyalty 2020-10-01
 len of 5-day data: 878
 number of topics: 2
 0:0_the_to_co_https
 1:1_and_need_the_senator
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-08-24
+lockdowns harm 2020-08-24
 len of 5-day data: 10514
 number of topics: 224
 0:0_my_lockdown_me_this
@@ -577,7 +577,7 @@ number of topics: 224
 10:10_france_379_post_record
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2021-10-18
+masking authority 2021-10-18
 len of 5-day data: 916
 number of topics: 10
 0:0_the_to_and_of
@@ -591,7 +591,7 @@ number of topics: 10
 8:8_el_rufai_enforces_kaduna
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2021-09-19
+vaccines fairness 2021-09-19
 len of 5-day data: 2065
 number of topics: 40
 0:0_equitable_access_global_vaccines
@@ -607,7 +607,7 @@ number of topics: 40
 10:10_proof_vaccination_ontario_of
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2020-08-11
+masking subversion 2020-08-11
 len of 5-day data: 3047
 number of topics: 62
 0:0_masks_covid_government_is
@@ -623,7 +623,7 @@ number of topics: 62
 10:10_connecticut_begins_travel_violating
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2021-05-26
+education cheating 2021-05-26
 len of 5-day data: 1892
 number of topics: 18
 0:0_whatshappeninginmyanmar_fascist_kachin_may27coup
@@ -639,7 +639,7 @@ number of topics: 18
 10:10_inequality_vulnerable_pandemic_wealth
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2021-10-02
+masking cheating 2021-10-02
 len of 5-day data: 852
 number of topics: 8
 0:0_the_to_and_co
@@ -651,7 +651,7 @@ number of topics: 8
 6:6_restaurant_man_manager_stabbed
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2020-11-16
+masking betrayal 2020-11-16
 len of 5-day data: 3190
 number of topics: 59
 0:0_lockdown_lockdowns_if_we
@@ -667,7 +667,7 @@ number of topics: 59
 10:10_covid19_wearamask_https_co
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-07-05
+vaccines care 2021-07-05
 len of 5-day data: 30991
 number of topics: 655
 0:0_clinic_free_walk_appointment
@@ -683,7 +683,7 @@ number of topics: 655
 10:10_australia_auspol_nsw_sydney
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2020-06-22
+therapeutics fairness 2020-06-22
 len of 5-day data: 423
 number of topics: 3
 0:0_to_italymfa_belgiummfa_dutchmfa
@@ -691,7 +691,7 @@ number of topics: 3
 2:2_to_hi_swemfa_belgiummfa
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-09-03
+masking betrayal 2021-09-03
 len of 5-day data: 1116
 number of topics: 21
 0:0_covid_masks_the_wearing
@@ -707,7 +707,7 @@ number of topics: 21
 10:10_fauci_wuhan_research_resign
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2020-11-27
+lockdowns loyalty 2020-11-27
 len of 5-day data: 1936
 number of topics: 40
 0:0_the_covid_virus_to
@@ -723,7 +723,7 @@ number of topics: 40
 10:10_local_businesses_community_chamberwallsend
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2021-03-17
+therapeutics harm 2021-03-17
 len of 5-day data: 1504
 number of topics: 38
 0:0_immune_you_covid_it
@@ -739,7 +739,7 @@ number of topics: 38
 10:10_mask_you_masks_no
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2021-07-23
+vaccines authority 2021-07-23
 len of 5-day data: 1079
 number of topics: 24
 0:0_wear_mask_vaccinated_you
@@ -755,7 +755,7 @@ number of topics: 24
 10:10_appeals_win_desantis_reverses
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2020-08-07
+therapeutics subversion 2020-08-07
 len of 5-day data: 594
 number of topics: 5
 0:0_the_to_https_co
@@ -765,7 +765,7 @@ number of topics: 5
 4:4_hcq_turkey_clear_compares
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-07-25
+therapeutics care 2021-07-25
 len of 5-day data: 3992
 number of topics: 52
 0:0_july27coup_whatshappeninginmyanmar_yangon_sanchaung
@@ -781,7 +781,7 @@ number of topics: 52
 10:10_system_your_vitamin_immune
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-10-08
+therapeutics authority 2021-10-08
 len of 5-day data: 223
 number of topics: 5
 0:0_the_of_to_and
@@ -791,7 +791,7 @@ number of topics: 5
 4:4_plummet_indonesia_cases_authorizes
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2020-12-20
+vaccines harm 2020-12-20
 len of 5-day data: 16028
 number of topics: 339
 0:0_strain_new_mutations_mutation
@@ -807,7 +807,7 @@ number of topics: 339
 10:10_politicians_workers_before_healthcare
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-10-25
+masking subversion 2021-10-25
 len of 5-day data: 4583
 number of topics: 99
 0:0_do_he_govmurphy_murphymandates
@@ -823,14 +823,14 @@ number of topics: 99
 10:10_uk_nhs_england_face
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_betrayal_2020-05-22
+lockdowns betrayal 2020-05-22
 len of 5-day data: 1002
 number of topics: 3
 0:0_the_lockdown_to_of
 1:1_fintan_toole_contempt_fools
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2020-06-22
+therapeutics care 2020-06-22
 len of 5-day data: 6424
 number of topics: 137
 0:0_promote_medicalstudents_mp_drnarottammisra_governormp_chouhanshivraj
@@ -846,7 +846,7 @@ number of topics: 137
 10:10_mask_masks_wear_wearing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_authority_2021-07-24
+lockdowns authority 2021-07-24
 len of 5-day data: 852
 number of topics: 7
 0:0_the_to_lockdown_of
@@ -858,7 +858,7 @@ number of topics: 7
 6:6_scottish_tour_photography_our
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2021-05-28
+lockdowns harm 2021-05-28
 len of 5-day data: 9238
 number of topics: 159
 0:0_50000_staffs_diarrhea_refugees
@@ -874,7 +874,7 @@ number of topics: 159
 10:10_isolation_pandemic_social_distance
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2020-08-26
+vaccines harm 2020-08-26
 len of 5-day data: 2643
 number of topics: 75
 0:0_johnson_boris_party_tory
@@ -890,7 +890,7 @@ number of topics: 75
 10:10_london_hoax_lockdown_anti
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2020-11-07
+education cheating 2020-11-07
 len of 5-day data: 746
 number of topics: 19
 0:0_students_to_school_covid
@@ -906,7 +906,7 @@ number of topics: 19
 10:10_ugly_gender_class_caste
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_betrayal_2021-10-13
+education betrayal 2021-10-13
 len of 5-day data: 233
 number of topics: 5
 0:0_the_and_to_of
@@ -915,7 +915,7 @@ number of topics: 5
 3:3_board_school_fellow_spreading
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-07-27
+therapeutics cheating 2020-07-27
 len of 5-day data: 1666
 number of topics: 33
 0:0_hydroxychloroquine_the_is_to
@@ -931,7 +931,7 @@ number of topics: 33
 10:10_removes_twitter_falsely_tweet
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2021-10-14
+masking fairness 2021-10-14
 len of 5-day data: 526
 number of topics: 4
 0:0_the_to_https_co
@@ -940,7 +940,7 @@ number of topics: 4
 3:3_italy_workers_take_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-08-02
+lockdowns harm 2020-08-02
 len of 5-day data: 14971
 number of topics: 328
 0:0_my_me_another_ve
@@ -956,7 +956,7 @@ number of topics: 328
 10:10_thailand_confirmed_discharged_total
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2020-07-27
+therapeutics subversion 2020-07-27
 len of 5-day data: 1660
 number of topics: 37
 0:0_cure_the_it_to
@@ -972,7 +972,7 @@ number of topics: 37
 10:10_hydroxychloroquine_it_fda_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_fairness_2021-07-05
+education fairness 2021-07-05
 len of 5-day data: 598
 number of topics: 6
 0:0_the_to_co_https
@@ -982,7 +982,7 @@ number of topics: 6
 4:4_from_they_against_complications
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2021-07-21
+lockdowns subversion 2021-07-21
 len of 5-day data: 3614
 number of topics: 66
 0:0_lockdown_we_on_is
@@ -998,7 +998,7 @@ number of topics: 66
 10:10_sydney_protest_nswpol_covid19nsw
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2021-09-22
+vaccines authority 2021-09-22
 len of 5-day data: 1050
 number of topics: 23
 0:0_the_and_to_of
@@ -1014,7 +1014,7 @@ number of topics: 23
 10:10_to_the_about_is
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-09-13
+vaccines harm 2021-09-13
 len of 5-day data: 29365
 number of topics: 610
 0:0_you_it_don_can
@@ -1030,7 +1030,7 @@ number of topics: 610
 10:10_france_suspended_workers_suspends
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2020-08-18
+education care 2020-08-18
 len of 5-day data: 15783
 number of topics: 275
 0:0_campus_colleges_college_cases
@@ -1046,7 +1046,7 @@ number of topics: 275
 10:10_sir_indiaunitedtopostponejee_neet_situation_lakhs
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2020-10-12
+masking betrayal 2020-10-12
 len of 5-day data: 2741
 number of topics: 55
 0:0_you_mask_wear_it
@@ -1062,7 +1062,7 @@ number of topics: 55
 10:10_mask_https_co_wear
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_authority_2021-07-24
+education authority 2021-07-24
 len of 5-day data: 816
 number of topics: 7
 0:0_the_to_co_https
@@ -1074,7 +1074,7 @@ number of topics: 7
 6:6_home_office_ensure_vo
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2021-11-02
+education subversion 2021-11-02
 len of 5-day data: 775
 number of topics: 3
 0:0_the_to_co_https
@@ -1082,14 +1082,14 @@ number of topics: 3
 2:2_risk_florida_defying_cities
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_betrayal_2021-06-13
+vaccines betrayal 2021-06-13
 len of 5-day data: 387
 number of topics: 2
 0:0_the_to_vaccine_covid
 1:1_johnson_the_https_co
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2020-06-09
+education cheating 2020-06-09
 len of 5-day data: 1427
 number of topics: 29
 0:0_racism_the_and_is
@@ -1105,7 +1105,7 @@ number of topics: 29
 10:10_rent_pay_room_they
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-04-19
+lockdowns harm 2020-04-19
 len of 5-day data: 4956
 number of topics: 104
 0:0_quarantine_that_my_and
@@ -1121,7 +1121,7 @@ number of topics: 104
 10:10_economic_economy_package_great
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-07-20
+vaccines care 2021-07-20
 len of 5-day data: 35387
 number of topics: 694
 0:0_doesn_still_catch_you
@@ -1137,7 +1137,7 @@ number of topics: 694
 10:10_wear_mask_wearing_you
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-04-23
+vaccines harm 2021-04-23
 len of 5-day data: 15843
 number of topics: 334
 0:0_india_oxygen_modi_running
@@ -1153,7 +1153,7 @@ number of topics: 334
 10:10_contracted_88_157_dead
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2020-12-01
+vaccines care 2020-12-01
 len of 5-day data: 38174
 number of topics: 793
 0:0_gain_trust_publicly_public
@@ -1169,7 +1169,7 @@ number of topics: 793
 10:10_christmas_santa_father_want
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_harm_2021-11-03
+education harm 2021-11-03
 len of 5-day data: 1562
 number of topics: 37
 0:0_cases_in_schools_19
@@ -1185,7 +1185,7 @@ number of topics: 37
 10:10_populous_maryland_double_county
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_betrayal_2020-08-18
+lockdowns betrayal 2020-08-18
 len of 5-day data: 1007
 number of topics: 16
 0:0_gatewaypundit_business_warning_supervisors
@@ -1201,7 +1201,7 @@ number of topics: 16
 10:10_reopening_schools_school_reopen
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2021-07-27
+masking cheating 2021-07-27
 len of 5-day data: 2454
 number of topics: 51
 0:0_vaccinated_wear_you_mask
@@ -1217,7 +1217,7 @@ number of topics: 51
 10:10_covid_conspiracy_wearing_vaccinated
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2020-03-15
+education loyalty 2020-03-15
 len of 5-day data: 191
 number of topics: 4
 0:0_to_the_and_we
@@ -1225,7 +1225,7 @@ number of topics: 4
 2:2_to_the_support_co
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-05-30
+lockdowns loyalty 2021-05-30
 len of 5-day data: 1450
 number of topics: 10
 0:0_the_to_lockdown_and
@@ -1239,7 +1239,7 @@ number of topics: 10
 8:8_home_help_attchd_information
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2021-03-01
+masking authority 2021-03-01
 len of 5-day data: 1792
 number of topics: 35
 0:0_texas_covid_the_mandate
@@ -1255,7 +1255,7 @@ number of topics: 35
 10:10_school_tea_district_guidance
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2021-07-25
+lockdowns care 2021-07-25
 len of 5-day data: 7286
 number of topics: 112
 0:0_vicinity_falam_stopsacfromrobbingo2_villages
@@ -1271,7 +1271,7 @@ number of topics: 112
 10:10_pandemic_shutdown_it_the
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-11-02
+vaccines fairness 2020-11-02
 len of 5-day data: 579
 number of topics: 4
 0:0_the_unknowns_markets_resolved
@@ -1280,7 +1280,7 @@ number of topics: 4
 3:3_truth_trials_about_newworldnextweek
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-09-18
+therapeutics care 2021-09-18
 len of 5-day data: 4295
 number of topics: 87
 0:0_sep19coup_monywa_myanmarcovidsos_whatshappeniginmyanmar
@@ -1296,7 +1296,7 @@ number of topics: 87
 10:10_declared_241_promotes_million
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-07-15
+masking betrayal 2021-07-15
 len of 5-day data: 2066
 number of topics: 19
 0:0_uses_weapons_july17coup_staged
@@ -1312,7 +1312,7 @@ number of topics: 19
 10:10_mask_to_staff_wear
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2020-05-13
+masking subversion 2020-05-13
 len of 5-day data: 532
 number of topics: 12
 0:0_the_to_of_co
@@ -1328,7 +1328,7 @@ number of topics: 12
 10:10_stockpile_the_left_unprepared
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-07-16
+vaccines harm 2021-07-16
 len of 5-day data: 27472
 number of topics: 534
 0:0_stoparrestingdoctors_misappropriating_1300_owned
@@ -1344,7 +1344,7 @@ number of topics: 534
 10:10_africa_deepens_crisis_far
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-07-02
+therapeutics cheating 2020-07-02
 len of 5-day data: 627
 number of topics: 6
 0:0_the_to_co_https
@@ -1354,7 +1354,7 @@ number of topics: 6
 4:4_provide_chance_recovery_despite
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2020-03-22
+masking subversion 2020-03-22
 len of 5-day data: 308
 number of topics: 7
 0:0_masks_of_to_co
@@ -1365,7 +1365,7 @@ number of topics: 7
 5:5_at_home_stay_order
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2020-12-05
+masking authority 2020-12-05
 len of 5-day data: 1856
 number of topics: 42
 0:0_mask_to_wear_people
@@ -1381,7 +1381,7 @@ number of topics: 42
 10:10_youtube_refuses_california_sheriff
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2021-09-04
+therapeutics cheating 2021-09-04
 len of 5-day data: 997
 number of topics: 18
 0:0_the_to_covid_and
@@ -1397,7 +1397,7 @@ number of topics: 18
 10:10_dies_sugar_land_man
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-07-27
+masking betrayal 2021-07-27
 len of 5-day data: 2830
 number of topics: 51
 0:0_cdc_masks_the_they
@@ -1413,7 +1413,7 @@ number of topics: 51
 10:10_biden_forces_parade_agents
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-06-05
+therapeutics subversion 2021-06-05
 len of 5-day data: 888
 number of topics: 11
 0:0_the_for_to_co
@@ -1428,14 +1428,14 @@ number of topics: 11
 9:9_health_defense_children_spun
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-03-25
+therapeutics fairness 2021-03-25
 len of 5-day data: 140
 number of topics: 2
 0:0_the_to_covid_and
 1:1_co_https_medical_choice
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2020-12-27
+masking cheating 2020-12-27
 len of 5-day data: 1458
 number of topics: 32
 0:0_wear_mask_to_you
@@ -1451,7 +1451,7 @@ number of topics: 32
 10:10_guidance_criticism_march_builds
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_loyalty_2021-04-28
+vaccines loyalty 2021-04-28
 len of 5-day data: 3870
 number of topics: 38
 0:0_india_of_prayers_58
@@ -1467,7 +1467,7 @@ number of topics: 38
 10:10_vaccines_solidarity_global_the
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-01-15
+vaccines harm 2021-01-15
 len of 5-day data: 20852
 number of topics: 442
 0:0_trump_reserve_administration_release
@@ -1483,7 +1483,7 @@ number of topics: 442
 10:10_biden_joe_plan_president
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2021-05-31
+masking fairness 2021-05-31
 len of 5-day data: 396
 number of topics: 5
 0:0_the_to_https_co
@@ -1492,14 +1492,14 @@ number of topics: 5
 3:3_on_our_face_all
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2020-08-07
+vaccines authority 2020-08-07
 len of 5-day data: 438
 number of topics: 2
 0:0_the_to_co_https
 1:1_jail_refuse_authority_states
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-07-23
+therapeutics subversion 2021-07-23
 len of 5-day data: 1010
 number of topics: 11
 0:0_prison_to_the_expired
@@ -1514,7 +1514,7 @@ number of topics: 11
 9:9_no_canada_violence_business
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2021-09-10
+vaccines fairness 2021-09-10
 len of 5-day data: 2541
 number of topics: 58
 0:0_biden_president_workers_weekly
@@ -1530,7 +1530,7 @@ number of topics: 58
 10:10_abortion_choice_body_my
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2021-05-07
+therapeutics loyalty 2021-05-07
 len of 5-day data: 342
 number of topics: 12
 0:0_the_to_and_will
@@ -1546,7 +1546,7 @@ number of topics: 12
 10:10_and_australia_equitable_agreed
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-04-06
+therapeutics authority 2021-04-06
 len of 5-day data: 188
 number of topics: 5
 0:0_the_to_and_of
@@ -1556,7 +1556,7 @@ number of topics: 5
 4:4_information_this_treatment_reaching
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2020-03-19
+lockdowns subversion 2020-03-19
 len of 5-day data: 735
 number of topics: 15
 0:0_quarantine_to_the_https
@@ -1572,7 +1572,7 @@ number of topics: 15
 10:10_uk_coronavirus_https_co
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_fairness_2020-12-16
+lockdowns fairness 2020-12-16
 len of 5-day data: 514
 number of topics: 8
 0:0_the_lockdown_to_of
@@ -1584,7 +1584,7 @@ number of topics: 8
 6:6_people_some_recession_black
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2021-10-28
+therapeutics harm 2021-10-28
 len of 5-day data: 1673
 number of topics: 39
 0:0_districts_india_pradesh_uttar
@@ -1600,7 +1600,7 @@ number of topics: 39
 10:10_cancer_likely_received_treatment
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2020-11-16
+masking authority 2020-11-16
 len of 5-day data: 2219
 number of topics: 37
 0:0_mandate_governor_mask_to
@@ -1616,7 +1616,7 @@ number of topics: 37
 10:10_workers_respect_our_wear
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2020-05-22
+lockdowns subversion 2020-05-22
 len of 5-day data: 2805
 number of topics: 56
 0:0_failed_india_rahulgandhi_govt
@@ -1632,7 +1632,7 @@ number of topics: 56
 10:10_government_they_the_we
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-01-11
+masking betrayal 2021-01-11
 len of 5-day data: 3260
 number of topics: 72
 0:0_covid_and_is_you
@@ -1648,7 +1648,7 @@ number of topics: 72
 10:10_video_republican_lockdown_during
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-06-02
+vaccines harm 2021-06-02
 len of 5-day data: 13873
 number of topics: 329
 0:0_uk_moment_tony_emerge
@@ -1664,7 +1664,7 @@ number of topics: 329
 10:10_lockdown_we_open_hanging
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_care_2021-07-12
+masking care 2021-07-12
 len of 5-day data: 12929
 number of topics: 125
 0:0_rice_ends_land_struggling
@@ -1680,7 +1680,7 @@ number of topics: 125
 10:10_monywa_model_botalin_ngapayin
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_harm_2021-04-11
+masking harm 2021-04-11
 len of 5-day data: 5379
 number of topics: 92
 0:0_junta_black_massacre_tw
@@ -1696,7 +1696,7 @@ number of topics: 92
 10:10_thailand_outbreak_faces_travel
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2021-08-10
+education loyalty 2021-08-10
 len of 5-day data: 1789
 number of topics: 8
 0:0_the_to_and_co
@@ -1708,7 +1708,7 @@ number of topics: 8
 6:6_texas_signaling_sends_letters
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-10-14
+therapeutics fairness 2021-10-14
 len of 5-day data: 356
 number of topics: 9
 0:0_demand_unproven_lawsuits_patients
@@ -1721,7 +1721,7 @@ number of topics: 9
 7:7_demanding_least_two_dozen
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-09-26
+vaccines care 2021-09-26
 len of 5-day data: 26863
 number of topics: 510
 0:0_you_still_it_don
@@ -1737,7 +1737,7 @@ number of topics: 510
 10:10_my_got_booster_scheduled
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-11-01
+masking betrayal 2021-11-01
 len of 5-day data: 680
 number of topics: 12
 0:0_mask_wear_to_you
@@ -1753,7 +1753,7 @@ number of topics: 12
 10:10_own_that_my_wear
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_harm_2020-10-11
+masking harm 2020-10-11
 len of 5-day data: 7119
 number of topics: 134
 0:0_cases_deaths_000_new
@@ -1769,7 +1769,7 @@ number of topics: 134
 10:10_wear_you_mask_if
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2021-06-10
+lockdowns subversion 2021-06-10
 len of 5-day data: 3735
 number of topics: 54
 0:0_lockdown_is_the_we
@@ -1785,7 +1785,7 @@ number of topics: 54
 10:10_india_list_red_putting
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-05-16
+therapeutics subversion 2021-05-16
 len of 5-day data: 829
 number of topics: 15
 0:0_worried_elites_plummet_promotes
@@ -1801,7 +1801,7 @@ number of topics: 15
 10:10_cow_urine_you_journalist
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-10-16
+therapeutics cheating 2020-10-16
 len of 5-day data: 438
 number of topics: 5
 0:0_the_to_covid_and
@@ -1811,7 +1811,7 @@ number of topics: 5
 4:4_miracle_stock_seems_market
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2020-10-30
+education subversion 2020-10-30
 len of 5-day data: 3535
 number of topics: 59
 0:0_covid_schools_19_https
@@ -1827,7 +1827,7 @@ number of topics: 59
 10:10_unis_open_and_schools
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2021-04-06
+masking cheating 2021-04-06
 len of 5-day data: 922
 number of topics: 8
 0:0_the_to_and_of
@@ -1839,7 +1839,7 @@ number of topics: 8
 6:6_guidelines_rallies_election_are
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-08-26
+vaccines care 2021-08-26
 len of 5-day data: 30840
 number of topics: 537
 0:0_wear_mask_masks_wearing
@@ -1855,7 +1855,7 @@ number of topics: 537
 10:10_safety_analytics_pasifika_apos
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2020-12-09
+lockdowns subversion 2020-12-09
 len of 5-day data: 4118
 number of topics: 105
 0:0_fur_farms_italy_urge
@@ -1871,7 +1871,7 @@ number of topics: 105
 10:10_alberta_kenney_canada_ontario
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2020-09-04
+education loyalty 2020-09-04
 len of 5-day data: 1484
 number of topics: 26
 0:0_teachers_the_and_to
@@ -1887,7 +1887,7 @@ number of topics: 26
 10:10_campus_gt_covid_students
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_fairness_2020-07-20
+education fairness 2020-07-20
 len of 5-day data: 1037
 number of topics: 13
 0:0_the_to_co_https
@@ -1903,14 +1903,14 @@ number of topics: 13
 10:10_susceptible_drashwathcn_equally_saverguhsstudents
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_betrayal_2020-04-23
+therapeutics betrayal 2020-04-23
 len of 5-day data: 92
 number of topics: 2
 0:0_the_to_https_co
 1:1_hydroxychloroquine_democrats_lawmaker_her
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_authority_2020-10-31
+lockdowns authority 2020-10-31
 len of 5-day data: 3182
 number of topics: 56
 0:0_schools_school_open_students
@@ -1926,7 +1926,7 @@ number of topics: 56
 10:10_it_they_the_government
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_care_2021-07-03
+masking care 2021-07-03
 len of 5-day data: 6918
 number of topics: 80
 0:0_hwaykhar_hpakant_july4coup_village
@@ -1942,7 +1942,7 @@ number of topics: 80
 10:10_shopworkers_law_ask_standupforshopworkers
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-10-09
+therapeutics authority 2021-10-09
 len of 5-day data: 242
 number of topics: 5
 0:0_the_of_https_co
@@ -1952,7 +1952,7 @@ number of topics: 5
 4:4_cases_authorizes_plummet_indonesia
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-10-24
+vaccines cheating 2021-10-24
 len of 5-day data: 1659
 number of topics: 43
 0:0_endcovideverywhere_adopt_irresponsible_whole
@@ -1968,7 +1968,7 @@ number of topics: 43
 10:10_passports_pushing_morrison_peddling
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-02-18
+therapeutics fairness 2021-02-18
 len of 5-day data: 173
 number of topics: 4
 0:0_to_co_https_the
@@ -1977,7 +1977,7 @@ number of topics: 4
 3:3_support_to_and_indian
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2021-08-15
+education subversion 2021-08-15
 len of 5-day data: 3946
 number of topics: 75
 0:0_mandalay_mandalar_recognizenug_aug16coup
@@ -1993,7 +1993,7 @@ number of topics: 75
 10:10_vaccine_judge_louisiana_medical
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-06-13
+lockdowns loyalty 2021-06-13
 len of 5-day data: 1098
 number of topics: 5
 0:0_the_to_lockdown_co
@@ -2002,7 +2002,7 @@ number of topics: 5
 3:3_92_separation_twins_reunited
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_harm_2020-12-06
+education harm 2020-12-06
 len of 5-day data: 7001
 number of topics: 137
 0:0_vaccine_vaccines_priority_first
@@ -2018,7 +2018,7 @@ number of topics: 137
 10:10_quarantine_quarantined_grade_fourth
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-02-15
+lockdowns harm 2020-02-15
 len of 5-day data: 4536
 number of topics: 136
 0:0_china_population_million_760
@@ -2034,7 +2034,7 @@ number of topics: 136
 10:10_kong_hong_doctor_partially
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-09-04
+vaccines cheating 2021-09-04
 len of 5-day data: 2522
 number of topics: 62
 0:0_question_ivermectin_why_cdc
@@ -2050,7 +2050,7 @@ number of topics: 62
 10:10_unions_battle_drawing_line
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2020-07-27
+therapeutics harm 2020-07-27
 len of 5-day data: 4643
 number of topics: 114
 0:0_cases_total_active_cured
@@ -2066,14 +2066,14 @@ number of topics: 114
 10:10_war_drugs_penalty_pandemic
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_authority_2020-11-10
+lockdowns authority 2020-11-10
 len of 5-day data: 1458
 number of topics: 2
 0:0_the_to_lockdown_and
 1:1_suicide_someone_call_8255
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_fairness_2021-05-31
+education fairness 2021-05-31
 len of 5-day data: 702
 number of topics: 9
 0:0_the_co_https_to
@@ -2086,7 +2086,7 @@ number of topics: 9
 7:7_their_those_for_it
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2020-05-28
+masking betrayal 2020-05-28
 len of 5-day data: 408
 number of topics: 9
 0:0_the_co_to_https
@@ -2099,7 +2099,7 @@ number of topics: 9
 7:7_not_distancing_social_wearing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2021-04-26
+masking authority 2021-04-26
 len of 5-day data: 1363
 number of topics: 32
 0:0_cdc_masks_the_to
@@ -2115,7 +2115,7 @@ number of topics: 32
 10:10_outdoor_guidance_relax_cdc
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2020-07-25
+masking betrayal 2020-07-25
 len of 5-day data: 3074
 number of topics: 47
 0:0_customers_staff_in_to
@@ -2131,7 +2131,7 @@ number of topics: 47
 10:10_just_damn_wear_mask
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2021-09-23
+vaccines authority 2021-09-23
 len of 5-day data: 1073
 number of topics: 26
 0:0_the_to_government_vaccines
@@ -2147,7 +2147,7 @@ number of topics: 26
 10:10_numbers_with_of_most
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2020-12-07
+education subversion 2020-12-07
 len of 5-day data: 2282
 number of topics: 63
 0:0_pandemic_that_the_they
@@ -2163,14 +2163,14 @@ number of topics: 63
 10:10_student_loan_debt_relief
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_fairness_2020-09-30
+education fairness 2020-09-30
 len of 5-day data: 521
 number of topics: 2
 0:0_the_to_co_https
 1:1_to_staff_petition_nurseries
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2021-02-15
+therapeutics loyalty 2021-02-15
 len of 5-day data: 238
 number of topics: 3
 0:0_the_to_co_https
@@ -2178,7 +2178,7 @@ number of topics: 3
 2:2_https_co_and_lockdown
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2021-07-18
+therapeutics harm 2021-07-18
 len of 5-day data: 4746
 number of topics: 59
 0:0_kyaw_on_providing_brutality
@@ -2194,7 +2194,7 @@ number of topics: 59
 10:10_are_long_you_treatment
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-10-19
+vaccines harm 2021-10-19
 len of 5-day data: 18271
 number of topics: 435
 0:0_india_crore_billion_100
@@ -2210,7 +2210,7 @@ number of topics: 435
 10:10_mask_masks_wear_wearing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-12-19
+vaccines fairness 2020-12-19
 len of 5-day data: 1185
 number of topics: 31
 0:0_employers_require_can_employees
@@ -2226,7 +2226,7 @@ number of topics: 31
 10:10_israel_govt_muslims_be
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-03-14
+therapeutics authority 2021-03-14
 len of 5-day data: 151
 number of topics: 3
 0:0_the_and_to_covid
@@ -2234,7 +2234,7 @@ number of topics: 3
 2:2_fastest_treating_infection_sharing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_harm_2020-12-26
+masking harm 2020-12-26
 len of 5-day data: 6770
 number of topics: 122
 0:0_lifesite_finds_occur_didn
@@ -2250,7 +2250,7 @@ number of topics: 122
 10:10_vaccine_vaccines_you_they
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-02-18
+therapeutics care 2021-02-18
 len of 5-day data: 3132
 number of topics: 69
 0:0_sanitizer_hand_mask_disinfectant
@@ -2266,7 +2266,7 @@ number of topics: 69
 10:10_biotech_todaysmedicalupdate_insurance_doctor
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_cheating_2020-05-11
+lockdowns cheating 2020-05-11
 len of 5-day data: 478
 number of topics: 6
 0:0_the_lockdown_https_co
@@ -2276,12 +2276,12 @@ number of topics: 6
 4:4_pandey_poonam_she_poonampandey
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_betrayal_2021-02-25
+therapeutics betrayal 2021-02-25
 len of 5-day data: 57
 number of topics: 1
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-03-01
+masking subversion 2021-03-01
 len of 5-day data: 5105
 number of topics: 101
 0:0_texas_covid_lifts_restrictions
@@ -2297,7 +2297,7 @@ number of topics: 101
 10:10_roll_mississippi_back_lift
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-01-15
+therapeutics fairness 2021-01-15
 len of 5-day data: 239
 number of topics: 5
 0:0_to_and_of_the
@@ -2307,7 +2307,7 @@ number of topics: 5
 4:4_as_has_for_ran
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_betrayal_2021-07-24
+vaccines betrayal 2021-07-24
 len of 5-day data: 1054
 number of topics: 23
 0:0_wear_mask_masks_cdc
@@ -2323,7 +2323,7 @@ number of topics: 23
 10:10_pfizer_nsw_lockdown_sydney
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_care_2020-02-19
+masking care 2020-02-19
 len of 5-day data: 783
 number of topics: 6
 0:0_to_the_co_https
@@ -2333,7 +2333,7 @@ number of topics: 6
 4:4_wants_people_wear_30
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-09-01
+therapeutics subversion 2021-09-01
 len of 5-day data: 1363
 number of topics: 37
 0:0_lying_question_and_why
@@ -2349,7 +2349,7 @@ number of topics: 37
 10:10_overdoses_debunked_stone_rolling
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2021-10-13
+therapeutics cheating 2021-10-13
 len of 5-day data: 692
 number of topics: 17
 0:0_ivermectin_the_is_and
@@ -2365,7 +2365,7 @@ number of topics: 17
 10:10_forces_shouldn_admit_called
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-03-22
+lockdowns loyalty 2021-03-22
 len of 5-day data: 2636
 number of topics: 41
 0:0_lockdown_we_it_my
@@ -2381,7 +2381,7 @@ number of topics: 41
 10:10_school_students_during_and
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2020-08-08
+therapeutics authority 2020-08-08
 len of 5-day data: 317
 number of topics: 6
 0:0_the_to_and_is
@@ -2391,7 +2391,7 @@ number of topics: 6
 4:4_in_saved_near_fatal
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_authority_2020-09-01
+education authority 2020-09-01
 len of 5-day data: 1149
 number of topics: 24
 0:0_sir_students_exam_please
@@ -2407,14 +2407,14 @@ number of topics: 24
 10:10_trump_biden_the_president
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_authority_2021-06-14
+education authority 2021-06-14
 len of 5-day data: 496
 number of topics: 2
 0:0_the_to_co_https
 1:1_federal_aid_michigan_billion
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-09-06
+therapeutics subversion 2021-09-06
 len of 5-day data: 1323
 number of topics: 37
 0:0_ivermectin_fda_for_it
@@ -2430,12 +2430,12 @@ number of topics: 37
 10:10_ohio_reverses_requiring_judge
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2020-04-29
+therapeutics fairness 2020-04-29
 len of 5-day data: 43
 number of topics: 1
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-10-02
+vaccines cheating 2021-10-02
 len of 5-day data: 2061
 number of topics: 57
 0:0_illegals_excluding_harris_infect
@@ -2451,7 +2451,7 @@ number of topics: 57
 10:10_cards_fake_card_forged
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-05-29
+lockdowns harm 2020-05-29
 len of 5-day data: 5244
 number of topics: 105
 0:0_my_lockdown_me_this
@@ -2467,14 +2467,14 @@ number of topics: 105
 10:10_deaths_we_that_yesterday
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_fairness_2021-02-25
+lockdowns fairness 2021-02-25
 len of 5-day data: 369
 number of topics: 2
 0:0_the_to_lockdown_co
 1:1_virus_ccp_interferes_conservative
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-08-24
+therapeutics authority 2021-08-24
 len of 5-day data: 180
 number of topics: 6
 0:0_and_the_to_covid
@@ -2484,21 +2484,21 @@ number of topics: 6
 4:4_for_monoclonal_antibody_treatment
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_authority_2021-06-10
+lockdowns authority 2021-06-10
 len of 5-day data: 1836
 number of topics: 3
 0:0_under_june11coup_sac_civilian
 1:1_the_to_lockdown_of
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2020-05-29
+vaccines cheating 2020-05-29
 len of 5-day data: 103
 number of topics: 2
 0:0_the_vaccine_is_to
 1:1_johnson_and_boris_the
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-02-15
+vaccines cheating 2021-02-15
 len of 5-day data: 2487
 number of topics: 61
 0:0_scams_beware_scammers_19
@@ -2514,7 +2514,7 @@ number of topics: 61
 10:10_servers_looking_hacked_may
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-05-21
+lockdowns loyalty 2021-05-21
 len of 5-day data: 1177
 number of topics: 27
 0:0_lockdown_we_on_it
@@ -2530,7 +2530,7 @@ number of topics: 27
 10:10_reopen_reopening_to_the
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_authority_2021-07-07
+education authority 2021-07-07
 len of 5-day data: 614
 number of topics: 11
 0:0_to_in_mwd_banks
@@ -2545,7 +2545,7 @@ number of topics: 11
 9:9_the_nsw_sydney_we
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2021-02-08
+lockdowns care 2021-02-08
 len of 5-day data: 11350
 number of topics: 199
 0:0_victoria_melbourne_outbreak_tonight
@@ -2561,7 +2561,7 @@ number of topics: 199
 10:10_charity_donations_charities_donate
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_loyalty_2020-09-27
+masking loyalty 2020-09-27
 len of 5-day data: 2644
 number of topics: 6
 0:0_the_to_mask_of
@@ -2571,7 +2571,7 @@ number of topics: 6
 4:4_pleading_records_patient_death
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-06-23
+masking subversion 2021-06-23
 len of 5-day data: 2580
 number of topics: 39
 0:0_wore_main_evening_june24coup
@@ -2587,7 +2587,7 @@ number of topics: 39
 10:10_transportation_lift_public_cdc
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-06-04
+therapeutics authority 2021-06-04
 len of 5-day data: 181
 number of topics: 6
 0:0_the_to_https_co
@@ -2597,7 +2597,7 @@ number of topics: 6
 4:4_medicine_in_has_covid
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2020-05-06
+education cheating 2020-05-06
 len of 5-day data: 259
 number of topics: 4
 0:0_the_of_to_in
@@ -2605,14 +2605,14 @@ number of topics: 4
 2:2_dr_to_economy_trump
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2021-02-18
+therapeutics loyalty 2021-02-18
 len of 5-day data: 211
 number of topics: 2
 0:0_the_to_co_https
 1:1_as_medicine_of_patanjalicoronil
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2021-05-29
+therapeutics loyalty 2021-05-29
 len of 5-day data: 337
 number of topics: 7
 0:0_to_the_co_https
@@ -2623,7 +2623,7 @@ number of topics: 7
 5:5_to_tripswaiver_funded_vaccinateourworld
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_harm_2020-09-14
+education harm 2020-09-14
 len of 5-day data: 12054
 number of topics: 236
 0:0_cases_active_total_reported
@@ -2639,7 +2639,7 @@ number of topics: 236
 10:10_reopening_reopen_dak_worsen
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-12-26
+therapeutics cheating 2020-12-26
 len of 5-day data: 395
 number of topics: 3
 0:0_the_to_and_co
@@ -2647,7 +2647,7 @@ number of topics: 3
 2:2_on_executive_5joqizmwru_prohibited
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2021-04-01
+lockdowns subversion 2021-04-01
 len of 5-day data: 4765
 number of topics: 109
 0:0_government_this_the_not
@@ -2663,7 +2663,7 @@ number of topics: 109
 10:10_bangladesh_nationwide_monday_long
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-06-21
+vaccines fairness 2020-06-21
 len of 5-day data: 350
 number of topics: 3
 0:0_to_swemfa_dutchmfa_italymfa
@@ -2671,7 +2671,7 @@ number of topics: 3
 2:2_to_hi_italymfa_belgiummfa
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2020-10-22
+vaccines authority 2020-10-22
 len of 5-day data: 559
 number of topics: 12
 0:0_plan_shut_now_what
@@ -2687,7 +2687,7 @@ number of topics: 12
 10:10_military_play_effort_logistics
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-10-02
+therapeutics fairness 2021-10-02
 len of 5-day data: 322
 number of topics: 6
 0:0_govt_officially_populated_declares
@@ -2697,7 +2697,7 @@ number of topics: 6
 4:4_bitchute_via_declares_populated
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2020-03-24
+therapeutics harm 2020-03-24
 len of 5-day data: 900
 number of topics: 27
 0:0_sanitizer_hand_disinfectant_the
@@ -2713,7 +2713,7 @@ number of topics: 27
 10:10_chloroquine_dies_after_man
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-11-03
+vaccines care 2021-11-03
 len of 5-day data: 14351
 number of topics: 277
 0:0_scheduled_my_her_relieved
@@ -2729,7 +2729,7 @@ number of topics: 277
 10:10_osha_employers_temporary_standard
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-01-20
+masking subversion 2021-01-20
 len of 5-day data: 1825
 number of topics: 31
 0:0_biden_mandate_he_trump
@@ -2745,7 +2745,7 @@ number of topics: 31
 10:10_pandemic_people_this_and
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2021-07-09
+vaccines subversion 2021-07-09
 len of 5-day data: 5831
 number of topics: 150
 0:0_worsening_coup_mounting_february
@@ -2761,7 +2761,7 @@ number of topics: 150
 10:10_contradicting_changing_game_deal
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-05-31
+masking betrayal 2021-05-31
 len of 5-day data: 1697
 number of topics: 12
 0:0_whatshappeninginmyanmar_charged_june1coup_vert
@@ -2777,7 +2777,7 @@ number of topics: 12
 10:10_the_fauci_emails_paul
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2020-05-22
+vaccines subversion 2020-05-22
 len of 5-day data: 499
 number of topics: 6
 0:0_johnson_the_lockdown_to
@@ -2787,7 +2787,7 @@ number of topics: 6
 4:4_moderna_execs_nearly_dumped
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_fairness_2021-08-08
+education fairness 2021-08-08
 len of 5-day data: 1463
 number of topics: 28
 0:0_board_youtube_via_school
@@ -2803,7 +2803,7 @@ number of topics: 28
 10:10_justice_want_we_exams
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_authority_2021-06-25
+vaccines authority 2021-06-25
 len of 5-day data: 738
 number of topics: 4
 0:0_the_to_co_https
@@ -2812,12 +2812,12 @@ number of topics: 4
 3:3_yoga_is_from_easy
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_betrayal_2021-02-03
+therapeutics betrayal 2021-02-03
 len of 5-day data: 71
 number of topics: 1
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-01-04
+lockdowns loyalty 2021-01-04
 len of 5-day data: 4408
 number of topics: 67
 0:0_students_school_learning_support
@@ -2833,7 +2833,7 @@ number of topics: 67
 10:10_scotland_midnight_full_sturgeon
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2020-05-27
+lockdowns care 2020-05-27
 len of 5-day data: 4895
 number of topics: 79
 0:0_quarantine_home_covid_stay
@@ -2849,7 +2849,7 @@ number of topics: 79
 10:10_stray_animals_entire_providing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-08-22
+vaccines cheating 2021-08-22
 len of 5-day data: 2962
 number of topics: 58
 0:0_fda_pfizer_approval_the
@@ -2865,7 +2865,7 @@ number of topics: 58
 10:10_pfizer_contract_albania_gatewaypundit
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2021-03-17
+masking cheating 2021-03-17
 len of 5-day data: 1283
 number of topics: 30
 0:0_arrested_woman_refusing_texas
@@ -2881,7 +2881,7 @@ number of topics: 30
 10:10_racist_asian_asians_blame
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2020-10-01
+vaccines cheating 2020-10-01
 len of 5-day data: 527
 number of topics: 7
 0:0_the_to_and_covid
@@ -2892,7 +2892,7 @@ number of topics: 7
 5:5_spring_until_ceo_moderna
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_subversion_2021-09-07
+masking subversion 2021-09-07
 len of 5-day data: 5611
 number of topics: 124
 0:0_congress_exempt_members_staff
@@ -2908,7 +2908,7 @@ number of topics: 124
 10:10_texas_abbott_district_week
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2020-11-06
+education care 2020-11-06
 len of 5-day data: 8269
 number of topics: 140
 0:0_lockdown_online_we_you
@@ -2924,7 +2924,7 @@ number of topics: 140
 10:10_pandemic_school_during_this
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_betrayal_2020-10-12
+vaccines betrayal 2020-10-12
 len of 5-day data: 468
 number of topics: 10
 0:0_the_johnson_of_and
@@ -2938,7 +2938,7 @@ number of topics: 10
 8:8_mask_vaccine_the_it
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2021-09-14
+therapeutics fairness 2021-09-14
 len of 5-day data: 687
 number of topics: 4
 0:0_gatewaypundit_via_india_pradesh
@@ -2946,7 +2946,7 @@ number of topics: 4
 2:2_huge_deworming_effectiveness_proving
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_betrayal_2020-06-06
+lockdowns betrayal 2020-06-06
 len of 5-day data: 1893
 number of topics: 38
 0:0_masks_wear_wearing_mask
@@ -2962,7 +2962,7 @@ number of topics: 38
 10:10_social_distancing_using_against
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_harm_2021-07-25
+masking harm 2021-07-25
 len of 5-day data: 10998
 number of topics: 168
 0:0_rescue_hurfom_teams_difficulties
@@ -2978,7 +2978,7 @@ number of topics: 168
 10:10_really_lawmaker_reportedly_refused
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-07-27
+vaccines cheating 2021-07-27
 len of 5-day data: 3595
 number of topics: 88
 0:0_trump_republicans_gop_and
@@ -2994,7 +2994,7 @@ number of topics: 88
 10:10_old_year_hoax_28
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_harm_2021-10-25
+masking harm 2021-10-25
 len of 5-day data: 5426
 number of topics: 113
 0:0_do_he_murphymandates_govmurphy
@@ -3010,7 +3010,7 @@ number of topics: 113
 10:10_replenishrrf_distribution_restaurantrevitalizationfund_saverestaurants
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_harm_2021-07-09
+vaccines harm 2021-07-09
 len of 5-day data: 19565
 number of topics: 418
 0:0_delta_variant_deltavariant_strain
@@ -3026,7 +3026,7 @@ number of topics: 418
 10:10_biden_door_joe_push
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_fairness_2021-07-25
+lockdowns fairness 2021-07-25
 len of 5-day data: 445
 number of topics: 6
 0:0_the_to_of_lockdown
@@ -3036,14 +3036,14 @@ number of topics: 6
 4:4_office_home_ensure_visa
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_betrayal_2021-11-02
+education betrayal 2021-11-02
 len of 5-day data: 177
 number of topics: 2
 0:0_the_to_and_in
 1:1_of_fbi_control_republican
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-07-09
+lockdowns loyalty 2021-07-09
 len of 5-day data: 936
 number of topics: 5
 0:0_the_to_lockdown_and
@@ -3053,7 +3053,7 @@ number of topics: 5
 4:4_96_sexy_reasons_while
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2020-07-26
+therapeutics authority 2020-07-26
 len of 5-day data: 359
 number of topics: 3
 0:0_the_to_of_and
@@ -3061,7 +3061,7 @@ number of topics: 3
 2:2_agile_atlanticpulse_gladstone_pfecolleague
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_betrayal_2021-10-13
+masking betrayal 2021-10-13
 len of 5-day data: 727
 number of topics: 12
 0:0_mask_the_to_wear
@@ -3077,7 +3077,7 @@ number of topics: 12
 10:10_own_that_my_face
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2020-09-25
+lockdowns care 2020-09-25
 len of 5-day data: 8181
 number of topics: 158
 0:0_lgrefrigerator_loveforlg_lgindia_lgfridgejeeto
@@ -3093,14 +3093,14 @@ number of topics: 158
 10:10_quarantine_pandemic_stay_home
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_betrayal_2021-06-28
+therapeutics betrayal 2021-06-28
 len of 5-day data: 213
 number of topics: 2
 0:0_to_covid_home_proper
 1:1_the_of_no_to
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2021-03-27
+therapeutics harm 2021-03-27
 len of 5-day data: 1775
 number of topics: 40
 0:0_vaccine_is_it_the
@@ -3116,7 +3116,7 @@ number of topics: 40
 10:10_unintended_stimulus_consequence_payments
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2020-11-17
+therapeutics subversion 2020-11-17
 len of 5-day data: 781
 number of topics: 20
 0:0_the_and_of_in
@@ -3132,7 +3132,7 @@ number of topics: 20
 10:10_todaysmedicalupdate_biotech_fmrevolution_medtech
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2021-07-10
+education loyalty 2021-07-10
 len of 5-day data: 3144
 number of topics: 24
 0:0_aungmyaytharzan_genocidal_overthrow_joined
@@ -3148,7 +3148,7 @@ number of topics: 24
 10:10_morning_the_forces_10
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2021-09-25
+masking fairness 2021-09-25
 len of 5-day data: 565
 number of topics: 5
 0:0_the_to_co_https
@@ -3158,7 +3158,7 @@ number of topics: 5
 4:4_their_women_stay_home
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2021-05-15
+education care 2021-05-15
 len of 5-day data: 9408
 number of topics: 167
 0:0_humansarenotshields_may16coup_whatshappeninginmyanmar_agricultural
@@ -3174,7 +3174,7 @@ number of topics: 167
 10:10_exams_exam_cancelexamssavestudents_take
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2021-10-22
+lockdowns loyalty 2021-10-22
 len of 5-day data: 457
 number of topics: 3
 0:0_the_lockdown_to_co
@@ -3182,7 +3182,7 @@ number of topics: 3
 2:2_vaccine_to_it_for
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-02-13
+therapeutics cheating 2020-02-13
 len of 5-day data: 322
 number of topics: 9
 0:0_breitbartnews_via_outbreak_medical
@@ -3195,7 +3195,7 @@ number of topics: 9
 7:7_breaking_outbreak_medical_supplies
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2021-10-28
+therapeutics subversion 2021-10-28
 len of 5-day data: 421
 number of topics: 10
 0:0_update_plummeted_indonesia_cases
@@ -3209,7 +3209,7 @@ number of topics: 10
 8:8_free_to_is_prices
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2020-12-20
+vaccines cheating 2020-12-20
 len of 5-day data: 2641
 number of topics: 52
 0:0_mask_wear_masks_refused
@@ -3225,14 +3225,14 @@ number of topics: 52
 10:10_you_marcorubio_hypocrite_your
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_authority_2021-05-19
+therapeutics authority 2021-05-19
 len of 5-day data: 171
 number of topics: 3
 0:0_the_to_covid_sir
 1:1_co_https_each_government
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2021-07-09
+education subversion 2021-07-09
 len of 5-day data: 8899
 number of topics: 52
 0:0_regime_morning_this_coalition
@@ -3248,7 +3248,7 @@ number of topics: 52
 10:10_nationwide_caution_retain_greater
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2021-02-08
+education care 2021-02-08
 len of 5-day data: 12436
 number of topics: 212
 0:0_mask_masks_wearing_wear
@@ -3264,7 +3264,7 @@ number of topics: 212
 10:10_meals_food_meal_hungry
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-04-27
+therapeutics care 2021-04-27
 len of 5-day data: 5469
 number of topics: 109
 0:0_india_oxygen_in_to
@@ -3280,7 +3280,7 @@ number of topics: 109
 10:10_medicines_prescription_provided_free
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_care_2021-07-15
+education care 2021-07-15
 len of 5-day data: 6125
 number of topics: 102
 0:0_yebyu_inhuman_dictator_tsp
@@ -3296,7 +3296,7 @@ number of topics: 102
 10:10_taught_pandemic_me_thing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_subversion_2021-02-14
+education subversion 2021-02-14
 len of 5-day data: 2396
 number of topics: 56
 0:0_lockdown_schools_march_again
@@ -3312,7 +3312,7 @@ number of topics: 56
 10:10_biden_schools_president_firestorm
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2020-11-11
+lockdowns care 2020-11-11
 len of 5-day data: 12454
 number of topics: 190
 0:0_revive_advisor_economy_control
@@ -3328,7 +3328,7 @@ number of topics: 190
 10:10_open_store_collect_shop
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2020-07-27
+therapeutics care 2020-07-27
 len of 5-day data: 6683
 number of topics: 127
 0:0_sanitizer_hand_masks_mask
@@ -3344,7 +3344,7 @@ number of topics: 127
 10:10_plasma_convalescent_donate_recovered
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-07-22
+vaccines fairness 2020-07-22
 len of 5-day data: 525
 number of topics: 12
 0:0_to_the_for_of
@@ -3360,7 +3360,7 @@ number of topics: 12
 10:10_dftfwxzkjm_truth_corona_vaccine
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_authority_2021-01-14
+masking authority 2021-01-14
 len of 5-day data: 1043
 number of topics: 9
 0:0_the_to_and_mask
@@ -3373,7 +3373,7 @@ number of topics: 9
 7:7_kaiser_reasons_news_re
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-05-18
+lockdowns harm 2020-05-18
 len of 5-day data: 5880
 number of topics: 135
 0:0_my_this_lockdown_me
@@ -3389,7 +3389,7 @@ number of topics: 135
 10:10_emissions_carbon_17_drop
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_loyalty_2020-10-31
+lockdowns loyalty 2020-10-31
 len of 5-day data: 7056
 number of topics: 87
 0:0_ukchange_sport_johnson_boris
@@ -3405,7 +3405,7 @@ number of topics: 87
 10:10_distance_mask_wear_hands
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_cheating_2021-09-13
+vaccines cheating 2021-09-13
 len of 5-day data: 3785
 number of topics: 81
 0:0_her_prn_was_resident
@@ -3421,7 +3421,7 @@ number of topics: 81
 10:10_misinformation_conspiracy_myths_19
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_loyalty_2021-05-10
+education loyalty 2021-05-10
 len of 5-day data: 3195
 number of topics: 28
 0:0_may11coup_monywa_100th_whatshappeninginmyanmar
@@ -3437,7 +3437,7 @@ number of topics: 28
 10:10_to_the_your_pandemic
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2021-01-20
+masking fairness 2021-01-20
 len of 5-day data: 366
 number of topics: 5
 0:0_to_the_and_of
@@ -3446,14 +3446,14 @@ number of topics: 5
 3:3_on_our_face_all
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_betrayal_2020-03-24
+lockdowns betrayal 2020-03-24
 len of 5-day data: 309
 number of topics: 2
 0:0_the_lockdown_to_and
 1:1_social_distancing_is_not
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_fairness_2021-01-19
+lockdowns fairness 2021-01-19
 len of 5-day data: 540
 number of topics: 4
 0:0_to_the_lockdown_co
@@ -3461,7 +3461,7 @@ number of topics: 4
 2:2_gatewaypundit_video_rejoins_accord
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_cheating_2021-07-27
+lockdowns cheating 2021-07-27
 len of 5-day data: 875
 number of topics: 22
 0:0_nsw_lockdown_sydney_to
@@ -3477,7 +3477,7 @@ number of topics: 22
 10:10_quarantine_hotel_who_he
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2020-11-11
+lockdowns subversion 2020-11-11
 len of 5-day data: 6876
 number of topics: 143
 0:0_lockdown_rules_on_back
@@ -3493,7 +3493,7 @@ number of topics: 143
 10:10_mask_wear_masks_wearing
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_care_2021-02-05
+therapeutics care 2021-02-05
 len of 5-day data: 3375
 number of topics: 87
 0:0_sanitizer_hand_mask_your
@@ -3509,7 +3509,7 @@ number of topics: 87
 10:10_bowl_super_superbowl_brady
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_loyalty_2020-11-12
+therapeutics loyalty 2020-11-12
 len of 5-day data: 305
 number of topics: 8
 0:0_the_and_to_https
@@ -3521,7 +3521,7 @@ number of topics: 8
 6:6_please_cancelled_retweet_away
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_fairness_2021-10-29
+masking fairness 2021-10-29
 len of 5-day data: 481
 number of topics: 4
 0:0_to_the_co_https
@@ -3530,7 +3530,7 @@ number of topics: 4
 3:3_their_taliban_of_regime
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_subversion_2021-09-20
+vaccines subversion 2021-09-20
 len of 5-day data: 18333
 number of topics: 238
 0:0_hhsgov_mat_shove_effect
@@ -3546,7 +3546,7 @@ number of topics: 238
 10:10_hhsgov_mat_shove_effect
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_subversion_2020-10-30
+lockdowns subversion 2020-10-30
 len of 5-day data: 15598
 number of topics: 244
 0:0_covid_covid19_lockdowns_covidiots
@@ -3562,7 +3562,7 @@ number of topics: 244
 10:10_science_scientific_scientists_advice
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_subversion_2020-06-03
+therapeutics subversion 2020-06-03
 len of 5-day data: 463
 number of topics: 10
 0:0_and_democrats_media_hit
@@ -3576,7 +3576,7 @@ number of topics: 10
 8:8_drug_19_prevent_fails
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_education_cheating_2020-07-29
+education cheating 2020-07-29
 len of 5-day data: 1209
 number of topics: 26
 0:0_racism_the_and_co
@@ -3592,7 +3592,7 @@ number of topics: 26
 10:10_hoax_covid_online_cure
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_care_2021-10-21
+vaccines care 2021-10-21
 len of 5-day data: 26609
 number of topics: 540
 0:0_congratulations_100crorevaccination_narendramodi_achievement
@@ -3608,7 +3608,7 @@ number of topics: 540
 10:10_ages_11_november_soon
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-06-03
+therapeutics cheating 2020-06-03
 len of 5-day data: 340
 number of topics: 5
 0:0_the_hydroxychloroquine_https_co
@@ -3617,14 +3617,14 @@ number of topics: 5
 3:3_delhi_treatment_in_hospitals
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_vaccines_fairness_2020-02-26
+vaccines fairness 2020-02-26
 len of 5-day data: 61
 number of topics: 2
 0:0_the_vaccine_co_https
 1:1_azar_health_secretary_alex
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_cheating_2021-07-26
+masking cheating 2021-07-26
 len of 5-day data: 2334
 number of topics: 51
 0:0_wear_mask_to_you
@@ -3640,7 +3640,7 @@ number of topics: 51
 10:10_lying_lies_covid_what
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_harm_2021-07-05
+therapeutics harm 2021-07-05
 len of 5-day data: 2101
 number of topics: 44
 0:0_maw_by_insein_apr12
@@ -3656,7 +3656,7 @@ number of topics: 44
 10:10_epidemic_opioid_drug_overdose
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_care_2021-09-17
+lockdowns care 2021-09-17
 len of 5-day data: 3109
 number of topics: 68
 0:0_lockdown_we_christmas_defense
@@ -3672,7 +3672,7 @@ number of topics: 68
 10:10_victoria_melbourne_end_cent
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_lockdowns_harm_2020-04-20
+lockdowns harm 2020-04-20
 len of 5-day data: 4898
 number of topics: 98
 0:0_this_lockdown_me_my
@@ -3688,7 +3688,7 @@ number of topics: 98
 10:10_covid_19_data_lockdown
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_cheating_2020-09-30
+therapeutics cheating 2020-09-30
 len of 5-day data: 822
 number of topics: 9
 0:0_the_to_he_and
@@ -3701,14 +3701,14 @@ number of topics: 9
 7:7_govt_amp_doctors_and
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_therapeutics_fairness_2020-07-27
+therapeutics fairness 2020-07-27
 len of 5-day data: 266
 number of topics: 3
 0:0_the_to_co_https
 1:1_katy_christian_magazine_fights
 
 
-/nas/home/siyiguo/event_changes/covid_topic_model/tm_masking_loyalty_2021-07-03
+masking loyalty 2021-07-03
 len of 5-day data: 2465
 number of topics: 8
 0:0_donating_awareness_held_hpakant
