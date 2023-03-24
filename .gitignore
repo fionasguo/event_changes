@@ -1,4 +1,7 @@
 *.DS_Store*
 SpanEmo*
-*.csv
-*.ipynb
+*.pdf
+*.pdf.icloud
+*.pptx
+*.png
+*ipynb_checkpoints*
