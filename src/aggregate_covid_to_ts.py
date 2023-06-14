@@ -1,6 +1,7 @@
 """
+Aggregate emotion detection results on individual tweets to time series
 command to run: 
-# python aggregate_df.py "/data/Coronavirus-Tweets/Covid19_Full_Dataset/mf_annotations" "['political','issue']" 
+python aggregate_to_ts.py "/data/Coronavirus-Tweets/Covid19_Full_Dataset/mf_annotations" "['political','issue']" 
 """
 
 
