@@ -5,3 +5,7 @@ SpanEmo*
 *.pptx
 *.png
 *ipynb_checkpoints*
+*covid_topic_models/*
+CIA_*
+*__pycache__*
+*LA_topic_models/*
