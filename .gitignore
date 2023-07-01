@@ -7,3 +7,8 @@ SpanEmo*
 *.jpg
 *ipynb_checkpoints*
 *__pycache__*
+*ipynb_checkpoints*
+*covid_topic_models/*
+CIA_*
+*__pycache__*
+*LA_topic_models/*
