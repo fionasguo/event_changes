@@ -26,5 +26,5 @@ With emotions and moral foundations annotated on individual tweets, we aggregate
 Environment: python 3.9.17, see cpd_env_requirements_python_3_9_17.txt to setup (THIS ENV IS TRICKY, only successfully set up on local laptop). Run LA_agg_data_ts_plot_cpd.ipynb notebook (on COVID data: CPD_ts_from_ashwin.ipynb, this has measuring the magnitude of changes).
 
 ## Topic Modeling
-python 3.9.13, setup with requirements_topic_modeling_3_9_13.txt, run topic_modeling_multi.py
+python 3.9.13, setup with requirements_topic_modeling_3_9_13.txt, run `topic_modeling_multi.py`
 
