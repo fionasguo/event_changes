@@ -4,4 +4,6 @@ SpanEmo*
 *.pdf.icloud
 *.pptx
 *.png
+*.jpg
 *ipynb_checkpoints*
+*__pycache__*
