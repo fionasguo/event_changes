@@ -1,0 +1,2440 @@
+anger_2020-02-03
+all data (4 days bf to 3 days af):
+len of data: 15389
+number of topics: 225
+0:['la', 'car', 'drivers', 'traffic', 'drive', 'driving', 'uber', 'parking', 'freeway', 'driver']
+1:['nigga', 'niggas', 'lmao', 'got', 'em', 'really']
+2:['black', 'white', 'racist', 'racism', 'race', 'month', 'history', 'women', 'people', 'men']
+3:['twitter', 'tweet', 'tweets', 'social', 'media', 'tweeting', 'tl', 'retweet', 'account', 'retweeting']
+4:['pelosi', 'nancy', 'speech', 'resign', 'hillary', 'trump', 'shes', 'tear']
+5:['bitch', 'bitches', 'bad', 'baddest', 'hating', 'im', 'hamburger', 'love', 'meet']
+6:['song', 'album', 'music', 'listen', 'listening', 'songs', 'band', 'dj', 'fucking', 'rap']
+7:['impeachment', 'impeached', 'impeach', 'forever', 'trial', 'president', 'articles', 'trump', 'senate', 'sham']
+8:['trump', 'president', 'lies', 'alexander', 'lie', 'donald', 'lying', 'liar']
+9:['eat', 'fries', 'chicken', 'cheese', 'food', 'salad', 'rice', 'mcdonald', 'pizza', 'eating']
+10:['meg', 'megan', 'alex', 'shes', 'kate', 'billie', 'sana', 'girl']
+
+before data (4 days bf to 1 days bf):
+len of data: 3831
+number of topics: 65
+0:['money', 'rich', 'broke', 'scam']
+1:['kobe', 'lakers', 'game', 'bryant', 'lebron', 'mamba', 'booker']
+2:['nigga', 'niggas', 'ion', 'hood', 'got', 'em']
+3:['shes', 'shakira', 'bitch']
+4:['la', 'car', 'traffic', 'drive', 'drivers', 'driving', 'los', 'angeles']
+5:['mood', 'hurt', 'pissed', 'feel', 'mad', 'tire', 'feeling', 'hurts', 'pain']
+6:['fuck', 'shut', 'shit', 'lmaooo', 'fucken', 'wtf', 'lmfao', 'right']
+7:['twitter', 'tweet', 'media', 'social', 'shit', 'tweets', 'retweeting']
+8:['song', 'album', 'music', 'rap', 'songs', 'listen', 'crap', 'fucking', 'ass']
+9:['witnesses', 'trial', 'coverup', 'evidence', 'court', 'witness', 'senate']
+10:['impeachment', 'impeached', 'trial', 'president', 'traitor', 'trump', 'articles']
+
+after data (event to 3 days af):
+len of data: 6955
+number of topics: 111
+0:['nigga', 'niggas', 'bitch', 'got']
+1:['shit', 'fuck', 'fuckin', 'lmao', 'damn', 'miss', 'hell', 'fucking']
+2:['car', 'la', 'traffic', 'drive', 'driving', 'drivers', 'home', 'freeway', 'road']
+3:['pelosi', 'nancy', 'speech', 'resign', 'trump', 'tear', 'ripping']
+4:['black', 'white', 'racist', 'racism', 'history', 'people', 'month', 'man', 'men', 'women']
+5:['disney', 'movie', 'bachelor', 'theater', 'netflix', 'bad', 'peter', 'villain']
+6:['hate', 'haters', 'dtha', 'hating', 'pride', 'lmfao', 'unpopular', 'cringe', 'dislike']
+7:['bitches', 'bitch', 'bad', 'fuck', 'rosa', 'fkn', 'parks', 'good']
+8:['song', 'music', 'album', 'listen', 'yall', 'listening', 'chris', 'songs', 'records']
+9:['twitter', 'tweet', 'tweets', 'retweet', 'social', 'kill', 'tweeting', 'said']
+10:['impeachment', 'impeached', 'impeach', 'president', 'forever', 'trump', 'senate', 'donald', 'office', 'trial']
+
+
+
+anger_2020-03-10
+all data (4 days bf to 3 days af):
+len of data: 16523
+number of topics: 239
+0:['bitch', 'bitches', 'love', 'blind', 'jessica', 'bad', 'shes', 'girl']
+1:['nigga', 'niggas', 'lil', 'yo', 'like', 'yall', 'wit', 'real']
+2:['school', 'classes', 'college', 'class', 'schools', 'online', 'students', 'professor', 'semester', 'teacher']
+3:['biden', 'joe', 'bernie', 'vote', 'trump', 'dementia', 'win', 'bidens', 'sanders', 'debate']
+4:['corona', 'virus', 'coronavirus', 'aids', 'memes', 'outbreak', 'stupid', 'fuck', 'covid', 'baddie']
+5:['trump', 'president', 'words', 'nervous', 'lies', 'impeached', 'liar', 'incompetence']
+6:['trump', 'pandemic', 'coronavirus', 'virus', 'wing', 'experts', 'response', 'hoax', 'covid', 'cdc']
+7:['twitter', 'tweet', 'tweets', 'retweet', 'social', 'retweeting', 'media', 'vengeance', 'tweeting', 'shady']
+8:['prison', 'jail', 'cops', 'arrested', 'harvey', 'weinstein', 'sentenced', 'terrorist', 'police', 'arrest']
+9:['lakers', 'clippers', 'lebron', 'game', 'lake', 'kobe', 'bradley', 'laker', 'bucks', 'bron']
+10:['quarantine', 'quarantined', 'self', 'room', 'rations', 'pirates']
+
+before data (4 days bf to 1 days bf):
+len of data: 3561
+number of topics: 55
+0:['bitch', 'bitches', 'ass', 'like']
+1:['lakers', 'clippers', 'lebron', 'game']
+2:['nigga', 'niggas', 'like', 'yo', 'dm', 'one']
+3:['sleep', 'hours', 'daylight', 'savings', 'time', 'change', 'shift', 'hour', 'night']
+4:['trump', 'president', 'impeached']
+5:['car', 'dog', 'door', 'birthday', 'dogs', 'accord']
+6:['coronavirus', 'virus', 'corona', 'flu', 'covid', 'quarantine', 'panic']
+7:['drunk', 'drink', 'coffee', 'drinks', 'beer', 'drinking', 'bottle', 'na', 'bitch', 'one']
+8:['food', 'eat', 'ate', 'butter', 'cookies', 'milk', 'sandwich', 'rice']
+9:['white', 'racist', 'racism', 'people', 'black', 'feminists', 'guy', 'men']
+10:['money', 'price', 'pay', 'app', 'charge', 'scam', 'customer']
+
+after data (event to 3 days af):
+len of data: 7699
+number of topics: 105
+0:['nba', 'season', 'sports', 'suspended', 'rudy', 'game', 'team', 'gobert', 'lakers', 'lebron']
+1:['school', 'classes', 'schools', 'online', 'class', 'students', 'semester', 'college', 'cancelled']
+2:['nigga', 'niggas', 'wit', 'yo', 'like', 'uzi']
+3:['stupid', 'idiot', 'fool', 'dumb', 'liar', 'shame', 'hes', 'joke']
+4:['food', 'store', 'grocery', 'stores', 'milk', 'eat', 'costco', 'groceries', 'people']
+5:['rain', 'car', 'drive', 'raining', 'uber', 'driving', 'traffic', 'weather', 'driver']
+6:['trump', 'president', 'lies', 'acres', 'impeached', 'million']
+7:['paper', 'toilet', 'tp', 'water', 'buying', 'hoarding', 'people', 'store']
+8:['bitch', 'said', 'ass', 'nene', 'shes', 'crowd', 'mad']
+9:['twitter', 'tweet', 'social', 'account', 'tweets', 'hacked', 'instagram', 'follow', 'media']
+10:['corona', 'virus', 'coronavirus', 'fuck', 'beer', 'stupid', 'outbreak', 'illegal']
+
+
+
+anger_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 18010
+number of topics: 228
+0:['floyd', 'george', 'justice', 'murdered', 'murder', 'lives', 'matter', 'black', 'police']
+1:['cops', 'police', 'officers', 'cop', 'badge', 'officer', 'good', 'fuck']
+2:['nigga', 'niggas', 'wit', 'lil', 'niggaz', 'lmao', 'rickey', 'got', 'young']
+3:['twitter', 'tweet', 'tweets', 'social', 'tweeting', 'media', 'retweet', 'delete', 'see']
+4:['eat', 'eating', 'food', 'meat', 'taste', 'ate', 'coffee', 'cheese', 'cook', 'hungry']
+5:['covid', 'pandemic', 'virus', 'coronavirus', 'corona', 'flu', 'deaths', 'tested']
+6:['president', 'trump', 'donald', 'unfit', 'impeached', 'deranged']
+7:['protest', 'peaceful', 'protesting', 'protests', 'protesters', 'peacefully', 'right']
+8:['looting', 'looted', 'beach', 'small', 'long', 'business', 'target', 'topic', 'la', 'smh']
+9:['refund', 'card', 'credit', 'sold', 'amazon', 'order', 'buying', 'customer', 'package', 'purchase']
+10:['sleep', 'work', 'wake', 'morning', 'early', 'woke', 'sleeping', 'bed']
+
+before data (4 days bf to 1 days bf):
+len of data: 3069
+number of topics: 49
+0:['drunk', 'drink', 'spit', 'drinking', 'mouth', 'ass', 'fat']
+1:['lana', 'like', 'bitch']
+2:['biden', 'black', 'joe', 'racist', 'trump', 'vote', 'people']
+3:['morning', 'pm', 'day', 'today', 'work', 'night']
+4:['niggas', 'nigga', 'wit', 'shit', 'lmao']
+5:['voting', 'senate', 'democrats', 'mail', 'government']
+6:['pandemic', 'covid', 'virus', 'people']
+7:['episode', 'movie', 'doja', 'show', 'damn', 'last']
+8:['tweet', 'tweets', 'twitter', 'delete', 'tweeting', 'yes', 'ass', 'talk']
+9:['pay', 'charge', 'credit', 'number', 'phone', 'im', 'account']
+10:['california', 'la', 'angeles', 'los', 'beach', 'hollywood']
+
+after data (event to 3 days af):
+len of data: 7748
+number of topics: 105
+0:['black', 'white', 'cops', 'racist', 'police', 'people', 'racism']
+1:['twitter', 'tweet', 'tweets', 'trump', 'social', 'media']
+2:['nigga', 'niggas', 'ion', 'lmao', 'lil', 'wit', 'got', 'like']
+3:['shit', 'bullshit', 'fuck', 'wtf', 'damn', 'bro', 'lmao', 'fuckin', 'fucken']
+4:['looting', 'starts', 'shooting', 'looted', 'target', 'natives', 'city']
+5:['people', 'waah', 'fault', 'say', 'rude']
+6:['refund', 'customer', 'service', 'pay', 'tax', 'card', 'return']
+7:['president', 'trump', 'donald', 'leadership', 'impeached', 'politics', 'man']
+8:['disgusting', 'cancel', 'damn', 'denise', 'jeff', 'drip', 'kellie', 'erika']
+9:['riots', 'rioting', 'riot', 'rioters', 'people']
+10:['sleep', 'woke', 'wake', 'waking', 'midnight', 'clock', 'hours', 'damn']
+
+
+
+anticipation_2020-01-26
+all data (4 days bf to 3 days af):
+len of data: 5982
+number of topics: 98
+0:['kobe', 'lakers', 'mamba', 'bryant', 'game', 'staples', 'rip', 'lebron']
+1:['la', 'california', 'los', 'beach', 'angeles', 'date', 'travel']
+2:['students', 'school', 'semester', 'class', 'youth', 'council', 'week', 'community']
+3:['movie', 'film', 'wars', 'films', 'movies', 'parasite', 'seen']
+4:['gym', 'workout', 'workouts', 'weight', 'fitness', 'hit', 'body', 'start', 'energy']
+5:['song', 'music', 'album', 'new', 'spotify', 'single', 'listen', 'songs', 'beats']
+6:['bowl', 'super', 'superbowl', 'stadium', 'sunday', 'ers', 'chiefs', 'liv', 'miami', 'game']
+7:['grammys', 'grammy', 'carpet', 'grammyweekend', 'hollywood', 'red', 'staples', 'prince', 'attend']
+8:['tickets', 'win', 'ticket', 'enter', 'giveaway', 'entered', 'winner', 'tag', 'vip', 'giving']
+9:['hair', 'makeup', 'appointment', 'lash', 'nails', 'haircut', 'wait']
+10:['pm', 'band', 'show', 'bass', 'music', 'concert', 'tonight', 'rock']
+
+before data (4 days bf to 1 days bf):
+len of data: 1614
+number of topics: 28
+0:['ca', 'job', 'bio', 'link', 'hiring', 'click', 'apply', 'jobs']
+1:['game', 'league', 'zion']
+2:['la', 'angeles', 'los', 'back']
+3:['music', 'song', 'album', 'spotify', 'listen', 'new']
+4:['drink', 'food', 'pizza', 'forget', 'dinner']
+5:['see', 'wait', 'next', 'soon', 'finally']
+6:['project', 'book', 'im', 'new', 'one', 'books']
+7:['school', 'semester', 'course', 'aime', 'teacher', 'learning', 'class', 'students']
+8:['gym', 'cbd', 'yoga', 'fitness', 'weight', 'crystal']
+9:['wedding', 'party', 'date', 'birthday', 'us', 'friend', 'married']
+10:['show', 'season', 'netflix', 'ray', 'episode', 'back', 'watching']
+
+after data (event to 3 days af):
+len of data: 2347
+number of topics: 40
+0:['ca', 'job', 'bio', 'link', 'apply', 'click', 'hiring', 'work']
+1:['kobe', 'lakers', 'bryant', 'rip', 'mamba', 'staples']
+2:['la', 'beach', 'california', 'hollywood', 'los', 'angeles', 'huntington']
+3:['tonight', 'music', 'concert', 'band', 'night', 'presents']
+4:['grammys', 'grammy', 'carpet', 'staples', 'hollywood', 'prince', 'tonight', 'center', 'red']
+5:['meeting', 'community', 'state', 'pm', 'council']
+6:['album', 'single', 'new', 'music', 'feat', 'songs', 'beats', 'song']
+7:['video', 'watch', 'youtube', 'camera', 'live', 'videos', 'new']
+8:['game', 'pm', 'soccer', 'pts', 'baseball', 'vs', 'league', 'college', 'games']
+9:['movie', 'wars', 'seen', 'skywalker', 'time', 'watching']
+10:['come', 'visit', 'see', 'fml', 'scorts']
+
+
+
+anticipation_2020-03-13
+all data (4 days bf to 3 days af):
+len of data: 6305
+number of topics: 103
+0:['watch', 'movie', 'season', 'watching', 'netflix', 'watched', 'episode', 'show']
+1:['covid', 'coronavirus', 'virus', 'pandemic']
+2:['biden', 'bernie', 'joe', 'debate', 'vote', 'vp', 'sanders', 'trump', 'warren']
+3:['album', 'song', 'music', 'new', 'listen', 'single', 'platforms', 'release']
+4:['school', 'online', 'classes', 'students', 'class', 'semester', 'schools', 'learning', 'teachers', 'remote']
+5:['lakers', 'clippers', 'nba', 'game', 'lebron', 'nets', 'staples', 'kobe', 'beat', 'win']
+6:['gym', 'workout', 'fitness', 'training', 'workouts', 'twice', 'run']
+7:['girl', 'baby', 'still', 'surprise']
+8:['job', 'ca', 'physician', 'click', 'bio', 'nurse', 'link', 'care', 'medical', 'healthcare']
+9:['see', 'come', 'ready', 'spot', 'bye', 'soon', 'minute']
+10:['la', 'california', 'los', 'angeles', 'seattle', 'dating']
+
+before data (4 days bf to 1 days bf):
+len of data: 1593
+number of topics: 26
+0:['ca', 'job', 'bio', 'link', 'click', 'apply', 'hiring']
+1:['watch', 'episode', 'film', 'show', 'season']
+2:['biden', 'vote', 'bernie']
+3:['flight', 'la', 'trip', 'chicago', 'flights']
+4:['music', 'song', 'cover', 'album']
+5:['classes', 'online', 'students', 'housing', 'please', 'test']
+6:['week', 'start', 'weekend', 'sunday', 'friday', 'monday', 'going', 'great']
+7:['let', 'want', 'okay', 'ready', 'see', 'lmao', 'alright', 'come']
+8:['try', 'forward', 'excited', 'checking', 'wait']
+9:['get', 'painting', 'custom', 'paper']
+10:['workout', 'gym', 'fitness', 'twice', 'equinox', 'challenge', 'energy']
+
+after data (event to 3 days af):
+len of data: 2590
+number of topics: 36
+0:['ready', 'wait', 'time', 'waiting']
+1:['game', 'year', 'brady', 'season']
+2:['ca', 'job', 'bio', 'link', 'apply', 'click', 'latest', 'hiring']
+3:['album', 'music', 'new', 'song', 'listen']
+4:['la', 'trip', 'california', 'go', 'angeles', 'los']
+5:['food', 'store', 'open', 'order', 'tomorrow']
+6:['watch', 'season', 'netflix', 'watching', 'watched', 'binge', 'good', 'need', 'episodes']
+7:['coronavirus', 'covid', 'pandemic', 'virus', 'corona', 'make']
+8:['tok', 'tiktok', 'tik', 'pics', 'new', 'since']
+9:['biden', 'debate', 'bernie', 'joe', 'sanders', 'dem', 'democratic', 'vp']
+10:['tour', 'lollapalooza', 'concert', 'fest', 'event', 'canceled', 'show', 'tickets']
+
+
+
+anticipation_2020-05-29
+all data (4 days bf to 3 days af):
+len of data: 3942
+number of topics: 65
+0:['music', 'movie', 'new', 'watch', 'song']
+1:['students', 'school', 'class', 'graduation', 'learning', 'semester', 'fall']
+2:['cooper', 'rona', 'think', 'wedding', 'girl']
+3:['protest', 'protests', 'peaceful', 'santa', 'protesters', 'people']
+4:['workout', 'coach', 'jonathan', 'wod', 'strength', 'karlos', 'gym', 'fitness', 'movements', 'home']
+5:['ca', 'physician', 'job', 'healthcare', 'click', 'care', 'nursing', 'angeles', 'los', 'health']
+6:['nfl', 'season', 'league', 'qb', 'troy', 'kaepernick', 'rb', 'saints', 'athletes']
+7:['open', 'reopening', 'reopen', 'restaurants', 'stores', 'shop', 'pm', 'mall']
+8:['black', 'matter', 'lives', 'blm', 'race', 'white', 'support']
+9:['biden', 'president', 'joe', 'trump', 'house', 'harris', 'white', 'kamala', 'convention']
+10:['video', 'dreamworks', 'tv', 'youtube', 'mokoya', 'channel', 'new', 'art']
+
+before data (4 days bf to 1 days bf):
+len of data: 1085
+number of topics: 18
+0:['music']
+1:['ca', 'job', 'bio', 'link', 'click', 'apply', 'latest']
+2:['california', 'go', 'beach', 'ready', 'day', 'angeles', 'get']
+3:['nba', 'lakers', 'games', 'season', 'add']
+4:['try', 'one', 'get', 'let', 'soon', 'check']
+5:['order', 'dinner', 'pm']
+6:['wait', 'waiting', 'forward', 'production', 'looking']
+7:['workout', 'zoom', 'coach']
+8:['hair', 'would', 'look', 'haircut', 'wait', 'done']
+9:['students', 'final', 'learning', 'class']
+10:['trump', 'biden', 'president', 'twitter', 'harris']
+
+after data (event to 3 days af):
+len of data: 1576
+number of topics: 24
+0:['new', 'movie']
+1:['ca', 'job', 'bio', 'click', 'link', 'jobs', 'hiring', 'latest']
+2:['see', 'let', 'ready', 'wait']
+3:['vote', 'november', 'election', 'trump', 'white', 'house']
+4:['season', 'play', 'kaepernick']
+5:['protest', 'protests', 'peaceful']
+6:['curfew', 'tonight', 'county', 'pm', 'la', 'safe', 'city', 'starting', 'angeles', 'los']
+7:['tomorrow', 'friday', 'deal', 'days', 'hz', 'mondays']
+8:['black', 'matter', 'lives', 'blm']
+9:['open', 'reopening', 'restaurants', 'reopen', 'bn', 'closed', 'stores']
+10:['help', 'try', 'exactly', 'willing', 'learn']
+
+
+
+anticipation_2020-06-09
+all data (4 days bf to 3 days af):
+len of data: 3742
+number of topics: 54
+0:['ca', 'job', 'bio', 'latest', 'link', 'click', 'hiring', 'apply']
+1:['season', 'play', 'lakers', 'game']
+2:['music', 'song', 'album', 'new', 'listen', 'worth']
+3:['la', 'angeles', 'los', 'california', 'trip', 'visit']
+4:['weekend', 'morning', 'day', 'tomorrow', 'friday', 'saturday', 'internet', 'week', 'work']
+5:['ps', 'reveal', 'play', 'playstation', 'xbox', 'games', 'game', 'gaming']
+6:['food', 'dinein', 'wine', 'open', 'orders', 'make']
+7:['waiting', 'ready', 'baby', 'offer', 'edit']
+8:['gym', 'gyms', 'workout', 'open', 'back', 'need', 'opening', 'fitness']
+9:['biden', 'trump', 'election', 'president', 'hes', 'governor', 'republican', 'senate']
+10:['season', 'episodes', 'episode', 'rewatching', 'watching', 'molly', 'watch']
+
+before data (4 days bf to 1 days bf):
+len of data: 866
+number of topics: 17
+0:['black']
+1:['job', 'ca', 'link', 'bio', 'click', 'hiring']
+2:['california', 'tomorrow', 'los', 'angeles']
+3:['season', 'watch', 'episode', 'episodes', 'movie', 'series', 'sanditon']
+4:['live', 'twitch', 'mokoya']
+5:['new', 'music', 'listen', 'album', 'single', 'worth', 'need']
+6:['game', 'play', 'man']
+7:['waiting', 'let', 'keep', 'know', 'finally', 'soon']
+8:['open', 'pm', 'food', 'dinein', 'sunday']
+9:['clothes', 'shopping', 'weeks', 'andfabulous']
+10:['tattoo', 'hair', 'haircut', 'fangs', 'orthodontist', 'sabretooth', 'sebastiaan', 'bayyanl']
+
+after data (event to 3 days af):
+len of data: 1733
+number of topics: 33
+0:['ca', 'job', 'latest', 'bio', 'apply', 'click', 'link', 'los']
+1:['baseball', 'back', 'season']
+2:['watch', 'season', 'watching', 'netflix', 'wait', 'episode']
+3:['uh', 'date', 'see', 'call', 'let']
+4:['vote', 'lives', 'biden', 'election', 'black', 'trump', 'matter']
+5:['music', 'pm', 'tonight', 'song', 'album', 'live', 'pst']
+6:['ps', 'reveal', 'xbox', 'playstation', 'games', 'play', 'menu', 'like']
+7:['weekend', 'friday', 'ta', 'hours', 'work', 'day', 'morning', 'tomorrow']
+8:['meet', 'named', 'name', 'rose']
+9:['photo', 'shoot', 'photography', 'challenge', 'beverly']
+10:['hollywood', 'film', 'movie', 'sag', 'crew']
+
+
+
+disgust_2020-02-03
+all data (4 days bf to 3 days af):
+len of data: 17421
+number of topics: 235
+0:['eat', 'food', 'eating', 'cheese', 'chicken', 'fries', 'rice', 'stomach', 'fish', 'taco']
+1:['fuck', 'shit', 'fucked', 'fucking', 'damn', 'fucken', 'wtf', 'lmao', 'funniest']
+2:['nigga', 'niggas', 'yo', 'trippin', 'got', 'ya']
+3:['tax', 'healthcare', 'california', 'state', 'homeless', 'health', 'jobs', 'medicare', 'cuts', 'budget']
+4:['la', 'traffic', 'car', 'drive', 'driving', 'drivers', 'los', 'parking', 'angeles', 'freeway']
+5:['black', 'white', 'racist', 'racism', 'history', 'month', 'race', 'privilege', 'women', 'people']
+6:['pelosi', 'nancy', 'speech', 'hillary', 'trump', 'shes', 'tear', 'clinton']
+7:['song', 'album', 'music', 'listening', 'listen', 'songs', 'rap', 'lyrics', 'eminem', 'spotify']
+8:['impeached', 'impeachment', 'impeach', 'forever', 'trial', 'trump', 'acquitted', 'president', 'senate', 'articles']
+9:['twitter', 'tweet', 'tweets', 'social', 'media', 'tweeting', 'tweeted', 'facebook', 'shit', 'retweeting']
+10:['bitch', 'bitches', 'bad', 'aventura', 'baddest', 'rosa', 'fuck', 'btsm', 'parks']
+
+before data (4 days bf to 1 days bf):
+len of data: 4354
+number of topics: 64
+0:['money', 'la']
+1:['kobe', 'lakers', 'game', 'bryant', 'mamba', 'team', 'lebron']
+2:['nigga', 'niggas', 'hood']
+3:['eat', 'fries', 'cookies', 'tastes', 'tacos', 'diet', 'pizza', 'seeds', 'cornbread']
+4:['black', 'white', 'racist', 'dog', 'women', 'culture']
+5:['shakira', 'shes', 'britney', 'years', 'stand']
+6:['song', 'album', 'music', 'listen', 'rap', 'songs', 'crap', 'listening']
+7:['virus', 'coronavirus', 'china', 'travel', 'corona', 'masks', 'outbreak', 'flu']
+8:['mom', 'dad', 'little', 'sisters', 'mama', 'moms', 'sister']
+9:['skinny', 'ass', 'gym', 'workout', 'eat', 'body', 'leg', 'movement', 'week', 'ran']
+10:['twitter', 'tweet', 'tweets', 'shit', 'tweeted', 'tweeting', 'instagram', 'social']
+
+after data (event to 3 days af):
+len of data: 7846
+number of topics: 111
+0:['shit', 'fuck', 'fucking', 'damn', 'miss', 'fuckin', 'lmao', 'shut', 'lol']
+1:['meek', 'meg', 'megan', 'nicki', 'gayle', 'shes', 'oprah']
+2:['nigga', 'niggas', 'bitch', 'got']
+3:['eat', 'food', 'eating', 'chicken', 'rice', 'hungry', 'meat', 'meal', 'cook']
+4:['black', 'white', 'racist', 'racism', 'history', 'people', 'month', 'women', 'man', 'men']
+5:['pelosi', 'nancy', 'speech', 'resign', 'trump', 'speaker']
+6:['lakers', 'kobe', 'trade', 'clippers', 'traded', 'team', 'nba', 'bryant', 'lebron', 'morris']
+7:['bitch', 'bitches', 'fuck', 'bad', 'sister']
+8:['twitter', 'tweet', 'tweets', 'social', 'retweet', 'media', 'posts', 'see']
+9:['trump', 'lies', 'lie', 'liar', 'president']
+10:['song', 'music', 'album', 'listening', 'listen', 'songs', 'lyrics', 'soundcloud', 'yall', 'slap']
+
+
+
+disgust_2020-02-14
+all data (4 days bf to 3 days af):
+len of data: 15953
+number of topics: 202
+0:['la', 'traffic', 'car', 'drive', 'uber', 'california', 'parking', 'driver', 'city', 'angeles']
+1:['bitch', 'bitches', 'peter', 'bad', 'bachelor', 'baddest', 'ass']
+2:['shit', 'fuck', 'hate', 'fucking', 'lmao', 'oh', 'bro', 'lmfao', 'damn']
+3:['nigga', 'niggas', 'wit', 'ass', 'bitch', 'niggaz', 'got', 'yo']
+4:['eat', 'food', 'eating', 'chicken', 'cheese', 'milk', 'diet', 'meat', 'ate', 'hot']
+5:['music', 'song', 'album', 'songs', 'listening', 'new', 'eminem', 'listen', 'slaps', 'rap']
+6:['twitter', 'tweet', 'tweets', 'social', 'retweeted', 'media', 'tweeting', 'tweeted', 'liking', 'followers']
+7:['white', 'black', 'racist', 'racism', 'color', 'men', 'people', 'women', 'folks']
+8:['money', 'cash', 'card', 'bank', 'pay', 'free', 'spend', 'account', 'owe']
+9:['bloomberg', 'debate', 'michael', 'dem', 'racist', 'mike', 'trump', 'vote', 'frisk', 'democratic']
+10:['class', 'school', 'math', 'teacher', 'grade', 'college', 'students', 'high', 'professor', 'teachers']
+
+before data (4 days bf to 1 days bf):
+len of data: 4126
+number of topics: 52
+0:['trump', 'vote', 'barr', 'president']
+1:['team', 'game', 'players', 'athletes', 'play']
+2:['phone', 'money', 'check']
+3:['nigga', 'niggas', 'play', 'fuck']
+4:['food', 'eating', 'eat', 'cheese', 'pizza', 'meat', 'milk', 'bad', 'seafood']
+5:['shit', 'bullshit', 'lmaoo', 'lol', 'bro', 'fuck', 'lmao', 'wtf', 'dude']
+6:['oscars', 'movie', 'hollywood', 'oscar', 'film', 'joker', 'academy']
+7:['music', 'eminem', 'listening', 'song', 'songs', 'album', 'lyrics', 'rap']
+8:['twitter', 'tweet', 'tweets', 'tl', 'tweeted', 'read']
+9:['bitch', 'bitches', 'redacted', 'prom', 'wig']
+10:['people', 'hate', 'everyone', 'person']
+
+after data (event to 3 days af):
+len of data: 6226
+number of topics: 92
+0:['eat', 'food', 'eating', 'chicken', 'hot', 'sandwich', 'mexican', 'restaurant', 'cheetos']
+1:['car', 'la', 'uber', 'california', 'driver', 'parking', 'traffic', 'drivers', 'drive']
+2:['fucking', 'fuck', 'shit', 'sick', 'damn', 'bullshit', 'dead', 'bro']
+3:['sis', 'shes', 'got', 'caroline']
+4:['white', 'black', 'racist', 'racism', 'men', 'people', 'slavery', 'folks']
+5:['song', 'music', 'album', 'new', 'niggas', 'listen', 'songs', 'shit', 'playing']
+6:['nigga', 'niggas', 'piece', 'brunch', 'wit']
+7:['movie', 'show', 'watching', 'episode', 'truman', 'produced', 'bachelor', 'netflix', 'movies', 'watch']
+8:['bernie', 'vote', 'supporters', 'trump', 'candidates', 'sanders', 'biden', 'candidate']
+9:['twitter', 'tweet', 'tweets', 'retweeted', 'retweet', 'people', 'account', 'social', 'media']
+10:['money', 'free', 'pay', 'taxes', 'cash', 'make', 'account', 'buy', 'damn']
+
+
+
+disgust_2020-03-10
+all data (4 days bf to 3 days af):
+len of data: 19263
+number of topics: 253
+0:['bitch', 'bitches', 'bad', 'ass', 'boo', 'shes', 'woman']
+1:['school', 'classes', 'schools', 'class', 'online', 'students', 'college', 'closed', 'professor', 'semester']
+2:['food', 'eat', 'milk', 'eating', 'ate', 'cook', 'pizza', 'taco', 'eggs', 'chocolate']
+3:['nigga', 'niggas', 'wit', 'yo', 'like', 'lil', 'em']
+4:['trump', 'president', 'impeached', 'hoax', 'lies', 'liar', 'mcconnell', 'incompetent']
+5:['white', 'racist', 'black', 'racism', 'race', 'people', 'men', 'women', 'woman', 'old']
+6:['sleep', 'tired', 'bed', 'nap', 'shift', 'woke', 'night', 'sleeping', 'early']
+7:['biden', 'joe', 'bernie', 'dementia', 'vote', 'trump', 'sanders', 'debate']
+8:['quarantine', 'quarantined', 'self', 'chill', 'already', 'quarantines']
+9:['twitter', 'tweet', 'tweets', 'retweet', 'social', 'deleted', 'media', 'tweeting', 'retweeting', 'vengeance']
+10:['grocery', 'store', 'stores', 'shopping', 'groceries', 'hoarding', 'buying', 'empty', 'panic', 'food']
+
+before data (4 days bf to 1 days bf):
+len of data: 4000
+number of topics: 66
+0:['bitch', 'bitches', 'jessica', 'bad', 'ass']
+1:['bernie', 'biden', 'vote', 'trump', 'sanders']
+2:['coronavirus', 'virus', 'corona', 'covid', 'people', 'flu']
+3:['sleep', 'work', 'night', 'hours', 'savings', 'daylight', 'time', 'tired', 'shift']
+4:['nigga', 'niggas', 'shit', 'gon', 'like']
+5:['lakers', 'clippers', 'lebron', 'game', 'bron', 'bradley', 'lakeshow', 'fans', 'win']
+6:['twitter', 'tweet', 'account', 'app', 'blocked', 'ig', 'block', 'social', 'media']
+7:['food', 'eat', 'ate', 'milk', 'meal', 'taco', 'poisoning', 'eating', 'eats']
+8:['pay', 'money', 'price', 'charge', 'scam']
+9:['white', 'racist', 'racism', 'people', 'feminists', 'black', 'guy', 'men']
+10:['drink', 'drinking', 'drunk', 'drinks', 'alcohol', 'bottle', 'hungover', 'beer', 'idk', 'rating']
+
+after data (event to 3 days af):
+len of data: 9036
+number of topics: 133
+0:['school', 'classes', 'schools', 'online', 'class', 'students', 'cancelled', 'cancel', 'lausd', 'college']
+1:['trump', 'president', 'obama', 'acres', 'impeached', 'lies', 'incompetent', 'set']
+2:['nigga', 'niggas', 'wit', 'like', 'try', 'pussy']
+3:['eating', 'food', 'eat', 'fries', 'cook', 'beans', 'bread', 'foods', 'ate', 'vegan']
+4:['paper', 'toilet', 'buying', 'stock', 'tissue', 'towels', 'costco', 'water']
+5:['twitter', 'tweet', 'social', 'follow', 'tweets', 'instagram', 'account', 'ig', 'unfollowed', 'accounts']
+6:['corona', 'virus', 'coronavirus', 'fuck', 'stupid', 'outbreak', 'heard', 'shows']
+7:['biden', 'joe', 'vote', 'bernie', 'trump', 'bidens', 'win']
+8:['fool', 'idiot', 'dumb', 'stupid', 'dumbass', 'foolie', 'actin', 'foolish']
+9:['quarantine', 'quarantined', 'self', 'someone', 'ing']
+10:['rain', 'raining', 'drive', 'pouring', 'weather', 'driving', 'car', 'hate']
+
+
+
+disgust_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 20050
+number of topics: 246
+0:['twitter', 'tweet', 'tweets', 'social', 'media', 'tweeting', 'trump', 'delete', 'tweeted', 'account']
+1:['covid', 'virus', 'pandemic', 'coronavirus', 'corona', 'flu', 'testing', 'tested']
+2:['cops', 'police', 'officers', 'cop', 'good', 'fuck', 'officer', 'bastards', 'bad']
+3:['racist', 'racism', 'racists', 'white', 'vote', 'taught']
+4:['president', 'trump', 'obama', 'impeached', 'country', 'leader', 'hes']
+5:['white', 'black', 'men', 'skin', 'race', 'color', 'people', 'love']
+6:['protest', 'protesting', 'protests', 'peaceful', 'protesters', 'peacefully', 'protestors', 'change']
+7:['niggas', 'nigga', 'wit', 'niggaz', 'gangsta', 'bout', 'feel', 'lmao', 'got']
+8:['eat', 'food', 'eating', 'ate', 'hungry', 'tacos', 'meal', 'salt', 'fish', 'sushi']
+9:['shes', 'ramona', 'woman', 'donna', 'becky', 'girl', 'lmao']
+10:['care', 'hate', 'cares', 'miserable', 'annoying', 'annoy']
+
+before data (4 days bf to 1 days bf):
+len of data: 3544
+number of topics: 60
+0:['bitch', 'lana', 'like', 'shes', 'bitches']
+1:['fuck', 'lmao', 'fucking', 'shit', 'lmfao', 'crying', 'lmaoo', 'lol']
+2:['niggas', 'nigga', 'wit', 'shit']
+3:['biden', 'black', 'joe', 'racist', 'trump', 'vote', 'party']
+4:['movie', 'episode', 'netflix', 'last', 'show', 'watching', 'avatar', 'season', 'tv']
+5:['pandemic', 'covid', 'virus', 'people']
+6:['pay', 'money', 'credit', 'price', 'buy', 'buying', 'spending', 'cars', 'paying']
+7:['eat', 'eating', 'cheese', 'hungry', 'burger', 'jello', 'cereal', 'peach']
+8:['tweet', 'tweets', 'twitter', 'tweeting', 'like', 'delete', 'yes', 'talk', 'really']
+9:['music', 'song', 'shit', 'album', 'listen']
+10:['college', 'degree', 'school', 'customers', 'hs', 'life', 'work', 'job']
+
+after data (event to 3 days af):
+len of data: 8613
+number of topics: 129
+0:['twitter', 'tweet', 'tweets', 'trump', 'social', 'media']
+1:['trump', 'president', 'obama', 'lies', 'flynn']
+2:['nigga', 'niggas', 'lmao', 'lil', 'rickey', 'wit', 'like', 'got']
+3:['people', 'waah', 'makes']
+4:['eat', 'eating', 'food', 'ate', 'hungry', 'fish', 'sushi', 'na', 'taste']
+5:['woman', 'like', 'talking', 'sister', 'disgusting', 'damn', 'omg']
+6:['bullshit', 'shit', 'fuck', 'damn', 'wtf', 'lol', 'fucking', 'fuckin', 'hell']
+7:['refund', 'customer', 'prices', 'price', 'service', 'buy', 'money', 'pay']
+8:['murder', 'degree', 'murderer', 'rd', 'officer', 'arrest', 'premeditated']
+9:['la', 'angeles', 'los', 'california', 'riots', 'beverly', 'downtown', 'hills', 'riot', 'curfew']
+10:['looting', 'starts', 'shooting', 'looted', 'target', 'destroying', 'cities', 'fire']
+
+
+
+disgust_2020-06-21
+all data (4 days bf to 3 days af):
+len of data: 15732
+number of topics: 213
+0:['food', 'eat', 'eating', 'chicken', 'mcdonald', 'milk', 'ate', 'cheese', 'pizza', 'taco']
+1:['nigga', 'niggas', 'niggaz', 'real', 'lil', 'yo', 'really']
+2:['shes', 'girl', 'ass', 'bitch', 'jenny', 'katie']
+3:['cops', 'police', 'defund', 'cop', 'officers', 'abolish', 'taser', 'good', 'unions']
+4:['racist', 'racism', 'racists', 'systemic', 'color', 'classist', 'white', 'ignorant']
+5:['trump', 'president', 'failure', 'leadership', 'nixon', 'worse', 'trumps']
+6:['twitter', 'tweet', 'media', 'tweets', 'social', 'tweeting', 'retweeted', 'tweeted']
+7:['music', 'song', 'album', 'songs', 'spotify', 'listen', 'dogg', 'playlist', 'listening', 'pound']
+8:['mask', 'wear', 'masks', 'wearing', 'people', 'without', 'fucking', 'face', 'lady']
+9:['covid', 'coronavirus', 'virus', 'chastisement', 'corona', 'trump', 'minor', 'spread', 'us']
+10:['school', 'classes', 'schools', 'students', 'college', 'class', 'kids', 'money', 'high', 'teacher']
+
+before data (4 days bf to 1 days bf):
+len of data: 4310
+number of topics: 72
+0:['trump', 'biden', 'president', 'vote', 'supreme', 'obama']
+1:['nigga', 'niggas', 'shit', 'ass', 'really', 'cp']
+2:['food', 'eat', 'eating', 'tacos', 'taco', 'hot', 'bell']
+3:['twitter', 'tweet', 'media', 'ban', 'tweets']
+4:['mask', 'wearing', 'masks', 'wear', 'people', 'social']
+5:['money', 'unemployment', 'bank', 'account', 'credit', 'service']
+6:['bitch', 'bitches', 'pussy', 'daddy', 'ass', 'yo', 'girlfriend']
+7:['racist', 'educate', 'shes']
+8:['black', 'lives', 'matter', 'white', 'men', 'women', 'people', 'get']
+9:['racist', 'racism', 'racists', 'color', 'students']
+10:['cops', 'police', 'officers', 'gun', 'taser', 'lethal', 'force', 'cop']
+
+after data (event to 3 days af):
+len of data: 6382
+number of topics: 95
+0:['black', 'white', 'racist', 'racism', 'lives', 'matter', 'people', 'blm']
+1:['covid', 'virus', 'pandemic', 'coronavirus', 'deaths', 'people']
+2:['nigga', 'niggas', 'niggaz', 'finna', 'lil', 'everybody', 'bitch', 'got']
+3:['trump', 'failure', 'idiot', 'donald', 'hes', 'nixon', 'president']
+4:['food', 'eat', 'eating', 'lunch', 'coffee', 'tea', 'chicken', 'meals', 'milk', 'craving']
+5:['stupid', 'dumb', 'idiot', 'stupidest', 'dumbest', 'idiots', 'dumber', 'smart', 'youre']
+6:['safe', 'summer', 'la', 'earthquake', 'trip', 'miami', 'vegas', 'weekend', 'move']
+7:['fireworks', 'annoying', 'fire', 'july', 'night', 'illegal', 'holiday']
+8:['vote', 'voter', 'ballots', 'suppression', 'mail', 'voting', 'election', 'states', 'trump', 'ballot']
+9:['nascar', 'bubba', 'noose', 'garage', 'wallace', 'jussie', 'rope', 'smollet', 'track']
+10:['mask', 'wear', 'masks', 'wearing', 'fucking', 'amn', 'mandatory', 'ppl', 'ad', 'without']
+
+
+
+fear_2020-03-11
+all data (4 days bf to 3 days af):
+len of data: 2408
+number of topics: 5
+0:[]
+1:['reports', 'quake', 'utc', 'km', 'usgs', 'earthquake', 'ca', 'valley']
+2:['geysers', 'utc', 'usgs', 'quake', 'km', 'reports', 'earthquake', 'ca', 'nw']
+3:['lake', 'km', 'utc', 'usgs', 'quake', 'reports', 'earthquake', 'ca', 'little', 'ese']
+4:['apply', 'value', 'match', 'bio', 'click', 'link', 'info', 'youre', 'job']
+
+before data (4 days bf to 1 days bf):
+len of data: 377
+number of topics: 2
+0:[]
+1:['earthquake', 'km', 'usgs', 'quake', 'utc', 'reports', 'ca', 'ne']
+
+after data (event to 3 days af):
+len of data: 1238
+number of topics: 3
+0:[]
+1:['utc', 'usgs', 'quake', 'km', 'earthquake', 'reports', 'ca', 'searles']
+2:['geysers', 'utc', 'usgs', 'quake', 'km', 'earthquake', 'reports', 'ca', 'nw']
+
+
+
+fear_2020-04-21
+all data (4 days bf to 3 days af):
+len of data: 1450
+number of topics: 7
+0:[]
+1:['utc', 'km', 'usgs', 'reports', 'quake', 'ca', 'earthquake', 'valley']
+2:['anza', 'ese', 'ca', 'utc', 'usgs', 'km', 'reports', 'quake', 'earthquake']
+3:['ca', 'usgs', 'utc', 'km', 'reports', 'quake', 'bodie', 'earthquake', 'se']
+4:['lake', 'little', 'ca', 'usgs', 'km', 'utc', 'reports', 'quake', 'ese', 'earthquake']
+5:['geysers', 'nw', 'ca', 'utc', 'usgs', 'km', 'reports', 'quake', 'earthquake']
+
+before data (4 days bf to 1 days bf):
+len of data: 309
+number of topics: 2
+0:[]
+1:['utc', 'quake', 'usgs', 'earthquake', 'reports', 'km', 'ca', 'ese']
+
+after data (event to 3 days af):
+len of data: 694
+number of topics: 4
+0:[]
+1:['km', 'utc', 'usgs', 'reports', 'quake', 'ca', 'earthquake', 'valley']
+2:['lake', 'km', 'usgs', 'utc', 'reports', 'quake', 'little', 'ca', 'earthquake']
+
+
+
+fear_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 1796
+number of topics: 5
+0:[]
+1:['earthquake', 'ca', 'km', 'quake', 'utc', 'usgs', 'reports', 'valley']
+2:['lake', 'utc', 'usgs', 'quake', 'km', 'reports', 'earthquake', 'ca', 'ese', 'little']
+3:['geysers', 'utc', 'usgs', 'quake', 'km', 'reports', 'ca', 'earthquake', 'nw']
+4:['anza', 'utc', 'usgs', 'quake', 'km', 'reports', 'ca', 'earthquake', 'wnw']
+
+before data (4 days bf to 1 days bf):
+len of data: 290
+number of topics: 2
+0:[]
+1:['ca', 'earthquake', 'reports', 'km', 'utc', 'usgs', 'quake', 'lake']
+
+after data (event to 3 days af):
+len of data: 769
+number of topics: 4
+0:[]
+1:['earthquake', 'quake', 'km', 'utc', 'usgs', 'reports', 'ca', 'searles']
+2:['lake', 'usgs', 'quake', 'km', 'utc', 'earthquake', 'reports', 'ese', 'little', 'ca']
+
+
+
+joy_2020-01-17
+all data (4 days bf to 3 days af):
+len of data: 28164
+number of topics: 327
+0:['queen', 'selena', 'lil', 'woman', 'shes', 'lori', 'lady', 'britney']
+1:['song', 'music', 'album', 'listen', 'songs', 'listening', 'spotify', 'new', 'track', 'mix']
+2:['trump', 'president', 'bernie', 'impeachment', 'senate', 'iran', 'senator', 'nancy', 'sanders', 'america']
+3:['job', 'ca', 'apply', 'bio', 'link', 'click', 'latest', 'fit', 'opening']
+4:['twitter', 'tweet', 'tweets', 'retweet', 'tweeting', 'retweeting', 'tweeted', 'social', 'media', 'likes']
+5:['funny', 'laugh', 'laughing', 'joke', 'hilarious', 'funniest', 'laughed', 'jokes', 'laughs', 'hard']
+6:['shoes', 'wear', 'shirt', 'pants', 'hoodie', 'dress', 'pair', 'wearing', 'outfit', 'sneakers']
+7:['drinking', 'wine', 'beer', 'drunk', 'drink', 'alcohol', 'ale', 'bottle', 'drinks', 'ipa']
+8:['la', 'california', 'los', 'angeles', 'cali', 'pasadena', 'downtown', 'born', 'ky']
+9:['lol', 'haha', 'hahaha', 'damn', 'lmao', 'smh', 'jk', 'lmaooo', 'hahahahaha']
+10:['gym', 'fitness', 'workout', 'routine', 'muscle', 'body', 'workouts', 'cardio', 'weights', 'exercise']
+
+before data (4 days bf to 1 days bf):
+len of data: 7039
+number of topics: 94
+0:['coffee', 'chicken', 'pizza', 'vegan', 'tacos', 'delicious', 'eat', 'dinner', 'food', 'cheese']
+1:['california', 'angeles', 'los', 'la', 'beach', 'park', 'car', 'hills']
+2:['music', 'song', 'album', 'new', 'listening', 'songs', 'listen']
+3:['woman', 'harry', 'cat', 'like', 'lori']
+4:['gym', 'workout', 'fitness', 'golf', 'weight', 'pain', 'teeth', 'gain']
+5:['twitter', 'tweet', 'tweets', 'joined', 'retweet', 'anniversary', 'remember']
+6:['dance', 'th', 'vegas', 'pm', 'tickets', 'night', 'event', 'jan', 'friday', 'party']
+7:['shoes', 'wear', 'merch', 'wearing', 'shirt', 'suit', 'bought', 'hat', 'dress', 'size']
+8:['day', 'monday', 'today', 'weekend', 'week', 'morning', 'friday', 'magenta', 'great']
+9:['love', 'heart', 'loved', 'always', 'much', 'let', 'never', 'true']
+10:['trump', 'president', 'debate', 'yang', 'bernie', 'dem', 'country', 'great']
+
+after data (event to 3 days af):
+len of data: 11696
+number of topics: 141
+0:['food', 'coffee', 'chicken', 'beer', 'drinking', 'breakfast', 'eat', 'vegan', 'delicious', 'pizza']
+1:['song', 'album', 'music', 'eminem', 'songs', 'track', 'listen', 'new', 'remix']
+2:['queen', 'bachelor', 'like', 'princess', 'lol', 'always']
+3:['weekend', 'sunday', 'friday', 'day', 'days', 'today', 'hope', 'monday', 'good', 'week']
+4:['thank', 'thanks', 'welcome', 'much', 'appreciate', 'sharing', 'babe']
+5:['twitter', 'tweet', 'tweets', 'followers', 'instagram', 'follow', 'joined', 'anniversary']
+6:['bowl', 'super', 'chiefs', 'niners', 'ers', 'packers', 'nfl', 'titans', 'game', 'liv']
+7:['lol', 'haha', 'hahahahaha', 'hahah', 'hahaha', 'damn', 'confused']
+8:['god', 'prayer', 'lord', 'prayers', 'peace', 'blessed', 'praying', 'faith', 'amen', 'pray']
+9:['life', 'happiness', 'happy', 'pursuit', 'insta', 'positive', 'forward', 'growth']
+10:['mlk', 'martin', 'luther', 'king', 'jr', 'dr', 'ay', 'mlkd', 'day', 'parade']
+
+
+
+joy_2020-02-10
+all data (4 days bf to 3 days af):
+len of data: 29085
+number of topics: 353
+0:['funny', 'lol', 'laughing', 'laugh', 'joke', 'hilarious', 'haha', 'hahaha', 'laughed', 'lmao']
+1:['students', 'school', 'student', 'learning', 'semester', 'class', 'classes', 'math', 'teacher', 'grade']
+2:['chicken', 'cheese', 'vegan', 'rice', 'fried', 'bbq', 'salad', 'grilled', 'sauce', 'spicy']
+3:['show', 'episode', 'shows', 'episodes', 'season', 'ellen', 'watch', 'comedy', 'watching', 'series']
+4:['coach', 'basketball', 'cif', 'round', 'girls', 'hs', 'game', 'vs', 'league', 'soccer']
+5:['shes', 'precious', 'girl', 'beautiful', 'cries', 'sweetest', 'love', 'prob']
+6:['dodgers', 'mookie', 'baseball', 'astros', 'angels', 'betts', 'dodger', 'verdugo', 'joc', 'season']
+7:['car', 'ride', 'driver', 'cars', 'ferrari', 'uber', 'ford', 'porsche', 'mustang', 'audi']
+8:['birthday', 'happy', 'birthdays', 'bday', 'trayvon', 'wishes', 'happybirthday', 'happiest', 'th', 'hope']
+9:['chris', 'looks', 'doo', 'tony', 'talented', 'man', 'cute']
+10:['beach', 'california', 'cali', 'monica', 'santa', 'angeles', 'los', 'sunset', 'long', 'malibu']
+
+before data (4 days bf to 1 days bf):
+len of data: 7090
+number of topics: 97
+0:['song', 'music', 'album', 'listening', 'new', 'listen', 'remix', 'youtube']
+1:['california', 'beach', 'photo', 'angeles', 'los', 'photography', 'sunset', 'beautiful', 'posted']
+2:['chicken', 'vegan', 'cheese', 'taco', 'sauce', 'tacos', 'delicious', 'food', 'grilled', 'salad']
+3:['girl', 'shes', 'like', 'treat']
+4:['god', 'pray', 'peace', 'life', 'lord', 'bless', 'blessed', 'blessings']
+5:['bernie', 'president', 'trump', 'vote', 'thank', 'senator', 'country', 'romney']
+6:['lakers', 'rondo', 'clippers', 'game', 'nba', 'lebron', 'trade', 'heat']
+7:['thank', 'thanks', 'much', 'aww', 'welcome', 'youuu', 'needed', 'patrick']
+8:['shoes', 'wear', 'dress', 'wearing', 'jacket', 'hoodies', 'hoodie', 'earrings', 'outfit', 'pair']
+9:['students', 'school', 'sausd', 'teachers', 'great', 'student', 'program']
+10:['lol', 'hahahaha', 'hahaha', 'haha', 'lmao', 'guess', 'believe', 'alright']
+
+after data (event to 3 days af):
+len of data: 12756
+number of topics: 160
+0:['music', 'song', 'album', 'listening', 'new', 'songs', 'albums', 'listen']
+1:['shes', 'taylor', 'bachelor', 'really', 'girl', 'love']
+2:['chicken', 'food', 'fries', 'cheese', 'dinner', 'spicy', 'bacon', 'eat', 'bbq', 'pasta']
+3:['oscars', 'oscar', 'awards', 'academy', 'nd', 'hollywood', 'congrats', 'best']
+4:['kobe', 'lakers', 'nba', 'game', 'player', 'bryant', 'dunk', 'brady']
+5:['parasite', 'bong', 'ho', 'joon', 'oscars', 'picture', 'best', 'korean', 'director', 'joonho']
+6:['bernie', 'trump', 'warren', 'sanders', 'president', 'vote', 'candidate', 'america', 'barr', 'medicare']
+7:['twitter', 'tweet', 'tweets', 'tweeting', 'tweeted', 'joined', 'anniversary', 'comment', 'funny']
+8:['la', 'los', 'angeles', 'california', 'dolla', 'fodera', 'visit', 'sonny', 'dom']
+9:['gym', 'workout', 'fitness', 'weight', 'lbs', 'body', 'get', 'muscle', 'goals']
+10:['lol', 'haha', 'hahaha', 'hahahah', 'omg', 'yeah', 'know', 'dude', 'lmao', 'right']
+
+
+
+joy_2020-03-09
+all data (4 days bf to 3 days af):
+len of data: 27479
+number of topics: 334
+0:['megan', 'girl', 'taylor', 'like', 'amy']
+1:['students', 'classes', 'class', 'school', 'learning', 'teachers', 'schools', 'teaching', 'online', 'professor']
+2:['twitter', 'tweet', 'tweets', 'retweet', 'tweeting', 'social', 'tweeted', 'media', 'account', 'retweeting']
+3:['fashion', 'wear', 'dress', 'shoes', 'jeans', 'shirt', 'style', 'merch', 'wearing', 'jacket']
+4:['joke', 'funny', 'laughing', 'laugh', 'laughed', 'jokes', 'humor', 'laughs', 'hilarious', 'laughter']
+5:['dad', 'mom', 'baby', 'daddy', 'kids', 'momma', 'babies', 'mama', 'child', 'mother']
+6:['netflix', 'show', 'episode', 'season', 'watch', 'tv', 'episodes', 'watching', 'series', 'hulu']
+7:['coronavirus', 'virus', 'covid', 'corona', 'pandemic', 'flu', 'stay', 'healthy', 'spread', 'outbreak']
+8:['friday', 'sunday', 'weekend', 'monday', 'saturday', 'happy', 'week', 'wednesday', 'th', 'ton']
+9:['women', 'international', 'womens', 'day', 'woman', 'happy', 'strong', 'disability', 'iwd', 'equality']
+10:['disney', 'disneyland', 'walt', 'archives', 'adventure', 'bowers', 'mulan', 'mickey', 'pixar', 'museum']
+
+before data (4 days bf to 1 days bf):
+len of data: 6975
+number of topics: 96
+0:['lakers', 'game', 'team', 'win', 'lebron', 'nba', 'vs', 'tonight']
+1:['food', 'eat', 'tacos', 'lunch', 'dinner', 'chicken', 'breakfast', 'taste', 'chocolate', 'flavor']
+2:['megan', 'girl', 'endorsement', 'love']
+3:['biden', 'president', 'bernie', 'trump', 'warren', 'caign', 'american']
+4:['la', 'los', 'angeles', 'california', 'san', 'rugby', 'habra', 'socal', 'friday']
+5:['students', 'school', 'learning', 'appreciation', 'employee', 'class', 'tech']
+6:['love', 'baby', 'bb', 'loves', 'forever', 'kaki', 'yato', 'showin']
+7:['lol', 'kidding', 'hahaha', 'nah', 'less', 'lmao', 'haha', 'yea', 'quick']
+8:['funny', 'laugh', 'laughing', 'joke', 'gif', 'hilarious', 'stop', 'bus', 'clown']
+9:['twitter', 'tweet', 'tweets', 'account', 'bye', 'anniversary']
+10:['friday', 'weekend', 'week', 'happy', 'ton', 'saturday', 'smile', 'church', 'thursday', 'vibes']
+
+after data (event to 3 days af):
+len of data: 11247
+number of topics: 132
+0:['food', 'eat', 'beer', 'eating', 'chocolate', 'breakfast', 'drinking', 'chicken', 'cheese', 'dinner']
+1:['music', 'song', 'album', 'dj', 'songs', 'concert', 'new', 'jay']
+2:['thank', 'thanks', 'appreciate', 'welcome', 'bro', 'sis', 'aw', 'babe', 'much']
+3:['biden', 'bernie', 'trump', 'joe', 'president', 'vote', 'voted', 'kamala', 'vp']
+4:['like', 'thought', 'vlog', 'lol']
+5:['coronavirus', 'corona', 'virus', 'covid', 'quarantine', 'pandemic', 'stay']
+6:['birthday', 'happy', 'th', 'yoongi', 'anniversary', 'hope', 'best', 'bday', 'day']
+7:['ca', 'job', 'fit', 'click', 'bio', 'link', 'apply', 'interested', 'latest']
+8:['twitter', 'tweet', 'social', 'tweets', 'retweet', 'remember', 'media', 'read']
+9:['lakers', 'nba', 'kobe', 'kings', 'lebron', 'nets', 'game', 'clippers', 'basketball', 'season']
+10:['classes', 'school', 'class', 'online', 'students', 'learning', 'schools', 'teach', 'professor', 'grade']
+
+
+
+joy_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 22064
+number of topics: 259
+0:['lana', 'woman', 'rihanna', 'rey', 'del', 'cooper', 'shes']
+1:['memorial', 'day', 'memorialday', 'honor', 'served', 'sacrifice', 'country', 'freedom']
+2:['god', 'jesus', 'church', 'pray', 'praying', 'lord', 'blessed', 'prayers', 'amen', 'bless']
+3:['school', 'graduation', 'class', 'college', 'students', 'graduating', 'graduate', 'semester', 'high', 'grad']
+4:['workout', 'fitness', 'yoga', 'workouts', 'gym', 'warmup', 'exercise', 'stretch', 'coach', 'homeworkout']
+5:['black', 'white', 'matter', 'lives', 'racism', 'privilege', 'people', 'color', 'culture', 'race']
+6:['twitter', 'tweet', 'tweets', 'tweeting', 'media', 'tweeted', 'retweet', 'lol', 'see', 'trump']
+7:['baby', 'mom', 'momma', 'mama', 'babies', 'pregnant', 'moms', 'child']
+8:['laughing', 'funny', 'laugh', 'joke', 'humor', 'laughed', 'jokes', 'funniest', 'laughter', 'joking']
+9:['birthday', 'happy', 'birthdays', 'happybirthday', 'hope', 'dahyun', 'beh', 'bud', 'celebrate']
+10:['morning', 'friday', 'weekend', 'sunday', 'saturday', 'good', 'monday', 'beautiful', 'happy', 'day']
+
+before data (4 days bf to 1 days bf):
+len of data: 5896
+number of topics: 83
+0:['food', 'pizza', 'wine', 'chicken', 'cheese', 'sauce', 'cake']
+1:['song', 'music', 'album', 'listen', 'songs', 'new']
+2:['california', 'los', 'angeles', 'la', 'hollywood', 'laguna', 'sunset', 'back']
+3:['woman', 'go', 'idc']
+4:['school', 'class', 'students', 'senior', 'grad', 'graduation', 'essay']
+5:['life', 'happy', 'people', 'happiness', 'grateful']
+6:['thanks', 'thank', 'welcome', 'appreciate', 'dude', 'brother', 'angel', 'review', 'omg']
+7:['brady', 'lebron', 'basketball', 'kobe', 'team', 'nba', 'rip', 'player']
+8:['movie', 'film', 'movies', 'batman', 'tenet', 'scene', 'christopher', 'one']
+9:['memorial', 'day', 'weekend', 'safe', 'holiday', 'monday', 'enjoy']
+10:['weekend', 'friday', 'safe', 'saturday', 'week', 'everyone', 'day', 'morning', 'good', 'great']
+
+after data (event to 3 days af):
+len of data: 9143
+number of topics: 128
+0:['song', 'music', 'album', 'songs', 'dj', 'new']
+1:['woman', 'karen', 'molly', 'cooper', 'shes']
+2:['look', 'cute', 'sexy', 'hot', 'luv', 'horny', 'beautiful', 'pussy', 'ugly', 'gorgeous']
+3:['justice', 'president', 'america', 'biden', 'george', 'country', 'united', 'trump', 'people', 'protesters']
+4:['birthday', 'happy', 'bday', 'day', 'hope', 'born', 'dahyun', 'happybirthday', 'love']
+5:['school', 'class', 'students', 'graduating', 'high', 'alumni', 'th', 'graduation', 'year']
+6:['funny', 'laughing', 'laugh', 'humor', 'laughed', 'joke', 'funniest', 'laughter', 'jokes']
+7:['art', 'piece', 'picture', 'photography', 'drawing', 'dreamworks', 'animation', 'artist', 'mosaic']
+8:['twitter', 'tweet', 'tweets', 'tyrick', 'trump', 'media', 'social']
+9:['launch', 'space', 'nasa', 'spacex', 'america', 'astronauts', 'dragon', 'falcon', 'flight', 'launchamerica']
+10:['thank', 'thanks', 'mike', 'welcome', 'youuuu', 'youuu', 'anytime', 'clarifying']
+
+
+
+joy_2020-07-23
+all data (4 days bf to 3 days af):
+len of data: 21663
+number of topics: 286
+0:['music', 'song', 'album', 'songs', 'listening', 'new', 'spotify', 'guitar', 'singing']
+1:['queen', 'shes', 'love', 'flo', 'like', 'song']
+2:['lol', 'hahaha', 'haha', 'lmao', 'lmaoooo', 'lmaooo', 'yea', 'hahahahah', 'thought', 'lmaoo']
+3:['mom', 'baby', 'dad', 'babies', 'married', 'pregnant', 'son', 'mother', 'father']
+4:['job', 'ca', 'latest', 'apply', 'jobs', 'fit', 'bio', 'click', 'opening']
+5:['trump', 'president', 'biden', 'america', 'joe', 'vote', 'usa', 'obama', 'country', 'service']
+6:['pizza', 'chicken', 'sauce', 'cheese', 'garlic', 'shrimp', 'pasta', 'fries', 'food', 'fried']
+7:['workout', 'weight', 'fitness', 'gym', 'body', 'lbs', 'run', 'muscle', 'pounds', 'exercise']
+8:['women', 'black', 'challenge', 'white', 'accepted', 'woman', 'nominating', 'beautiful', 'lives', 'nominate']
+9:['friday', 'monday', 'weekend', 'sunday', 'saturday', 'happy', 'wednesday', 'week', 'mondays', 'work']
+10:['forecast', 'jul', 'lo', 'sunny', 'hi', 'ca', 'tonight', 'clear', 'fog', 'th']
+
+before data (4 days bf to 1 days bf):
+len of data: 5147
+number of topics: 79
+0:['album', 'music', 'song', 'new', 'listen', 'check']
+1:['shes', 'queen', 'woman', 'girl']
+2:['chicken', 'dinner', 'garlic', 'cheese', 'food', 'eating', 'breakfast', 'delicious', 'sauce']
+3:['movie', 'netflix', 'movies', 'watch', 'show', 'film', 'episode', 'watching']
+4:['god', 'blessed', 'bless', 'thank', 'prayer', 'president']
+5:['thank', 'thanks', 'sharing', 'cool', 'awesome', 'much', 'welcome', 'babe']
+6:['lol', 'hahaha', 'haha', 'smh', 'lmao', 'lmaooo', 'yea', 'really']
+7:['dad', 'baby', 'mom', 'kid', 'like', 'babies']
+8:['love', 'heart', 'papi', 'showing', 'ya', 'loves', 'holla', 'marlene']
+9:['clothes', 'jones', 'bag', 'shirts', 'dress', 'wear', 'buy', 'sir', 'shorts', 'ysl']
+10:['cute', 'beautiful', 'gorgeous', 'pretty', 'omg', 'handsome', 'look', 'looking']
+
+after data (event to 3 days af):
+len of data: 9331
+number of topics: 135
+0:['dodgers', 'baseball', 'game', 'opening', 'season', 'team', 'win', 'lakers', 'coach']
+1:['song', 'music', 'album', 'songs', 'listening', 'new', 'listen', 'artist']
+2:['movie', 'episode', 'movies', 'netflix', 'watching', 'film', 'watch', 'show', 'watched', 'actors']
+3:['queen', 'shes', 'aoc', 'love', 'see']
+4:['lol', 'lmao', 'haha', 'hahaha', 'lmaoooo', 'ok', 'idk', 'yea', 'know', 'damn']
+5:['tequila', 'wine', 'national', 'drunk', 'drink', 'drinking', 'beer', 'alcohol', 'day', 'sober']
+6:['twitter', 'tweet', 'tweets', 'mark', 'social', 'media', 'tweeting', 'chat', 'retweeting']
+7:['ca', 'job', 'latest', 'apply', 'jobs', 'bio', 'click', 'link', 'fit']
+8:['hair', 'nails', 'color', 'pink', 'legs', 'face', 'makeup', 'shave', 'glue']
+9:['friday', 'weekend', 'monday', 'happy', 'saturday', 'sunday', 'thursday', 'week', 'protect', 'lets']
+10:['games', 'game', 'play', 'xbox', 'ps', 'warzone', 'infinite', 'halo', 'fun', 'halos']
+
+
+
+love_2020-01-25
+all data (4 days bf to 3 days af):
+len of data: 5703
+number of topics: 92
+0:['kobe', 'mamba', 'bryant', 'forever', 'gigi', 'basketball', 'lakers']
+1:['shes', 'funny', 'woman', 'coco', 'like', 'lol']
+2:['cake', 'cooking', 'dinner', 'food', 'night', 'coffee', 'chocolate', 'cookies']
+3:['song', 'music', 'album', 'songs', 'listen', 'sound', 'listening']
+4:['movie', 'movies', 'show', 'favorite', 'film', 'series', 'scene']
+5:['look', 'sexy', 'beautiful', 'handsome', 'pretty', 'todd', 'gorgeous']
+6:['cute', 'cutest', 'omg', 'oh', 'cuteee', 'look', 'guys']
+7:['birthday', 'happy', 'friend', 'best', 'wish', 'hope', 'th', 'today']
+8:['beach', 'california', 'newport', 'place', 'sunset', 'long', 'venice', 'places', 'ocean', 'monica']
+9:['love', 'true', 'know', 'understand']
+10:['birthday', 'happy', 'miller', 'brother', 'mac', 'boo', 'hey', 'myke', 'ln', 'haaaappy']
+
+before data (4 days bf to 1 days bf):
+len of data: 1327
+number of topics: 28
+0:['song', 'music', 'listen', 'stupid']
+1:['show', 'doomsday', 'hollywood']
+2:['california', 'la', 'los', 'angeles', 'great']
+3:['lol', 'shes', 'funny']
+4:['day', 'blessings', 'people', 'coworkers', 'good', 'today']
+5:['birthday', 'happy', 'hurt', 'john', 'rip', 'brother', 'enjoy', 'many', 'actor', 'jonaxx']
+6:['love', 'yet', 'want', 'sight', 'know', 'heart']
+7:['cute', 'sweet', 'snap', 'earthquake', 'awww']
+8:['movie', 'film', 'loved', 'xmen', 'wars']
+9:['birthday', 'happy', 'one', 'best', 'friend']
+10:['strawberry', 'food', 'freshfitchef', 'funfetti', 'delicious', 'cream', 'cooking', 'cheese', 'sandwich']
+
+after data (event to 3 days af):
+len of data: 2500
+number of topics: 45
+0:['kobe', 'mamba', 'bryant', 'forever', 'basketball', 'lakers']
+1:['love', 'life', 'short', 'tell']
+2:['grammy', 'grammys', 'demi', 'performance']
+3:['birthday', 'happy', 'hope', 'day', 'bruin', 'best', 'th']
+4:['coffee', 'drinking', 'food', 'date', 'cake', 'cooking', 'wine', 'beer']
+5:['james', 'corden', 'love', 'late', 'jooheon', 'george', 'much']
+6:['song', 'songs', 'jazz', 'jam', 'version', 'listening']
+7:['woman', 'love', 'dont', 'talented']
+8:['love', 'sm', 'nah', 'baby', 'got', 'goooooooooo', 'loool']
+9:['cute', 'omg', 'cutest', 'sooooo', 'oh', 'god', 'adorable']
+10:['appreciate', 'much', 'thank', 'thanks', 'awesome', 'welcome', 'disappointed', 'computer']
+
+
+
+love_2020-03-09
+all data (4 days bf to 3 days af):
+len of data: 5054
+number of topics: 83
+0:['song', 'music', 'album', 'songs', 'new', 'wonho']
+1:['girl', 'one', 'lol']
+2:['beautiful', 'gorgeous', 'lovely', 'photo', 'beauty', 'wow', 'pretty']
+3:['thank', 'life', 'blessed', 'grateful', 'kindness', 'blessings']
+4:['likes', 'adam', 'like', 'justinbieber', 'boyfriend', 'love']
+5:['women', 'international', 'womens', 'day', 'woman', 'happy', 'disability', 'ladies']
+6:['flavors', 'flavor', 'tea', 'claw', 'food', 'whats', 'white', 'favorite']
+7:['birthday', 'happy', 'hope', 'best', 'wishes', 'yoongi', 'good', 'friend']
+8:['movie', 'loved', 'watched', 'show', 'film', 'favorite', 'series']
+9:['birthday', 'happy', 'george', 'bday', 'goat', 'sir', 'dude', 'queen', 'kev', 'foolio']
+10:['cute', 'cutest', 'adorable', 'af', 'look', 'aww', 'lol', 'awww']
+
+before data (4 days bf to 1 days bf):
+len of data: 1334
+number of topics: 22
+0:['love', 'baby', 'girl']
+1:['beautiful', 'gorgeous', 'hair', 'look', 'photo']
+2:['california', 'beach', 'la', 'beautiful', 'weather']
+3:['cute', 'mom', 'adorable', 'funny']
+4:['song', 'album', 'music', 'songs', 'chilombo']
+5:['proud', 'thank', 'grateful']
+6:['love', 'fighter']
+7:['birthday', 'happy', 'bday', 'mom', 'wishing', 'day', 'get']
+8:['lakers', 'favorite', 'rapper', 'lebron', 'hes']
+9:['morning', 'anniversary', 'good', 'day', 'women', 'today', 'celebrating', 'happy']
+10:['video', 'wait', 'enrique', 'channel', 'tour', 'podcast']
+
+after data (event to 3 days af):
+len of data: 2020
+number of topics: 36
+0:['birthday', 'happy', 'hope', 'day', 'best', 'yoongi', 'th']
+1:['lips', 'amazing', 'good']
+2:['song', 'music', 'dance', 'album', 'new', 'favorite', 'songs']
+3:['love', 'know', 'let', 'much']
+4:['loves', 'mom', 'baby', 'dog']
+5:['california', 'los', 'angeles', 'beach', 'trip', 'city']
+6:['day', 'friday', 'today', 'hope', 'happy', 'morning', 'wednesday', 'everyone']
+7:['love', 'bro', 'fans', 'like', 'guy']
+8:['beautiful', 'photo', 'lovely', 'pretty', 'look', 'wonderful', 'gorgeous', 'looks', 'better']
+9:['international', 'women', 'woman', 'day', 'womens', 'disability', 'happy', 'girls']
+10:['thank', 'trump', 'thankful', 'support', 'blessed', 'fighters', 'bernie', 'believing']
+
+
+
+love_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 4338
+number of topics: 71
+0:['show', 'favorite', 'movie', 'loved', 'also']
+1:['hes', 'guy', 'like', 'love', 'crush']
+2:['woman', 'always', 'wow']
+3:['love', 'fall', 'get', 'someone', 'want']
+4:['birthday', 'happy', 'brotha', 'janice', 'tom', 'alex', 'beh', 'sexy', 'sir', 'dear']
+5:['cake', 'wingopolis', 'chicken', 'cheesecake', 'cream', 'pizza', 'cheese', 'cooking', 'delicious', 'thai']
+6:['thanks', 'thank', 'appreciate', 'sharing', 'much', 'love', 'wonderful']
+7:['black', 'hate', 'matter', 'lives', 'people', 'white', 'culture']
+8:['memorial', 'day', 'country', 'memorialday', 'happy', 'weekend', 'safe']
+9:['miss', 'lol', 'much', 'times', 'thanks', 'gonzales', 'youuuu', 'hi']
+10:['california', 'hills', 'beverly', 'angeles', 'los', 'laguna', 'santa', 'beach', 'san']
+
+before data (4 days bf to 1 days bf):
+len of data: 1221
+number of topics: 4
+0:['love']
+1:['birthday', 'happy', 'enjoy', 'glory', 'eva', 'great', 'beh', 'fam']
+2:['birthday', 'happy', 'love', 'friends']
+
+after data (event to 3 days af):
+len of data: 1757
+number of topics: 33
+0:['song', 'album', 'new', 'gaga', 'version', 'music']
+1:['favorite', 'movie', 'show', 'loved']
+2:['california', 'angeles', 'los', 'beach', 'long', 'family', 'beautiful', 'la']
+3:['would', 'princess', 'match']
+4:['beautiful', 'sexy', 'look', 'luv', 'cute', 'gorgeous', 'wmn']
+5:['love', 'na', 'hold', 'still', 'every', 'guess']
+6:['love', 'self', 'never', 'fell', 'fall']
+7:['birthday', 'happy', 'brotha', 'dear', 'bro', 'big', 'anu', 'comment', 'brickbybrick', 'boe']
+8:['baby', 'little', 'boy', 'love', 'adopted', 'girl']
+9:['morning', 'day', 'friday', 'good', 'goodnight', 'weekend', 'saturday', 'great', 'beautiful', 'happy']
+10:['thank', 'honored', 'much', 'say']
+
+
+
+optimism_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 11099
+number of topics: 143
+0:['food', 'delicious', 'cake', 'chicken', 'wine', 'dinner', 'eat', 'recipe', 'pizza', 'wingopolis']
+1:['god', 'jesus', 'pray', 'church', 'praying', 'prayers', 'lord', 'us', 'faith']
+2:['song', 'music', 'album', 'listen', 'chromatica', 'songs', 'sing', 'rain', 'new']
+3:['school', 'graduation', 'class', 'students', 'graduating', 'college', 'year', 'high', 'semester']
+4:['woman', 'would', 'love', 'glad', 'tho']
+5:['black', 'white', 'matter', 'lives', 'people', 'racism', 'color', 'privilege', 'race']
+6:['love', 'adore', 'much', 'harry', 'youuu', 'sending']
+7:['success', 'people', 'mistakes', 'things']
+8:['morning', 'friday', 'weekend', 'saturday', 'good', 'sunday', 'monday', 'week', 'beautiful', 'following']
+9:['awesome', 'love', 'brilliant', 'omg', 'beautiful', 'looks', 'yes']
+10:['cute', 'pretty', 'handsome', 'look', 'gorgeous', 'picture', 'beautiful', 'friend', 'profile']
+
+before data (4 days bf to 1 days bf):
+len of data: 2830
+number of topics: 45
+0:['movie', 'best', 'podcast', 'one', 'episode', 'show']
+1:['wine', 'food', 'pizza', 'chicken', 'cooking', 'delicious']
+2:['thank', 'thanks', 'appreciate', 'welcome', 'awesome', 'sharing', 'beautiful', 'job']
+3:['song', 'music', 'listen', 'album', 'rain']
+4:['queen', 'talented', 'woman', 'female']
+5:['joe', 'trump', 'vote', 'president', 'biden']
+6:['students', 'class', 'graduation', 'essay', 'school', 'afterschool']
+7:['cute', 'pretty', 'look', 'profile', 'pictures', 'handsome', 'picture']
+8:['match', 'basketball']
+9:['weekend', 'friday', 'saturday', 'good', 'week', 'great', 'day', 'today']
+10:['funny', 'laughing', 'comedy', 'fun', 'lol', 'laugh', 'lmao', 'humor', 'haha']
+
+after data (event to 3 days af):
+len of data: 4538
+number of topics: 71
+0:['food', 'meals', 'open']
+1:['beach', 'california', 'la', 'day', 'los', 'angeles', 'city', 'beautiful', 'summer', 'hike']
+2:['president', 'joe', 'biden', 'america', 'trump', 'leader']
+3:['god', 'pray', 'praying', 'prayers', 'jesus', 'church', 'lord']
+4:['song', 'album', 'music', 'tomlinson', 'louis', 'listen', 'songs']
+5:['black', 'white', 'people', 'matter', 'lives', 'hate', 'race']
+6:['focus', 'focused', 'control']
+7:['beautiful', 'look', 'gorgeous', 'sexy', 'cute', 'pretty', 'picture', 'luv', 'handsome']
+8:['love', 'youuu', 'ya', 'fell', 'much', 'still']
+9:['karen', 'fixed', 'princess', 'match', 'glad', 'meg', 'marlena']
+10:['smile', 'cute', 'animated', 'damn', 'glasses', 'looks', 'crush']
+
+
+
+pessimism_2020-01-26
+all data (4 days bf to 3 days af):
+len of data: 795
+number of topics: 18
+0:['kobe', 'bryant', 'family', 'sad']
+1:['cry', 'crying', 'made', 'cried', 'going', 'could']
+2:['la', 'day', 'sad', 'staples', 'angeles', 'los']
+3:['miss', 'friends', 'ex', 'im', 'much', 'dog', 'show']
+4:['heart', 'hurts', 'heavy', 'break', 'heal', 'broke']
+5:['sad', 'oh', 'yes', 'incredibly', 'video']
+6:['tired', 'exhausted', 'sleep', 'days', 'emotionally', 'back']
+7:['alone', 'lonely', 'sometimes', 'need', 'feeling']
+8:['losing', 'lost', 'imagine', 'family', 'feel', 'lose']
+9:['heartbreaking', 'heartbreak', 'really', 'pull', 'ughhhhh', 'omigosh']
+10:['vanessa', 'husband', 'going']
+
+before data (4 days bf to 1 days bf):
+len of data: 145
+number of topics: 4
+0:['tired', 'sleep', 'exhausted', 'days', 'feel', 'na']
+1:['crying', 'cry', 'sad', 'cried', 'would']
+2:['miss', 'poetry', 'old']
+
+after data (event to 3 days af):
+len of data: 469
+number of topics: 11
+0:['kobe', 'bryant', 'family', 'sad']
+1:['sad', 'today', 'day', 'still', 'thats']
+2:['miss', 'lost']
+3:['la', 'day', 'sad', 'los', 'angeles', 'world']
+4:['sometimes', 'time', 'life']
+5:['heart', 'hurts', 'heavy', 'feeling', 'right', 'rip']
+6:['exhausted', 'stressed', 'work', 'tired', 'long', 'get']
+7:['crying', 'cry', 'made', 'could', 'want']
+8:['vanessa', 'feel', 'going']
+9:['heartbreaking', 'willing', 'risk', 'ughhhhh', 'really', 'heartbreak', 'reading']
+
+
+
+pessimism_2020-05-21
+all data (4 days bf to 3 days af):
+len of data: 510
+number of topics: 10
+0:['miss', 'going', 'friends']
+1:['sad', 'cry', 'crying']
+2:['lonely', 'feel', 'sometimes', 'loneliness']
+3:['death', 'covid']
+4:['much', 'enough', 'things']
+5:['tired', 'feel', 'sick', 'eye', 'bad', 'head', 'maybe']
+6:['heartbreaking', 'mom', 'glass']
+7:['depressed', 'depression', 'one', 'today', 'like', 'struggled', 'everything']
+8:['work', 'literally', 'nothing', 'go', 'stuck']
+
+before data (4 days bf to 1 days bf):
+len of data: 141
+number of topics: 4
+0:['miss', 'friends', 'much', 'really']
+1:['sad', 'depressed', 'watching']
+2:['sometimes', 'never']
+
+after data (event to 3 days af):
+len of data: 206
+number of topics: 4
+0:['sad']
+1:['miss', 'going']
+2:['everything', 'okay', 'broke', 'live', 'tired', 'could', 'never']
+
+
+
+pessimism_2020-06-01
+all data (4 days bf to 3 days af):
+len of data: 481
+number of topics: 3
+0:['sad']
+1:['miss', 'work', 'missing', 'back']
+
+before data (4 days bf to 1 days bf):
+len of data: 123
+number of topics: 4
+0:['sad', 'heart', 'people']
+1:['need', 'rn', 'scared', 'mental', 'feel']
+2:['miss', 'going', 'back', 'work']
+
+after data (event to 3 days af):
+len of data: 208
+number of topics: 6
+0:['sad']
+1:['heart', 'feel', 'sleep']
+2:['miss', 'friend', 'das', 'ya', 'missing', 'concerts']
+3:['heartbreaking', 'child', 'right', 'absolutely', 'feel']
+4:['never', 'wrong', 'life']
+
+
+
+sadness_2020-05-29
+all data (4 days bf to 3 days af):
+len of data: 6185
+number of topics: 99
+0:['black', 'white', 'lives', 'matter', 'racism', 'racist', 'people']
+1:['sleep', 'wake', 'bed', 'nap', 'woke', 'tired', 'sleeping', 'waking', 'pm']
+2:['food', 'eat', 'hungry', 'ate', 'eating', 'pounds', 'taco', 'stomach', 'starving', 'weight']
+3:['president', 'trump', 'obama', 'biden', 'country', 'unfit']
+4:['crying', 'cry', 'tears', 'cried', 'eyes', 'tear', 'literally', 'much']
+5:['sorry', 'apologize', 'im', 'oh', 'sis', 'happened', 'page']
+6:['floyd', 'george', 'justice', 'death', 'matter', 'murdered', 'lives', 'breathe', 'black', 'breath']
+7:['shes', 'jackson', 'girl']
+8:['covid', 'virus', 'coronavirus', 'corona', 'pandemic', 'ebola', 'memorial']
+9:['protest', 'protesting', 'peacefully', 'protests', 'people', 'rights']
+10:['closed', 'car', 'money', 'stores', 'debt', 'store', 'broke', 'shop', 'spending', 'everything']
+
+before data (4 days bf to 1 days bf):
+len of data: 1482
+number of topics: 27
+0:['hair', 'feet', 'walking', 'nails']
+1:['miss', 'rosemary', 'homies', 'see', 'man', 'thank']
+2:['sleep', 'wake', 'early', 'tired', 'bed', 'work', 'sht']
+3:['dog', 'mom', 'cat']
+4:['crying', 'cry', 'tears', 'much']
+5:['sorry', 'loss', 'waah', 'fault', 'hear']
+6:['ate', 'food', 'hungry', 'eat', 'pop', 'taco', 'like']
+7:['na', 'gon', 'feelings', 'wan', 'relationship', 'love', 'hurt', 'leave']
+8:['black', 'people']
+9:['music', 'song', 'listening', 'play', 'make', 'would']
+10:['california', 'la', 'los', 'angeles', 'remember', 'miss']
+
+after data (event to 3 days af):
+len of data: 2754
+number of topics: 50
+0:['black', 'white', 'matter', 'lives', 'racism']
+1:['heart', 'heavy', 'pain', 'feels', 'feeling', 'heartbreaking']
+2:['miss', 'missed', 'missing', 'much', 'baby', 'damn', 'year']
+3:['people', 'mental']
+4:['sleep', 'wake', 'night', 'sleeping', 'woke', 'waking', 'asleep']
+5:['crying', 'cry', 'tears', 'cried', 'eyes', 'tonight', 'king', 'im', 'shaun']
+6:['president', 'trump', 'obama', 'country', 'america', 'mess', 'united']
+7:['george', 'floyd', 'justice', 'murdered', 'justicefor', 'lives', 'matter', 'black', 'breathe']
+8:['protest', 'protesting', 'peacefully', 'protests', 'people', 'peaceful']
+9:['sorry', 'apologize', 'sis', 'im', 'happened', 'hard', 'guess']
+10:['followers', 'unfollow', 'blocked', 'care', 'tweet', 'twitter', 'lost', 'photos']
+
+
+
+surprise_2020-02-17
+all data (4 days bf to 3 days af):
+len of data: 640
+number of topics: 14
+0:['game']
+1:['met', 'date']
+2:['shocked', 'amazed', 'surprised', 'actually', 'surprise', 'shocker', 'stomach']
+3:['surprised', 'day', 'surprise', 'valentines', 'work']
+4:['trump', 'surprised', 'shocked']
+5:['wow', 'stunning', 'incredible', 'amazing', 'unbelievable', 'beautiful', 'hittting']
+6:['car', 'someone', 'door', 'every', 'wrong']
+7:['guy', 'like', 'shot']
+8:['music', 'lyrics', 'believe', 'video', 'dropped', 'bass', 'berlin']
+9:['nobody', 'cat', 'god', 'found', 'look', 'trap', 'narrator']
+10:['la', 'helicopter', 'perhaps', 'flying', 'hollywood', 'drive']
+
+before data (4 days bf to 1 days bf):
+len of data: 180
+number of topics: 3
+0:[]
+1:['look', 'one']
+
+after data (event to 3 days af):
+len of data: 264
+number of topics: 7
+0:['shocked', 'surprise', 'surprised', 'lmao']
+1:['car', 'art']
+2:['date', 'country']
+3:['wow', 'stunning', 'looks', 'beautiful', 'look']
+4:['game', 'star', 'court', 'allstar']
+5:['sunday', 'la']
+
+
+
+surprise_2020-03-11
+all data (4 days bf to 3 days af):
+len of data: 625
+number of topics: 13
+0:['saw']
+1:['wow', 'amazed', 'lmao', 'incredible']
+2:['surprised', 'shocked', 'surprising', 'im']
+3:['look', 'neon', 'yellow']
+4:['saw', 'movie', 'seen', 'watching', 'watch', 'tonight']
+5:['covid', 'coronavirus', 'virus']
+6:['mo', 'trump', 'want', 'people', 'called', 'bernie']
+7:['game', 'home', 'goal', 'wolves', 'field', 'winner', 'betis']
+8:['chris', 'know', 'joey', 'polish', 'choumo', 'thought']
+9:['twitter', 'tweet', 'hahaha', 'like', 'day', 'get']
+10:['happened', 'within', 'weeks', 'hours', 'actually', 'first', 'hair', 'still']
+
+before data (4 days bf to 1 days bf):
+len of data: 162
+number of topics: 5
+0:['wow', 'saw', 'video', 'album', 'guy']
+1:['happened', 'last']
+2:['night', 'baseball', 'met']
+3:['know', 'yellow', 'neon', 'jordan', 'style', 'polish', 'matches']
+
+after data (event to 3 days af):
+len of data: 267
+number of topics: 6
+0:['surprised', 'shocked']
+1:['saw']
+2:['wow', 'seen', 'video', 'never', 'like']
+3:['coronavirus', 'numbers', 'covid', 'virus']
+4:['woman', 'really']
+
+
+
+surprise_2020-04-04
+all data (4 days bf to 3 days af):
+len of data: 639
+number of topics: 14
+0:['surprise', 'shocked', 'surprised']
+1:['wow', 'omg', 'incredible', 'stunning', 'knew']
+2:['didnt', 'met']
+3:['movie', 'seen', 'time', 'watched', 'watching']
+4:['covid', 'trump', 'virus', 'maybe']
+5:['disney', 'walt', 'amazing', 'cinderella', 'archives', 'remix']
+6:['wearing', 'mask', 'like', 'surprised']
+7:['seen', 'never', 'funniest', 'ever', 'thing', 'beer']
+8:['squirrel', 'saw', 'glendale', 'bear', 'nature', 'last', 'light']
+9:['parents', 'ricardo', 'erick', 'cousin', 'months', 'across']
+10:['earthquake', 'felt', 'hours', 'southern', 'maybe', 'th', 'california']
+
+before data (4 days bf to 1 days bf):
+len of data: 154
+number of topics: 3
+0:['wow', 'saw']
+1:['surprise', 'surprised', 'mannie']
+
+after data (event to 3 days af):
+len of data: 269
+number of topics: 4
+0:[]
+1:['surprised', 'surprise', 'covid', 'shocked']
+2:['didnt']
+
+
+
+surprise_2020-04-21
+all data (4 days bf to 3 days af):
+len of data: 606
+number of topics: 12
+0:['wow', 'look', 'stunning', 'see']
+1:['song', 'one']
+2:['disney', 'walt', 'seen', 'archives', 'watch', 'watched']
+3:['surprised', 'shocked', 'everyone', 'haha', 'stunned']
+4:['thought', 'better']
+5:['california', 'beach', 'many', 'covid', 'los']
+6:['surprise', 'little']
+7:['earthquake', 'crazy']
+8:['car', 'house', 'cracked']
+9:['seen', 'two', 'male', 'someone', 'one', 'ever', 'together', 'thought']
+10:['take', 'draft', 'picks', 'surprise', 'nfl', 'titans']
+
+before data (4 days bf to 1 days bf):
+len of data: 141
+number of topics: 4
+0:['seen', 'disney', 'saw']
+1:['surprise', 'surprised']
+2:['stunning']
+
+after data (event to 3 days af):
+len of data: 284
+number of topics: 8
+0:['seen', 'look', 'see']
+1:['surprised', 'picks', 'shocked']
+2:['song', 'wow']
+3:['earthquake', 'felt', 'house', 'crazy']
+4:['wow', 'haha', 'really', 'ignorant', 'canceled', 'wake', 'beat']
+5:['went']
+6:['happened', 'know', 'nvm', 'watch']
+
+
+
+care_2020-01-26
+all data (4 days bf to 3 days af):
+len of data: 2628
+number of topics: 44
+0:['kobe', 'bryant', 'rest', 'family', 'rip', 'mamba']
+1:['prayers', 'pray', 'praying', 'family', 'families']
+2:['home', 'sleep', 'go', 'wan', 'na', 'im', 'stay', 'back']
+3:['vote', 'america', 'trump', 'bernie']
+4:['coronavirus', 'virus', 'corona', 'hands', 'mask', 'face']
+5:['loss', 'sorry', 'someone', 'cry', 'cancer', 'condolences']
+6:['love', 'sending', 'much', 'matter', 'lovelessons', 'fertilized', 'gracefully']
+7:['la', 'los', 'california', 'angeles', 'city', 'love', 'santa', 'ana']
+8:['fund', 'donation', 'donate', 'charity', 'schools', 'help', 'homeless', 'paypal', 'community']
+9:['vanessa', 'imagine', 'prayers', 'girls', 'right', 'heart']
+10:['life', 'short', 'live', 'fragile', 'love', 'loved']
+
+before data (4 days bf to 1 days bf):
+len of data: 521
+number of topics: 11
+0:['california', 'miss', 'love', 'friends']
+1:['love', 'heart', 'much', 'sending', 'girls']
+2:['homeless', 'ca', 'new']
+3:['way', 'helping']
+4:['bed', 'mom', 'get', 'back', 'today']
+5:['safe', 'sick', 'stay', 'please', 'nakaka', 'everybody', 'spread']
+6:['vote']
+7:['okay', 'hope', 'better', 'worry', 'feeling', 'take']
+8:['loss', 'sorry', 'prayers', 'lost', 'cancer']
+9:['fertilized', 'pets', 'grass', 'dogs', 'would']
+
+after data (event to 3 days af):
+len of data: 1423
+number of topics: 21
+0:['love', 'life']
+1:['kobe', 'bryant', 'rest', 'family', 'peace']
+2:['prayers', 'praying', 'family', 'pray']
+3:['coronavirus', 'virus', 'safe']
+4:['la', 'california', 'city', 'angeles', 'los', 'love']
+5:['vanessa', 'imagine', 'prayers', 'right']
+6:['heart', 'hurts', 'heavy', 'hurt', 'felt', 'sign', 'numb']
+7:['fund', 'charity', 'donation', 'schools', 'paypal', 'please', 'donate', 'help', 'giving']
+8:['please', 'serious', 'real', 'joke', 'fake', 'fucking']
+9:['vote', 'bernie', 'america', 'border', 'supporters', 'data']
+10:['home', 'wan', 'na', 'house', 'go', 'glad', 'stay', 'sick']
+
+
+
+care_2020-03-11
+all data (4 days bf to 3 days af):
+len of data: 4023
+number of topics: 66
+0:['safe', 'stay', 'safety', 'everyone', 'careful', 'yes', 'sorry']
+1:['coronavirus', 'corona', 'virus', 'getting', 'lol']
+2:['family', 'mom', 'grandma', 'miss', 'dad', 'love']
+3:['pray', 'prayers', 'praying', 'prayer', 'family', 'god']
+4:['hands', 'wash', 'hand', 'sanitizer', 'washing', 'sanitize', 'use']
+5:['schools', 'students', 'college', 'school', 'compton', 'children', 'kids', 'class']
+6:['quarantine', 'quarantined', 'self', 'smoke', 'bored']
+7:['home', 'go', 'wan', 'house', 'na', 'stay', 'leave', 'please', 'come']
+8:['california', 'beach', 'happy', 'day', 'angeles', 'los', 'love', 'celebrate', 'santa', 'pacific']
+9:['covid', 'coronavirus', 'su', 'pandemic', 'outbreak', 'work']
+10:['love', 'beautiful', 'ty', 'much', 'tok', 'tik', 'inspiring', 'congrats', 'perfect']
+
+before data (4 days bf to 1 days bf):
+len of data: 610
+number of topics: 7
+0:['love']
+1:['coronavirus']
+2:['california']
+3:['home', 'go', 'want']
+4:['women', 'day', 'international', 'happy', 'womens']
+5:['safe', 'neighbors', 'careful', 'worry']
+
+after data (event to 3 days af):
+len of data: 1967
+number of topics: 32
+0:['coronavirus', 'virus', 'covid', 'corona', 'pandemic']
+1:['home', 'go', 'sleep', 'house', 'stay']
+2:['safe', 'stay', 'everyone', 'safety', 'yes']
+3:['hands', 'wash', 'hand', 'sanitizer', 'washing', 'hygiene']
+4:['pray', 'prayers', 'praying', 'god', 'prayer', 'family']
+5:['love', 'sending', 'brother', 'family', 'thank', 'much', 'hope', 'appreciate']
+6:['schools', 'students', 'school', 'kids', 'monday', 'meals']
+7:['help', 'america', 'american', 'biden', 'country']
+8:['cancelled', 'canceled', 'safe', 'stay', 'due']
+9:['mom', 'birthday', 'mothers', 'beautiful', 'miss', 'feel']
+10:['stores', 'groceries']
+
+
+
+care_2020-04-03
+all data (4 days bf to 3 days af):
+len of data: 3888
+number of topics: 67
+0:['coronavirus', 'covid', 'corona', 'pandemic', 'virus', 'stayhome']
+1:['pray', 'praying', 'prayers', 'prayer', 'family', 'god', 'boris']
+2:['food', 'meals', 'families', 'groceries', 'store', 'local']
+3:['quarantine', 'quarantined', 'safe', 'stay', 'home', 'stayhome']
+4:['california', 'angeles', 'los', 'beautiful', 'malibu', 'la', 'stayhome', 'sunset', 'city', 'hills']
+5:['miss', 'friends', 'really', 'work', 'mom', 'much', 'outside', 'dad']
+6:['sorry', 'loss', 'condolences', 'family', 'may', 'lost']
+7:['masks', 'mask', 'face', 'wear', 'protect', 'wearing']
+8:['music', 'song', 'numb', 'love', 'singing', 'album', 'stream', 'show']
+9:['doctors', 'national', 'workers', 'healthcare', 'heroes', 'thank', 'nurses', 'health']
+10:['sleep', 'wake', 'bye', 'alive', 'go', 'bed', 'na', 'wan', 'son']
+
+before data (4 days bf to 1 days bf):
+len of data: 1053
+number of topics: 18
+0:['safe', 'hope', 'staying', 'stay', 'well']
+1:['home', 'stay', 'house', 'go']
+2:['food', 'meals']
+3:['love', 'sending', 'much']
+4:['sorry', 'family', 'loss', 'recovery']
+5:['california', 'angeles', 'los', 'hills', 'beautiful', 'beverly', 'malibu', 'neighborhood']
+6:['coronavirus', 'covid', 'corona', 'keep']
+7:['pray', 'god', 'praying', 'bless', 'prayer', 'prayers', 'family']
+8:['miss', 'friends', 'grandparents', 'much', 'really', 'outside', 'work', 'best']
+9:['doctors', 'national', 'day', 'heroes', 'thank']
+10:['peace', 'rest', 'never', 'eyes', 'us', 'world']
+
+after data (event to 3 days af):
+len of data: 1557
+number of topics: 26
+0:['covid', 'coronavirus', 'virus']
+1:['love', 'heart', 'sending', 'man', 'deserve']
+2:['safe', 'stay', 'hope', 'thanks', 'careful', 'heres']
+3:['miss', 'family', 'dad', 'mom', 'friends', 'really', 'love', 'wish', 'dads']
+4:['prayers', 'pray', 'praying', 'prayer']
+5:['california', 'los', 'angeles', 'love', 'beverly', 'east', 'pch', 'sunset', 'hills']
+6:['home', 'house', 'stay', 'clean', 'staying']
+7:['donate', 'donated', 'relief', 'workers', 'covid', 'support']
+8:['music', 'peace', 'withers', 'bill', 'rest', 'love', 'received']
+9:['quarantine', 'quarantined', 'adu', 'home']
+10:['masks', 'mask', 'face', 'wearing', 'protect', 'wear', 'ralphs', 'facemask']
+
+
+
+care_2020-05-30
+all data (4 days bf to 3 days af):
+len of data: 3605
+number of topics: 56
+0:['black', 'lives', 'matter', 'white', 'racism', 'people']
+1:['safe', 'stay', 'everyone', 'please', 'careful', 'glad']
+2:['covid', 'mask', 'pandemic', 'coronavirus', 'virus', 'wear', 'wearing', 'masks']
+3:['praying', 'pray', 'prayers', 'god']
+4:['protest', 'peaceful', 'protests', 'protesters', 'protesting', 'safe']
+5:['memorial', 'day', 'happy', 'sacrifice', 'honor', 'ultimate', 'memorialday']
+6:['california', 'los', 'angeles', 'beverly', 'hills', 'hollywood', 'love', 'jeffreybyron', 'la']
+7:['peace', 'peaceful', 'strong', 'war', 'stand', 'still']
+8:['compassion', 'empathy', 'kindness', 'treat', 'respect']
+9:['police', 'cops', 'officers', 'protect', 'need']
+10:['home', 'house', 'stay', 'get', 'go', 'back', 'ta', 'ass']
+
+before data (4 days bf to 1 days bf):
+len of data: 664
+number of topics: 14
+0:['love', 'sending', 'fucking', 'thank']
+1:['black']
+2:['california', 'beverly', 'hills', 'la', 'love']
+3:['care', 'feelings', 'kindness', 'people', 'much']
+4:['donate', 'families', 'wines', 'support', 'help']
+5:['prayers', 'pray', 'praying', 'god', 'keep']
+6:['home', 'miss', 'back', 'lead', 'feels', 'sad', 'sometimes']
+7:['mask', 'wearing', 'wear']
+8:['dog', 'leash', 'sorry', 'poor', 'dogs', 'protected', 'story', 'content']
+9:['god', 'bless', 'blessing', 'blessed', 'sir', 'life', 'well', 'thank']
+10:['police', 'officers', 'cops', 'cop', 'need']
+
+after data (event to 3 days af):
+len of data: 1950
+number of topics: 32
+0:['love', 'sending', 'much', 'strong', 'thank', 'queen']
+1:['donate', 'donated', 'black', 'help', 'bail', 'fund', 'funds']
+2:['america', 'vote', 'trump', 'country', 'bless', 'help']
+3:['protest', 'protesting', 'safe', 'protests', 'please']
+4:['covid', 'coronavirus', 'tested', 'pandemic', 'virus']
+5:['praying', 'pray', 'prayers', 'god', 'us']
+6:['peaceful', 'peace', 'fighting', 'violence', 'stand', 'strong']
+7:['black', 'lives', 'matter', 'people', 'love']
+8:['california', 'los', 'angeles', 'love', 'hollywood', 'stay', 'needed', 'west']
+9:['safe', 'stay', 'careful', 'friend', 'please', 'healthy', 'thanks']
+10:['city', 'businesses', 'clean', 'santa', 'looting', 'monica', 'loot', 'downtown']
+
+
+
+harm_2020-01-26
+all data (4 days bf to 3 days af):
+len of data: 2206
+number of topics: 36
+0:['trump']
+1:['coronavirus', 'china', 'virus', 'wuhan', 'flu', 'outbreak', 'spread']
+2:['pain', 'hurts', 'hurt', 'feel']
+3:['kobe', 'bryant', 'rip', 'died', 'shock', 'mamba', 'daughter']
+4:['la', 'angeles', 'los', 'california', 'hollywood', 'lax', 'city']
+5:['die', 'death', 'dying', 'would', 'killing']
+6:['racist', 'white', 'racism', 'black', 'male']
+7:['heartbreaking', 'sad', 'devastating', 'absolutely', 'tragic', 'man', 'devastated']
+8:['car', 'truck', 'driver', 'bag']
+9:['january', 'news', 'worst', 'bad', 'could', 'new', 'worse', 'month', 'year']
+10:['earthquake', 'earthquakes', 'felt', 'shook']
+
+before data (4 days bf to 1 days bf):
+len of data: 463
+number of topics: 2
+0:[]
+1:['mph', 'weather', 'forecast', 'pm', 'lo', 'hi', 'tonight', 'jan', 'ca', 'humidity']
+
+after data (event to 3 days af):
+len of data: 1072
+number of topics: 3
+0:[]
+1:['mph', 'weather', 'reports', 'gusts', 'humidity', 'sustained', 'winds', 'canyon', 'station', 'wind']
+2:['hi', 'jan', 'lo', 'forecast', 'tonight', 'th', 'ca', 'mostly', 'sunny', 'clear']
+
+
+
+harm_2020-03-11
+all data (4 days bf to 3 days af):
+len of data: 3212
+number of topics: 55
+0:['coronavirus', 'corona', 'virus', 'na']
+1:['flu', 'rate', 'death', 'infected', 'people', 'immune', 'higher']
+2:['cancelled', 'sports', 'canceled', 'canceling', 'cancel', 'coronavirus', 'cancelling']
+3:['chinese', 'china', 'racist', 'virus', 'wuhan', 'calling', 'government']
+4:['grocery', 'food', 'store', 'stores', 'hoarding', 'people', 'groceries']
+5:['racist', 'racism', 'white', 'men', 'black', 'people']
+6:['chance', 'ca', 'lo', 'mar', 'forecast', 'hi', 'th', 'tonight', 'showers', 'rain']
+7:['toilet', 'paper', 'people', 'messy', 'fighting', 'buying', 'hands', 'disinfectant']
+8:['la', 'ghost', 'town', 'lock', 'los', 'city', 'shutting']
+9:['economy', 'market', 'recession', 'stock', 'stocks', 'rates']
+10:['pain', 'life', 'suffering', 'anymore']
+
+before data (4 days bf to 1 days bf):
+len of data: 521
+number of topics: 7
+0:['coronavirus', 'people', 'virus']
+1:[]
+2:['kill', 'horrible']
+3:['murder']
+4:['racist', 'white', 'racism', 'men', 'women']
+5:['daughter', 'girl', 'woods', 'school']
+
+after data (event to 3 days af):
+len of data: 1578
+number of topics: 5
+0:['coronavirus']
+1:['chance', 'lo', 'mar', 'hi', 'forecast', 'th', 'tonight', 'ca', 'showers']
+2:['mph', 'wind', 'mb', 'humidity', 'pressure', 'current', 'weather', 'rain', 'light']
+3:['ca', 'earthquake', 'utc', 'km', 'reports', 'flood', 'ssw', 'automatic']
+
+
+
+harm_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 3412
+number of topics: 2
+0:[]
+1:['ca', 'hi', 'forecast', 'lo', 'sunny', 'may', 'mostly', 'tonight', 'clear', 'th']
+
+before data (4 days bf to 1 days bf):
+len of data: 407
+number of topics: 6
+0:['die']
+1:['trump']
+2:['racist', 'racism']
+3:['mph', 'weather', 'ca', 'sunny', 'gusts', 'canyon', 'station', 'sustained', 'reports', 'winds']
+4:['people', 'cemetery']
+
+after data (event to 3 days af):
+len of data: 1499
+number of topics: 18
+0:['shit', 'world']
+1:['trump', 'twitter']
+2:['covid', 'virus', 'coronavirus']
+3:['black', 'cops', 'people']
+4:['racist', 'racism', 'racists', 'white']
+5:['dog', 'bitch']
+6:['rioting', 'protest', 'people']
+7:['murder', 'murderer', 'murdered']
+8:['floyd', 'george', 'murdered']
+9:['shot', 'car', 'building', 'shit', 'police']
+10:['violence', 'action', 'war']
+
+
+
+harm_2020-07-09
+all data (4 days bf to 3 days af):
+len of data: 2167
+number of topics: 2
+0:[]
+1:['earthquake', 'utc', 'km', 'usgs', 'reports', 'ca', 'nw', 'sw']
+
+before data (4 days bf to 1 days bf):
+len of data: 606
+number of topics: 7
+0:['covid', 'cases']
+1:['fireworks', 'fire', 'like']
+2:['black', 'racist', 'racism']
+3:['die']
+4:['trump']
+5:['man']
+
+after data (event to 3 days af):
+len of data: 808
+number of topics: 13
+0:['racist', 'white']
+1:['covid', 'coronavirus']
+2:['trump', 'americans', 'america']
+3:['hurts', 'kill', 'people']
+4:['businesses', 'california', 'closing']
+5:['today', 'dancehall', 'life']
+6:['damage', 'fight', 'got', 'ufc', 'ta']
+7:['naya', 'lake', 'rivera', 'missing', 'found', 'glee']
+8:['children', 'school', 'schools', 'kids', 'teachers', 'cdc', 'reopen']
+9:['scary', 'shit', 'today', 'dead', 'man']
+10:['karen', 'stuff', 'shit', 'giselle', 'like']
+
+
+
+fairness_2020-01-20
+all data (4 days bf to 3 days af):
+len of data: 264
+number of topics: 5
+0:['justice']
+1:['truth', 'deserve', 'matters']
+2:['king', 'equality', 'mlk']
+3:['rights', 'amendment', 'us', 'human']
+
+before data (4 days bf to 1 days bf):
+len of data: 60
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 128
+number of topics: 4
+0:['rights']
+1:['truth', 'matters', 'pls', 'deserve']
+2:['justice', 'trial']
+
+
+
+fairness_2020-03-02
+all data (4 days bf to 3 days af):
+len of data: 278
+number of topics: 6
+0:['justice']
+1:['women', 'day', 'womens', 'international', 'equality']
+2:['life', 'always', 'want', 'true', 'pls', 'everyone']
+3:['truth', 'accurate', 'grab', 'bright', 'choice', 'cuz', 'detail', 'agreement']
+4:['lgbtq', 'gay', 'subscription', 'tokens', 'none']
+
+before data (4 days bf to 1 days bf):
+len of data: 61
+number of topics: 3
+0:['free']
+1:['pls', 'game', 'want', 'truth', 'budden']
+
+after data (event to 3 days af):
+len of data: 132
+number of topics: 4
+0:['justice']
+1:['vote', 'ca', 'today']
+2:['women', 'rights', 'woman', 'gay']
+
+
+
+fairness_2020-05-05
+all data (4 days bf to 3 days af):
+len of data: 332
+number of topics: 2
+0:['justice']
+1:['issues', 'provided', 'paadr', 'constitutes', 'scientific', 'ecological', 'ethical', 'moral', 'copyright']
+
+before data (4 days bf to 1 days bf):
+len of data: 85
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 164
+number of topics: 2
+0:['justice']
+1:['material', 'copyright', 'section', 'fair', 'use', 'ecological', 'constitutes']
+
+
+
+fairness_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 693
+number of topics: 2
+0:['justice']
+1:['sign', 'via', 'petition', 'mayor', 'frey', 'jacob', 'floyd', 'george', 'justice']
+
+before data (4 days bf to 1 days bf):
+len of data: 53
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 353
+number of topics: 3
+0:['justice']
+1:['sign', 'via', 'petition', 'frey', 'jacob', 'mayor', 'george', 'floyd', 'justice']
+2:['jacob', 'frey', 'mayor', 'via', 'sign', 'petition', 'george', 'floyd', 'justice']
+
+
+
+fairness_2020-06-21
+all data (4 days bf to 3 days af):
+len of data: 450
+number of topics: 2
+0:['justice']
+1:['via', 'petition', 'elijah', 'mcclain', 'sign', 'district', 'county', 'adams', 'attorney', 'justice']
+
+before data (4 days bf to 1 days bf):
+len of data: 143
+number of topics: 2
+0:[]
+1:['breonna', 'taylor', 'justice', 'attorney', 'general', 'cameron', 'tagging']
+
+after data (event to 3 days af):
+len of data: 187
+number of topics: 2
+0:['justice']
+1:['mcclain', 'district', 'elijah', 'petition', 'via', 'county', 'sign', 'attorney', 'adams']
+
+
+
+cheating_2020-05-07
+all data (4 days bf to 3 days af):
+len of data: 879
+number of topics: 19
+0:['lie', 'lying', 'lied']
+1:['racist', 'racism', 'white', 'black', 'people']
+2:['cheat', 'cheated', 'cheating', 'cheaters', 'men']
+3:['money', 'pay', 'people']
+4:['fbi', 'flynn', 'barr']
+5:['arrested', 'police', 'arrest', 'black']
+6:['assault']
+7:['election', 'vote', 'ballot', 'fraud', 'voter', 'mail']
+8:['scam', 'fraud', 'account', 'phone']
+9:['virus', 'china', 'covid', 'coronavirus', 'hoax']
+10:['trump', 'lies', 'die']
+
+before data (4 days bf to 1 days bf):
+len of data: 193
+number of topics: 5
+0:['lie', 'lying']
+1:['fraud']
+2:['racist', 'youre', 'think', 'racism']
+3:['hoax', 'virus', 'china', 'us', 'trump']
+
+after data (event to 3 days af):
+len of data: 384
+number of topics: 2
+0:[]
+1:['cheated', 'cheating', 'cheat', 'sorry']
+
+
+
+cheating_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 1425
+number of topics: 28
+0:['racist', 'racism', 'racists']
+1:['looting', 'people', 'looted']
+2:['lie', 'lying', 'lied', 'like']
+3:['fraud', 'ballots', 'voting', 'mail', 'voter', 'vote', 'mailin', 'ballot']
+4:['trump', 'lies', 'liar', 'truth', 'pathological', 'lie']
+5:['fraud', 'scam', 'account', 'hacked', 'accounts', 'credit']
+6:['fake', 'news', 'media', 'facebook', 'liars', 'information']
+7:['people', 'protest', 'riots', 'protests', 'black']
+8:['arrested', 'white', 'police', 'man', 'reporter']
+9:['cops', 'cop', 'police', 'fuck', 'problem', 'bad', 'fucking', 'racist']
+10:['covid', 'virus', 'pandemic', 'coronavirus']
+
+before data (4 days bf to 1 days bf):
+len of data: 162
+number of topics: 4
+0:[]
+1:['racist', 'biden', 'racism', 'trump']
+2:['lie', 'lying', 'time']
+
+after data (event to 3 days af):
+len of data: 686
+number of topics: 16
+0:['racist', 'racism', 'white', 'racists']
+1:['arrested', 'man', 'police', 'white', 'black']
+2:['trump', 'lies', 'pathological', 'president', 'lying']
+3:['george', 'murder', 'floyd', 'officer', 'charged', 'chauvin', 'degree', 'justice']
+4:['lie', 'lied', 'lying', 'tell']
+5:['police', 'cops', 'fuck', 'cop', 'racist', 'good']
+6:['ballots', 'fraud', 'voting', 'mailin', 'voter', 'trump', 'ballot', 'mail', 'absentee', 'cheat']
+7:['black', 'injustices', 'injustice', 'oppression']
+8:['people', 'riots', 'protest', 'la', 'rioting']
+9:['looting', 'starts', 'looted']
+10:['fake', 'news', 'espn', 'public', 'ending']
+
+
+
+loyalty_2020-01-17
+all data (4 days bf to 3 days af):
+len of data: 1042
+number of topics: 2
+0:[]
+1:['squawk', 'altitude', 'ba', 'kts', 'groundspeed', 'ft', 'division', 'course', 'lapd', 'air']
+
+before data (4 days bf to 1 days bf):
+len of data: 287
+number of topics: 8
+0:['together']
+1:['year', 'always']
+2:['game', 'deserve', 'team', 'go', 'fan']
+3:['trump']
+4:['help', 'uniteforchange', 'mentalhealth']
+5:['girls', 'woman', 'finest', 'wrong', 'hero']
+6:['lupus', 'kelly']
+
+after data (event to 3 days af):
+len of data: 429
+number of topics: 3
+0:[]
+1:['team', 'still']
+
+
+
+loyalty_2020-05-29
+all data (4 days bf to 3 days af):
+len of data: 1844
+number of topics: 31
+0:['peaceful', 'protest', 'protesters', 'beach']
+1:['memorial', 'day', 'served', 'memorialday', 'country']
+2:['black', 'lives', 'matter', 'people']
+3:['donate', 'bail', 'donating', 'fund', 'funds', 'help']
+4:['better', 'need']
+5:['california', 'los', 'angeles', 'la', 'support', 'city', 'community']
+6:['biden', 'leadership', 'president', 'together', 'fools']
+7:['together', 'struggle', 'life', 'us', 'get']
+8:['stand', 'standing', 'hong', 'kong', 'americans']
+9:['unite', 'us', 'fighting', 'world']
+10:['support', 'fuck', 'trying', 'supportive', 'ass', 'showing', 'want']
+
+before data (4 days bf to 1 days bf):
+len of data: 270
+number of topics: 4
+0:['together']
+1:['day']
+2:['racism', 'stop']
+
+after data (event to 3 days af):
+len of data: 1026
+number of topics: 23
+0:['peaceful', 'protest', 'beach', 'protesters', 'long']
+1:['black', 'lives', 'matter', 'people', 'color']
+2:['enough', 'better', 'closer', 'going']
+3:['proud', 'pride', 'month', 'happy', 'team', 'wish']
+4:['angeles', 'los', 'california', 'la', 'monica', 'santa', 'wilshire', 'retail', 'lincoln', 'downtown']
+5:['unite', 'divided', 'together', 'us']
+6:['floyd', 'george', 'justice', 'minneapolis', 'name']
+7:['vote', 'president', 'need', 'country']
+8:['donate', 'bail', 'fund', 'funds', 'protestors', 'link']
+9:['together', 'connected', 'struggle', 'yet', 'love', 'life']
+10:['police', 'cops', 'cop', 'us', 'brutality']
+
+
+
+betrayal_2020-01-20
+all data (4 days bf to 3 days af):
+len of data: 423
+number of topics: 2
+0:[]
+1:['politician', 'replying', 'minitrump', 'another']
+
+before data (4 days bf to 1 days bf):
+len of data: 72
+number of topics: 3
+0:['trump']
+1:['alone', 'like']
+
+after data (event to 3 days af):
+len of data: 217
+number of topics: 4
+0:['senate']
+1:['reason', 'work', 'like']
+2:['treason', 'united', 'traitor', 'states']
+
+
+
+betrayal_2020-03-14
+all data (4 days bf to 3 days af):
+len of data: 422
+number of topics: 6
+0:['president']
+1:['friends', 'people']
+2:['government', 'coronavirus']
+3:['bailout', 'bailouts', 'government']
+4:['people', 'stores']
+
+before data (4 days bf to 1 days bf):
+len of data: 92
+number of topics: 3
+0:[]
+1:['people', 'like', 'friends']
+
+after data (event to 3 days af):
+len of data: 170
+number of topics: 5
+0:['really', 'people']
+1:['president']
+2:['bailout', 'government']
+3:['people', 'corona', 'virus']
+
+
+
+betrayal_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 940
+number of topics: 12
+0:['looting', 'looted', 'people']
+1:['president', 'trump']
+2:['cops', 'police', 'cop']
+3:['riots', 'riot', 'people']
+4:['looting', 'santa', 'monica', 'protest']
+5:['family', 'traitor', 'alone', 'loyal']
+6:['black', 'matter', 'lives', 'people']
+7:['mask', 'wearing', 'wear', 'masks', 'people', 'karen']
+8:['minneapolis', 'mayor', 'police', 'station', 'cops']
+9:['protestors', 'covering', 'sector']
+10:['protesters', 'white', 'people', 'rifles', 'groups', 'assault', 'gas', 'tear']
+
+before data (4 days bf to 1 days bf):
+len of data: 71
+number of topics: 3
+0:['president']
+1:['wearing']
+
+after data (event to 3 days af):
+len of data: 369
+number of topics: 7
+0:['looting', 'starts']
+1:['people', 'black', 'white', 'riots']
+2:['cops', 'police']
+3:['president', 'leader']
+4:['fox', 'news', 'stand']
+5:['minneapolis', 'floyd', 'police', 'burning', 'justice', 'memory']
+
+
+
+betrayal_2020-06-27
+all data (4 days bf to 3 days af):
+len of data: 541
+number of topics: 11
+0:['police', 'people']
+1:['people', 'really']
+2:['traitor', 'trump']
+3:['mask', 'masks', 'wearing', 'wear', 'people']
+4:['putin', 'russia', 'traitor', 'trump', 'tre', 'soldiers']
+5:['treason', 'msm', 'ban', 'treasonous', 'lawlessness']
+6:['democrats', 'republicans', 'hate']
+7:['breonna', 'taylor', 'arrest', 'cops', 'murdered', 'justice', 'killed']
+8:['covid', 'leaders']
+9:['traitors', 'statues', 'confederate', 'war', 'civil', 'like', 'confederates', 'monuments']
+
+before data (4 days bf to 1 days bf):
+len of data: 127
+number of topics: 4
+0:['trump']
+1:['masks', 'wear']
+2:['breonna', 'cops', 'arrest', 'taylor', 'justice']
+
+after data (event to 3 days af):
+len of data: 276
+number of topics: 8
+0:['mask', 'wearing', 'people', 'masks', 'wear']
+1:['trump', 'traitor', 'youre', 'must']
+2:['police', 'people', 'cops']
+3:['putin', 'traitor', 'russia', 'trump', 'tre', 'soldiers']
+4:['treason', 'ban', 'msm', 'etc', 'day', 'treasonous']
+5:['biden', 'president', 'health']
+6:['democrats', 'america', 'many', 'hate', 'capitalism']
+
+
+
+authority_2020-02-04
+all data (4 days bf to 3 days af):
+len of data: 575
+number of topics: 15
+0:['respect', 'sir', 'good']
+1:['vote', 'party', 'iowa', 'bernie', 'dems']
+2:['senator', 'senate', 'witnesses']
+3:['president', 'obama', 'thank', 'sotu', 'years', 'trump']
+4:['hero', 'vindman', 'superhero', 'films', 'westerns', 'american']
+5:['leadership', 'sausd', 'proud', 'leaders', 'team', 'conference', 'leader']
+6:['state', 'union', 'government', 'head', 'different']
+7:['chiefs', 'win', 'go', 'washington', 'mvp', 'got', 'hope']
+8:['pelosi', 'knows', 'told']
+9:['romney', 'mitt', 'thank', 'constitution', 'senator', 'courage']
+10:['thank', 'money', 'wasting', 'sol', 'served', 'fuck']
+
+before data (4 days bf to 1 days bf):
+len of data: 139
+number of topics: 3
+0:['vote']
+1:['respect', 'proud']
+
+after data (event to 3 days af):
+len of data: 274
+number of topics: 4
+0:['president']
+1:['sir', 'respect', 'go', 'say']
+2:['security', 'navy', 'officer', 'money']
+
+
+
+authority_2020-03-06
+all data (4 days bf to 3 days af):
+len of data: 614
+number of topics: 12
+0:['security']
+1:['women']
+2:['vote', 'voting', 'voted', 'line', 'tuesday', 'super']
+3:['thank', 'leader']
+4:['sir', 'appreciate', 'respect', 'well', 'good', 'people']
+5:['president', 'obama', 'trump', 'mr']
+6:['listen', 'listening', 'atake', 'vent', 'eternal']
+7:['biden', 'joe', 'president', 'mentum', 'know']
+8:['pete', 'mayor', 'city', 'conflict']
+9:['republicans', 'republican', 'desk', 'model']
+10:['bernie', 'hes', 'sanders', 'like', 'options', 'progressive']
+
+before data (4 days bf to 1 days bf):
+len of data: 197
+number of topics: 4
+0:[]
+1:['biden']
+2:['vote', 'voting', 'line', 'voted']
+
+after data (event to 3 days af):
+len of data: 186
+number of topics: 3
+0:[]
+1:['thank']
+
+
+
+authority_2020-05-29
+all data (4 days bf to 3 days af):
+len of data: 892
+number of topics: 17
+0:['president', 'obama']
+1:['leader', 'leadership', 'leaders', 'need']
+2:['police', 'cops', 'law']
+3:['protestors', 'peaceful', 'protesting']
+4:['governor', 'coronavirus', 'cuomo', 'covid']
+5:['service', 'thank', 'salute', 'honor', 'sacrifice']
+6:['mayor', 'garcetti', 'message']
+7:['black', 'matter', 'lives', 'respect', 'folks', 'african']
+8:['respect', 'props', 'man', 'right', 'earned', 'always']
+9:['listen', 'trying', 'im', 'listening', 'quiet', 'please', 'hope']
+10:['guard', 'national', 'military', 'us', 'went']
+
+before data (4 days bf to 1 days bf):
+len of data: 122
+number of topics: 3
+0:[]
+1:['thank']
+
+after data (event to 3 days af):
+len of data: 472
+number of topics: 10
+0:['police']
+1:['leadership', 'leader', 'need']
+2:['president', 'obama', 'trump']
+3:['mayor', 'scott', 'message', 'los', 'governor']
+4:['respect', 'much', 'hand']
+5:['joe', 'biden', 'president', 'man', 'vote']
+6:['vote', 'local', 'democratic', 'voting', 'democracy', 'november']
+7:['listen', 'please', 'im', 'listening', 'america', 'educating', 'shift', 'thisnow']
+8:['black', 'lives', 'parents', 'matter', 'saying', 'folks', 'taught']
+
+
+
+subversion_2020-01-21
+all data (4 days bf to 3 days af):
+len of data: 695
+number of topics: 3
+0:[]
+1:['ukraine', 'russia', 'aid', 'pressure', 'putin']
+
+before data (4 days bf to 1 days bf):
+len of data: 136
+number of topics: 3
+0:[]
+1:[]
+
+after data (event to 3 days af):
+len of data: 339
+number of topics: 3
+0:[]
+1:[]
+
+
+
+subversion_2020-01-31
+all data (4 days bf to 3 days af):
+len of data: 989
+number of topics: 21
+0:['impeachment', 'senate', 'trial']
+1:['healthcare']
+2:['la', 'mayor', 'city', 'move']
+3:['iowa', 'caucus', 'caucuses', 'app', 'bernie', 'disaster']
+4:['dems', 'democrats', 'election']
+5:['disrespectful', 'disrespect', 'neither', 'impossible', 'completely']
+6:['month', 'work', 'late', 'january', 'taking', 'wtf']
+7:['romney', 'mitt', 'mentally', 'man', 'republican', 'president']
+8:['president', 'trump', 'hate']
+9:['pelosi', 'think', 'speech', 'house']
+10:['bolton', 'ukraine', 'trump', 'aid', 'withheld', 'investigation', 'senate']
+
+before data (4 days bf to 1 days bf):
+len of data: 207
+number of topics: 6
+0:['impeachment', 'senate', 'trump', 'bolton']
+1:['la', 'people', 'fuck', 'soon']
+2:['vote']
+3:['president', 'constitution', 'obama']
+4:['cancel', 'sign', 'petition', 'tmz', 'kobes', 'family', 'fox', 'via']
+
+after data (event to 3 days af):
+len of data: 445
+number of topics: 10
+0:['senate', 'impeachment', 'trial']
+1:['bowl', 'super', 'disrespect', 'anthem']
+2:['trump', 'dems', 'republicans']
+3:['iowa', 'caucus', 'caucuses', 'bernie']
+4:['vote', 'blue', 'ballot', 'america']
+5:['back', 'time', 'home']
+6:['trump', 'spending', 'budget']
+7:['democracy', 'ha', 'got']
+8:['couple', 'sir', 'months', 'plan', 'failed', 'dont', 'know', 'normal']
+
+
+
+subversion_2020-03-03
+all data (4 days bf to 3 days af):
+len of data: 918
+number of topics: 18
+0:['vote', 'california', 'voting', 'tuesday']
+1:['bernie', 'warren']
+2:['coronavirus', 'trump', 'cdc']
+3:['biden', 'joe', 'vote', 'would']
+4:['cancel', 'canceling', 'canceled', 'la', 'cancelled']
+5:['news', 'politics', 'media', 'overlaps', 'baseball']
+6:['congress', 'republicans', 'schumer', 'authoritarian', 'trump', 'constitution']
+7:['healthcare', 'obamacare', 'medicare', 'government', 'insurance']
+8:['bloomberg', 'spent', 'million', 'every', 'math']
+9:['sleep', 'room', 'door', 'house', 'trynna', 'rob']
+10:['obama', 'blaming', 'trump', 'president', 'fault', 'unemployment', 'better', 'reduced']
+
+before data (4 days bf to 1 days bf):
+len of data: 208
+number of topics: 3
+0:[]
+1:[]
+
+after data (event to 3 days af):
+len of data: 478
+number of topics: 11
+0:['vote', 'california', 'voting']
+1:['sleep', 'rise']
+2:['warren']
+3:['congress']
+4:['biden', 'joe', 'would']
+5:['coronavirus', 'cdc', 'us']
+6:['la', 'cancelled', 'canceling', 'cancel']
+7:['obama', 'president', 'trump', 'taxpayers']
+8:['healthcare', 'want', 'policies', 'medicare', 'economy']
+9:['bloomberg', 'million', 'spent', 'math']
+
+
+
+subversion_2020-05-11
+all data (4 days bf to 3 days af):
+len of data: 838
+number of topics: 13
+0:['obama', 'president', 'trump']
+1:['vote']
+2:['cancel', 'rent', 'canceling', 'time', 'landlords']
+3:['pandemic', 'virus', 'covid', 'coronavirus', 'administration', 'cdc']
+4:['bill', 'money']
+5:['police', 'cops', 'arrest', 'state']
+6:['news', 'fake', 'press', 'media']
+7:['california', 'governor', 'politicians', 'elon', 'musk', 'tesla']
+8:['school', 'shes', 'hillary']
+9:['stores', 'quarantine']
+10:['rules', 'rule', 'hard', 'never', 'writers', 'struggling', 'apply', 'hitting']
+
+before data (4 days bf to 1 days bf):
+len of data: 190
+number of topics: 5
+0:['president']
+1:['vote']
+2:['cdc']
+3:['cancel', 'trying', 'going']
+
+after data (event to 3 days af):
+len of data: 389
+number of topics: 7
+0:['obama', 'trump', 'president']
+1:['cancel']
+2:['pandemic', 'virus', 'administration', 'testing', 'cdc']
+3:['health', 'care', 'bill', 'tax']
+4:['state', 'police']
+5:['dems', 'biden', 'work']
+
+
+
+subversion_2020-05-28
+all data (4 days bf to 3 days af):
+len of data: 1575
+number of topics: 30
+0:['police', 'fuck', 'cops', 'law', 'reform']
+1:['obama', 'trump', 'gate', 'president']
+2:['resign', 'trump', 'office', 'fascist', 'president']
+3:['looting', 'understand', 'stores']
+4:['disrespect', 'listen', 'fault', 'disrespectful', 'stars']
+5:['military', 'protesters', 'trump', 'peaceful', 'threatened', 'american']
+6:['protesting', 'protest', 'protests', 'people']
+7:['president', 'leadership', 'leader', 'united', 'worse']
+8:['vote', 'voting', 'mail', 'voted', 'november']
+9:['riots', 'riot', 'peaceful', 'rioting', 'stop', 'change', 'protest']
+10:['curfew', 'pm', 'curfews', 'county', 'city', 'alert']
+
+before data (4 days bf to 1 days bf):
+len of data: 177
+number of topics: 3
+0:['vote']
+1:['president']
+
+after data (event to 3 days af):
+len of data: 872
+number of topics: 11
+0:['trump', 'president']
+1:['pm', 'curfew', 'la', 'santa']
+2:['police', 'cops', 'fuck']
+3:['mayor', 'budget', 'minneapolis', 'city', 'police', 'national']
+4:['protesting', 'protest', 'protests']
+5:['looting', 'understand']
+6:['riots', 'riot', 'change']
+7:['military', 'protesters', 'deploy', 'president', 'force', 'use']
+8:['disrespect', 'wrong', 'itachi', 'feast', 'sneaker', 'overdue']
+9:['anarchy', 'cause', 'im', 'tweet']
+
+
+
+purity_2020-01-19
+all data (4 days bf to 3 days af):
+len of data: 459
+number of topics: 4
+0:[]
+1:['lapd', 'division', 'air', 'support', 'altitude', 'kts', 'groundspeed', 'ft', 'course', 'squawk']
+2:['pf', 'lapd', 'division', 'support', 'air', 'kts', 'groundspeed', 'ft', 'altitude', 'course']
+
+before data (4 days bf to 1 days bf):
+len of data: 115
+number of topics: 2
+0:['god']
+1:['groundspeed', 'altitude', 'kts', 'ft', 'course', 'division', 'lapd', 'air', 'support', 'squawk']
+
+after data (event to 3 days af):
+len of data: 209
+number of topics: 2
+0:[]
+1:['kts', 'groundspeed', 'ft', 'altitude', 'course', 'lapd', 'air', 'division', 'support', 'squawk']
+
+
+
+purity_2020-04-05
+all data (4 days bf to 3 days af):
+len of data: 481
+number of topics: 8
+0:['sunday', 'church', 'palm']
+1:['prayers', 'always', 'pray', 'daughter', 'answered', 'youre', 'god']
+2:['heart']
+3:['jesus', 'word']
+4:['covid', 'coronavirus', 'god']
+5:['god', 'light']
+6:['blessed', 'blessings', 'lotus', 'happiness', 'bigger', 'gods', 'time']
+
+before data (4 days bf to 1 days bf):
+len of data: 95
+number of topics: 3
+0:['always', 'youre', 'prayers', 'answered', 'god', 'pray', 'sad']
+1:['whatever']
+
+after data (event to 3 days af):
+len of data: 206
+number of topics: 3
+0:['god']
+1:[]
+
+
+
+purity_2020-05-26
+all data (4 days bf to 3 days af):
+len of data: 535
+number of topics: 5
+0:['god']
+1:['memorial', 'day', 'honor']
+2:['california', 'la', 'city', 'angeles', 'los']
+3:['black', 'lives', 'matter']
+
+before data (4 days bf to 1 days bf):
+len of data: 106
+number of topics: 3
+0:['god']
+1:['memorial', 'day']
+
+after data (event to 3 days af):
+len of data: 184
+number of topics: 6
+0:['black']
+1:['god', 'lord']
+2:['christians']
+3:['blessed', 'california', 'hot', 'beverly', 'quote', 'hills', 'jeffreybyron', 'chromatica', 'ready']
+4:['memorial', 'day', 'remember', 'lives']
+
+
+
+degradation_2020-01-26
+all data (4 days bf to 3 days af):
+len of data: 141
+number of topics: 4
+0:['disgusting', 'sick']
+1:['disgusting']
+2:['transphobic', 'homophobia']
+
+before data (4 days bf to 1 days bf):
+len of data: 32
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 64
+number of topics: 3
+0:['disgusting', 'like']
+1:['media', 'disgusting']
+
+
+
+degradation_2020-04-09
+all data (4 days bf to 3 days af):
+len of data: 115
+number of topics: 3
+0:['nightmare', 'disgusting']
+1:['trump', 'american', 'people']
+
+before data (4 days bf to 1 days bf):
+len of data: 36
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 39
+number of topics: 1
+
+
+
+degradation_2020-05-25
+all data (4 days bf to 3 days af):
+len of data: 191
+number of topics: 5
+0:['disgusting']
+1:['trump', 'disgusting']
+2:['cops', 'police', 'fucking', 'disgusting']
+3:['white', 'racist', 'disgusting']
+
+before data (4 days bf to 1 days bf):
+len of data: 26
+number of topics: 1
+
+after data (event to 3 days af):
+len of data: 89
+number of topics: 3
+0:['disgusting', 'like', 'animals']
+1:['trump', 'disgusting']
+
+
+
