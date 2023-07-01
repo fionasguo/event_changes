@@ -4,6 +4,9 @@ SpanEmo*
 *.pdf.icloud
 *.pptx
 *.png
+*.jpg
+*ipynb_checkpoints*
+*__pycache__*
 *ipynb_checkpoints*
 *covid_topic_models/*
 CIA_*
