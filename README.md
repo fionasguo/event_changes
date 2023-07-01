@@ -2,7 +2,8 @@
 
 A method to detect, measure and explain collective emotional and moral reactions on social media in response to offline events. Here is a flow chart of our pipeline.
 
-<img width="801" alt="fig_flowchart" src="https://github.com/fionasguo/emotional_reaction/assets/44278097/c0cc0c57-3119-4d2e-a917-62e8aab7fc9a">
+<img width="801" alt="fig_flowchart" src="https://github.com/fionasguo/event_changes/assets/44278097/e643c26a-8b3e-4353-b146-67a47e3b9f0b">
+
 
 ## Data
 Timestamped texts, e.g. tweets
